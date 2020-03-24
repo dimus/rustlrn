@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:58.54874301-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 173,
+    "total_candidates": 42,
+    "total_names": 8
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Rana ocellata.",
+      "name": "Rana ocellata",
+      "odds": 10776462408.187517,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 361,
+      "end": 375,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232473",
+          "matchedName": "Rana ocellata Linnaeus 1758",
+          "matchedCanonical": "Rana ocellata",
+          "currentName": "Rana ocellata Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Rana maxima virginiana,",
+      "name": "Rana maxima virginiana",
+      "odds": 30472498389.155098,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spEnd3": {
+            "ima": 100.10871534698315
+          },
+          "ispEnd3": {
+            "ana": 160.17394455517302
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 392,
+      "end": 415,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1098364",
+          "matchedName": "Rana maxima Laurenti, 1768",
+          "matchedCanonical": "Rana maxima",
+          "currentName": "Boana boans (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Anura|Hylidae|Cophomantinae|Boana|Boana boans",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173423|173497|1094198|1094716|1098363",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Seba.",
+      "name": "Seba",
+      "odds": 896.7199562933679,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eba": 7.508153651023735
+          }
+        }
+      },
+      "start": 416,
+      "end": 421,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018931",
+          "matchedName": "Seba",
+          "matchedCanonical": "Seba",
+          "currentName": "Seba",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Amphipoda|Amphilochoidea|Sebidae|Seba",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767763|54769479|54769514|54782836|55018931",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana pentadactyla,",
+      "name": "Rana pentadactyla",
+      "odds": 421955084.4183501,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "yla": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          }
+        }
+      },
+      "start": 426,
+      "end": 444,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162711",
+          "matchedName": "Rana pentadactyla Laurenti, 1768",
+          "matchedCanonical": "Rana pentadactyla",
+          "currentName": "Leptodactylus pentadactylus (Laurenti, 1768)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Leptodactylidae|Leptodactylus|Leptodactylus pentadactylus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771381|54919743|7160112",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana ocellata.",
+      "name": "Rana ocellata",
+      "odds": 10776462408.187517,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 461,
+      "end": 475,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232473",
+          "matchedName": "Rana ocellata Linnaeus 1758",
+          "matchedCanonical": "Rana ocellata",
+          "currentName": "Rana ocellata Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana grunniens",
+      "name": "Rana grunniens",
+      "odds": 530054313.67948335,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 643,
+      "end": 657,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1094973",
+          "matchedName": "Rana grunniens Latreille in Sonnini de Manoncourt and Latreille, 1801",
+          "matchedCanonical": "Rana grunniens",
+          "currentName": "Limnonectes grunniens (Latreille in Sonnini de Manoncourt and Latreille, 1801)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Anura|Dicroglossidae|Dicroglossinae|Limnonectes|Limnonectes grunniens",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173423|773183|773207|661528|665025",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana melanota.",
+      "name": "Rana melanota",
+      "odds": 156180614.6114133,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ota": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 1006,
+      "end": 1020,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "127757383",
+          "matchedName": "Rana melanota",
+          "matchedCanonical": "Rana melanota",
+          "currentName": "Rana melanota",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana melanota,",
+      "name": "Rana melanota",
+      "odds": 156180614.6114133,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ota": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          }
+        }
+      },
+      "start": 1027,
+      "end": 1041,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "127757383",
+          "matchedName": "Rana melanota",
+          "matchedCanonical": "Rana melanota",
+          "currentName": "Rana melanota",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    }
+  ]
+}

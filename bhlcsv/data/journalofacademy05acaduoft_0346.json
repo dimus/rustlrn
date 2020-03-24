@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:51.342139541-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 231,
+    "total_candidates": 38,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Menobranchus tetradactylus.",
+      "name": "Menobranchus tetradactylus",
+      "odds": 7350304390787.105,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 35,
+      "end": 62,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1038043",
+          "matchedName": "Menobranchus Harlan, 1825",
+          "matchedCanonical": "Menobranchus",
+          "currentName": "Menobranchus Harlan, 1825",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Amphibia|Caudata|Proteidae|Menobranchus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1131|12453|103656|1038043",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Siren pisci- \r\r\n formis",
+      "name": "Siren pisciformis",
+      "odds": 546282.1392774241,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ren": 2.5027178836745785
+          },
+          "spEnd3": {
+            "mis": 120.13045841637977
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 493,
+      "end": 516,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1102425",
+          "matchedName": "Siren pisciformis Shaw, 1802",
+          "matchedCanonical": "Siren pisciformis",
+          "currentName": "Ambystoma mexicanum (Shaw and Nodder, 1798)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Caudata|Ambystomatidae|Ambystoma|Ambystoma mexicanum",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173584|173588|173589|586244",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Menobranchus lateralis",
+      "name": "Menobranchus lateralis",
+      "odds": 4856513600077.057,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 869,
+      "end": 891,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1099683",
+          "matchedName": "Menobranchus lateralis (James, 1822)",
+          "matchedCanonical": "Menobranchus lateralis",
+          "currentName": "Necturus maculosus (Rafinesque, 1818)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Caudata|Proteidae|Necturus|Necturus maculosus",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173584|1094180|173624|173630",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salamandra.",
+      "name": "Salamandra",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1008,
+      "end": 1019,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

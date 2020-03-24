@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:42.029849406-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 149,
+    "total_candidates": 24,
+    "total_names": 11
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Scaphisoma convexa,",
+      "name": "Scaphisoma convexa",
+      "odds": 58319443489.85539,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spEnd3": {
+            "exa": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 23,
+      "end": 42,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "53358924",
+          "matchedName": "Scaphisoma convexa Say, 1825",
+          "matchedCanonical": "Scaphisoma convexa",
+          "currentName": "Scaphisoma convexum Say, 1825",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Staphylinidae|Scaphisoma|Scaphisoma convexum",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769842|54769849|55015789|53303882",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scalaria,",
+      "name": "Scalaria",
+      "odds": 47196.664853144175,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 96,
+      "end": 105,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:206042",
+          "matchedName": "Scalaria Lamarck, 1801",
+          "matchedCanonical": "Scalaria",
+          "currentName": "Epitonium Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Epitonioidea|Epitoniidae|Epitonium",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14781|urn:lsid:marinespecies.org:taxname:132|urn:lsid:marinespecies.org:taxname:137943",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scolopax,",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 221,
+      "end": 230,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sphoeridium,",
+      "name": "Sphoeridium",
+      "odds": 12200.956627076746,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 1027,
+      "end": 1039,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Spatangus,",
+      "name": "Spatangus",
+      "odds": 380954.28434765403,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1118,
+      "end": 1128,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55025007",
+          "matchedName": "Spatangus",
+          "matchedCanonical": "Spatangus",
+          "currentName": "Spatangus",
+          "classificationPath": "Animalia|Echinodermata|Echinoidea|Spatangoida|Spatangoidea|Spatangidae|Spatangus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767878|54769473|54769639|54769640|54783161|55025007",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Squatarola,",
+      "name": "Squatarola",
+      "odds": 701622.8940732515,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ola": 125.13589418372894
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1158,
+      "end": 1169,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1336834",
+          "matchedName": "Squatarola Cuvier, 1816",
+          "matchedCanonical": "Squatarola",
+          "currentName": "Pluvialis Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Charadriidae|Pluvialis",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|104626|1042911",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Streptanthus,",
+      "name": "Streptanthus",
+      "odds": 220621.77259396494,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1214,
+      "end": 1227,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55031987",
+          "matchedName": "Streptanthus",
+          "matchedCanonical": "Streptanthus",
+          "currentName": "Streptanthus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Streptanthus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|55031987",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Stenocorus,",
+      "name": "Stenocorus",
+      "odds": 392908.82068102085,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 1259,
+      "end": 1270,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55029552",
+          "matchedName": "Stenocorus",
+          "matchedCanonical": "Stenocorus",
+          "currentName": "Stenocorus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Cerambycidae|Stenocorus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767855|54767856|55029552",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Strepsilas,",
+      "name": "Strepsilas",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "las": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1335,
+      "end": 1346,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1326524",
+          "matchedName": "Strepsilas Illiger, 1811",
+          "matchedCanonical": "Strepsilas",
+          "currentName": "Arenaria Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Arenaria",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1294681",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sylvia,",
+      "name": "Sylvia",
+      "odds": 5758.298256067733,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "via": 7.786233415876468
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1356,
+      "end": 1363,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55034440",
+          "matchedName": "Sylvia",
+          "matchedCanonical": "Sylvia",
+          "currentName": "Sylvia",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Sylviidae|Sylvia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54768182|54768196|55034440",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synchita,",
+      "name": "Synchita",
+      "odds": 51487.270748884555,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ita": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1392,
+      "end": 1401,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55034991",
+          "matchedName": "Synchita",
+          "matchedCanonical": "Synchita",
+          "currentName": "Synchita",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Zopheridae|Synchita",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54776891|55034991",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

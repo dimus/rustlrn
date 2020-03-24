@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:44.257480739-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 203,
+    "total_candidates": 32,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Elanus melanopterus",
+      "name": "Elanus melanopterus",
+      "odds": 2372914450171.0767,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 55,
+      "end": 74,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 169,
+          "dataSourceTitle": "uBio NameBank",
+          "taxonId": "93962693",
+          "matchedName": "Elanus melanopterus",
+          "matchedCanonical": "Elanus melanopterus",
+          "currentName": "Elanus melanopterus",
+          "classificationPath": "|Elanus melanopterus",
+          "classificationRank": "kingdom|",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "MiLVUS",
+      "name": "Milvus",
+      "odds": 5552.644746922456,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "vus": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 408,
+      "end": 414,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54940806",
+          "matchedName": "Milvus",
+          "matchedCanonical": "Milvus",
+          "currentName": "Milvus",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Milvus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54774590|54774594|54940806",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Elanus,",
+      "name": "Elanus",
+      "odds": 111052.89493844911,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 470,
+      "end": 477,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54866915",
+          "matchedName": "Elanus",
+          "matchedCanonical": "Elanus",
+          "currentName": "Elanus",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Elanus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54774590|54774594|54866915",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Elanoides)",
+      "name": "Elanoides",
+      "odds": 83516.90079929339,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "des": 21.94691067222323
+          }
+        }
+      },
+      "start": 540,
+      "end": 550,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54866913",
+          "matchedName": "Elanoides",
+          "matchedCanonical": "Elanoides",
+          "currentName": "Elanoides",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Elanoides",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54774590|54774594|54866913",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "F. furcatus,",
+      "name": "F. furcatus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 807,
+      "end": 819,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sylvia.",
+      "name": "Sylvia",
+      "odds": 5758.298256067733,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "via": 7.786233415876468
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 1123,
+      "end": 1130,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55034440",
+          "matchedName": "Sylvia",
+          "matchedCanonical": "Sylvia",
+          "currentName": "Sylvia",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Sylviidae|Sylvia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54768182|54768196|55034440",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. palmarum,",
+      "name": "S. palmarum",
+      "odds": 5799676.4124921365,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 1137,
+      "end": 1149,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

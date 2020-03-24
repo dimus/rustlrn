@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:37.05258607-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 233,
+    "total_candidates": 30,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. binotata.",
+      "name": "C. binotata",
+      "odds": 28137492.59498138,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 354,
+      "end": 366,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coccinella binotata,",
+      "name": "Coccinella binotata",
+      "odds": 140815812942409.88,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 465,
+      "end": 485,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54840242",
+          "matchedName": "Coccinella",
+          "matchedCanonical": "Coccinella",
+          "currentName": "Coccinella",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Coccinelloidea|Coccinellidae|Coccinella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769877|54774554|54840242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. oculata,",
+      "name": "C. oculata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 976,
+      "end": 987,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. normata.",
+      "name": "C. normata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 1033,
+      "end": 1044,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. bipustulata,",
+      "name": "C. bipustulata",
+      "odds": 108227933.50950374,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1096,
+      "end": 1111,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. bi- \r\r\n pustulata,",
+      "name": "C. bipustulata",
+      "odds": 108227933.50950374,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1479,
+      "end": 1500,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

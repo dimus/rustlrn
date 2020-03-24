@@ -1,0 +1,607 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:12.837976042-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 207,
+    "total_candidates": 50,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Limicula",
+      "name": "Limicula",
+      "odds": 67934.59334922268,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 106,
+      "end": 114,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1440186",
+          "matchedName": "Limicula Vieillot, 1816",
+          "matchedCanonical": "Limicula",
+          "currentName": "Limosa Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1297722",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Limosa melanura",
+      "name": "Limosa melanura",
+      "odds": 20331023269.51709,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ura": 45.04892190614242
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 220,
+      "end": 235,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129312916",
+          "matchedName": "Limosa melanura",
+          "matchedCanonical": "Limosa melanura",
+          "currentName": "Limosa melanura",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. fedoa.",
+      "name": "S. fedoa",
+      "odds": 1812.239613539128,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 485,
+      "end": 494,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Limosa fedoa.",
+      "name": "Limosa fedoa",
+      "odds": 45176081.49272272,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 505,
+      "end": 518,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35518610",
+          "matchedName": "Limosa fedoa (Linnaeus, 1758)",
+          "matchedCanonical": "Limosa fedoa",
+          "currentName": "Limosa fedoa (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Limosa|Limosa fedoa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54922668|35518610",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Limosa fedoa",
+      "name": "Limosa fedoa",
+      "odds": 45176081.49272272,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          }
+        }
+      },
+      "start": 721,
+      "end": 733,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35518610",
+          "matchedName": "Limosa fedoa (Linnaeus, 1758)",
+          "matchedCanonical": "Limosa fedoa",
+          "currentName": "Limosa fedoa (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Limosa|Limosa fedoa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54922668|35518610",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "ScoLOPAX marmorata.",
+      "name": "Scolopax marmorata",
+      "odds": 261302088008.72952,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 835,
+      "end": 854,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "ScoLOPAx hudsonica,",
+      "name": "Scolopax hudsonica",
+      "odds": 87100696002.90985,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 867,
+      "end": 886,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Limosa americana rufa,",
+      "name": "Limosa americana rufa",
+      "odds": 11274453680.184597,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ufa": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "ispLen": {
+            "4": 0.05289125210455401
+          }
+        }
+      },
+      "start": 908,
+      "end": 930,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54922668",
+          "matchedName": "Limosa",
+          "matchedCanonical": "Limosa",
+          "currentName": "Limosa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54922668",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Limicula",
+      "name": "Limicula",
+      "odds": 67934.59334922268,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 944,
+      "end": 952,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1440186",
+          "matchedName": "Limicula Vieillot, 1816",
+          "matchedCanonical": "Limicula",
+          "currentName": "Limosa Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1297722",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Limicula marmdrata,",
+      "name": "Limicula marmdrata",
+      "odds": 56724404.43749582,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 976,
+      "end": 995,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1440186",
+          "matchedName": "Limicula Vieillot, 1816",
+          "matchedCanonical": "Limicula",
+          "currentName": "Limosa Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1297722",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Limicula hudsonica,",
+      "name": "Limicula hudsonica",
+      "odds": 1997127845685.7795,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          }
+        }
+      },
+      "start": 1184,
+      "end": 1203,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1440186",
+          "matchedName": "Limicula Vieillot, 1816",
+          "matchedCanonical": "Limicula",
+          "currentName": "Limosa Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1297722",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ScoLOPAx,",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1227,
+      "end": 1236,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:24.895821575-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 249,
+    "total_candidates": 27,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. coerulea.",
+      "name": "L. coerulea",
+      "odds": 226549.8598629741,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lea": 12.513589418372893
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 141,
+      "end": 153,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rhagium",
+      "name": "Rhagium",
+      "odds": 72469.429364661,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 195,
+      "end": 202,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55008351",
+          "matchedName": "Rhagium",
+          "matchedCanonical": "Rhagium",
+          "currentName": "Rhagium",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Cerambycidae|Rhagium",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767855|54767856|55008351",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ToxoTus,",
+      "name": "Toxotus",
+      "odds": 106503.84483501535,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 687,
+      "end": 695,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1364653",
+          "matchedName": "Toxotus Dejean, 1821",
+          "matchedCanonical": "Toxotus",
+          "currentName": "Stenocorus Fabricius, 1775",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Cerambycidae|Stenocorus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100100|1456335",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. pubera",
+      "name": "L. pubera",
+      "odds": 990658.2961203404,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          }
+        }
+      },
+      "start": 1451,
+      "end": 1460,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

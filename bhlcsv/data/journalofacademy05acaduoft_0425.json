@@ -1,0 +1,541 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:39.513075475-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 127,
+    "total_candidates": 32,
+    "total_names": 11
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Colydiuni longiusculum,",
+      "name": "Colydiuni longiusculum",
+      "odds": 36841.5860620808,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lum": 157.67122667149846
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 23,
+      "end": 46,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Crotalus,",
+      "name": "Crotalus",
+      "odds": 557778.7664462494,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 279,
+      "end": 288,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54847476",
+          "matchedName": "Crotalus",
+          "matchedCanonical": "Crotalus",
+          "currentName": "Crotalus",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|54847476",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cucujus,",
+      "name": "Cucujus",
+      "odds": 7303.120788686767,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "jus": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 400,
+      "end": 408,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54849016",
+          "matchedName": "Cucujus",
+          "matchedCanonical": "Cucujus",
+          "currentName": "Cucujus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Cucujoidea|Cucujidae|Cucujus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769831|54770156|54849016",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Cyclostoma dentata,",
+      "name": "Cyclostoma dentata",
+      "odds": 7243274881440.039,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 461,
+      "end": 480,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:863303",
+          "matchedName": "Cyclostoma Draparnaud, 1801",
+          "matchedCanonical": "Cyclostoma",
+          "currentName": "Pomatias S. Studer, 1789",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Littorinimorpha|Littorinoidea|Pomatiidae|Pomatias",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382213|urn:lsid:marinespecies.org:taxname:14766|urn:lsid:marinespecies.org:taxname:224634|urn:lsid:marinespecies.org:taxname:224635",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cyphon,",
+      "name": "Cyphon",
+      "odds": 16657.93424076737,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hon": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 491,
+      "end": 498,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54851561",
+          "matchedName": "Cyphon",
+          "matchedCanonical": "Cyphon",
+          "currentName": "Cyphon",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scirtoidea|Scirtidae|Cyphon",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769853|54769854|54851561",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Delphinula laxa,",
+      "name": "Delphinula laxa",
+      "odds": 329812897.25795895,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "axa": 2.5027178836745785
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 557,
+      "end": 573,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:204575",
+          "matchedName": "Delphinula Lamarck, 1804",
+          "matchedCanonical": "Delphinula",
+          "currentName": "Angaria Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Vetigastropoda|Trochida|Trochoidea|Angariidae|Angaria",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:156485|urn:lsid:marinespecies.org:taxname:1052448|urn:lsid:marinespecies.org:taxname:156489|urn:lsid:marinespecies.org:taxname:413479|urn:lsid:marinespecies.org:taxname:204420",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Dytiscus liberus,",
+      "name": "Dytiscus liberus",
+      "odds": 4419821134792.86,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 704,
+      "end": 721,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11496308",
+          "matchedName": "Dytiscus liberus Say, 1825",
+          "matchedCanonical": "Dytiscus liberus",
+          "currentName": "Graphoderus liberus (Say, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dytiscidae|Graphoderus|Graphoderus liberus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1096|10279|100157|1285137|10585272",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "RIanus,",
+      "name": "Rianus",
+      "odds": 111052.89493844911,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 802,
+      "end": 809,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1233531",
+          "matchedName": "Rianus Simon, 1892",
+          "matchedCanonical": "Rianus",
+          "currentName": "Rhianodes Raven, 1986",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Barychelidae|Rhianodes",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|104698|1390854",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Elmis,",
+      "name": "Elmis",
+      "odds": 38550.18501167239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mis": 72.57881862656278
+          }
+        }
+      },
+      "start": 819,
+      "end": 825,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54867715",
+          "matchedName": "Elmis",
+          "matchedCanonical": "Elmis",
+          "currentName": "Elmis",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Byrrhoidea|Elmidae|Elmis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769861|54769915|54867715",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helops pullus,",
+      "name": "Helops pullus",
+      "odds": 16542401949.8657,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1027,
+      "end": 1041,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "326104",
+          "matchedName": "Helops Fabricius, 1775",
+          "matchedCanonical": "Helops",
+          "currentName": "Helops Fabricius, 1775",
+          "classificationPath": "Cephalornis|Coelenterata|Bilateria|Nephrozoa|Protostomia|Ecdysozoa|Circumscriptional names of the taxon under|Notchia|Carbotriplurida|Boltonocostidae|Circumscriptional names|Pterygota|Pharotarsus||Baromiamima|Wuhua|Heliotaurus|Ulomimus|Zophohelops|Helops",
+          "classificationRank": "|||||||||||||||||||",
+          "classificationIDs": "80|4404|192967|249913|99137|148590|249529|425|11905|11903|151866|11899|18728|99959|65216|95592|95593|152200|206619|326104",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Helodes,",
+      "name": "Helodes",
+      "odds": 32021.37576578044,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "des": 21.94691067222323
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1094,
+      "end": 1102,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "50429271-1",
+          "matchedName": "Helodes",
+          "matchedCanonical": "Helodes",
+          "currentName": "Helodes",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

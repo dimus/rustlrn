@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:11.84158187-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 227,
+    "total_candidates": 28,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. pusillus.",
+      "name": "M. pusillus",
+      "odds": 4757547.057122455,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 35,
+      "end": 47,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

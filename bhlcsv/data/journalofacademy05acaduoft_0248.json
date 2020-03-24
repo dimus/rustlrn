@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:51.689836238-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 219,
+    "total_candidates": 58,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. esculentus,",
+      "name": "E. esculentus",
+      "odds": 35098527.80550332,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 158,
+      "end": 172,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. lucunter.",
+      "name": "E. lucunter",
+      "odds": 18104.306629267026,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 615,
+      "end": 627,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. variegatus,",
+      "name": "E. variegatus",
+      "odds": 35098527.80550332,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 691,
+      "end": 705,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. diadema,",
+      "name": "C. diadema",
+      "odds": 115716.84563865572,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ema": 10.010871534698314
+          }
+        }
+      },
+      "start": 1002,
+      "end": 1013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ScuTELLA,",
+      "name": "Scutella",
+      "odds": 1065142.9136175492,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1182,
+      "end": 1191,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:532067",
+          "matchedName": "Scutella Broderip, 1834",
+          "matchedCanonical": "Scutella",
+          "currentName": "Plesiothyreus Cossmann, 1888",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Neritimorpha|Cycloneritida|Neritoidea|Phenacolepadidae|Phenacolepadinae|Plesiothyreus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:156484|urn:lsid:marinespecies.org:taxname:1054475|urn:lsid:marinespecies.org:taxname:196314|urn:lsid:marinespecies.org:taxname:180860|urn:lsid:marinespecies.org:taxname:1052700|urn:lsid:marinespecies.org:taxname:415835",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

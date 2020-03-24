@@ -1,0 +1,408 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:12.05160778-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 223,
+    "total_candidates": 51,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. hudsonicus",
+      "name": "N. hudsonicus",
+      "odds": 9697148.269002143,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 178,
+      "end": 191,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. \r\r\n borealis,*",
+      "name": "N. borealis",
+      "odds": 7023045.655752196,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 256,
+      "end": 273,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. phaeo- \r\r\n pus",
+      "name": "N. phaeopus",
+      "odds": 906199.4394518964,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 413,
+      "end": 430,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "ScoLOPAX borealis,",
+      "name": "Scolopax borealis",
+      "odds": 44840094346.99826,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 616,
+      "end": 634,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "4408525",
+          "matchedName": "Scolopax borealis J.R.Forster, 1772",
+          "matchedCanonical": "Scolopax borealis",
+          "currentName": "Numenius borealis (J.R.Forster, 1772)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Numenius|Numenius borealis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7192402|5282|7875964|2481783",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "NuMENius hudsonicus,",
+      "name": "Numenius hudsonicus",
+      "odds": 1333687015999.0618,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 647,
+      "end": 667,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10523615",
+          "matchedName": "Numenius hudsonicus",
+          "matchedCanonical": "Numenius hudsonicus",
+          "currentName": "Numenius hudsonicus",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Numenius|Numenius hudsonicus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|148|1142|10265|101567|1281627|10523615",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "NuMENius melanopus,",
+      "name": "Numenius melanopus",
+      "odds": 181280101934.86478,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 680,
+      "end": 699,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54956663",
+          "matchedName": "Numenius",
+          "matchedCanonical": "Numenius",
+          "currentName": "Numenius",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Numenius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54956663",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LiMosA,",
+      "name": "Limosa",
+      "odds": 11568.009889421783,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1001,
+      "end": 1008,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54922668",
+          "matchedName": "Limosa",
+          "matchedCanonical": "Limosa",
+          "currentName": "Limosa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54922668",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scolopax",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1110,
+      "end": 1118,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Actitis",
+      "name": "Actitis",
+      "odds": 244654.54642100667,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1149,
+      "end": 1156,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54787098",
+          "matchedName": "Actitis",
+          "matchedCanonical": "Actitis",
+          "currentName": "Actitis",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Actitis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54787098",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

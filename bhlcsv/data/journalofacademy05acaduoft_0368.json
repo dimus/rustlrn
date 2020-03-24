@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:03.924746207-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 235,
+    "total_candidates": 54,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "OPHISAURUS.",
+      "name": "Ophisaurus",
+      "odds": 392908.82068102085,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          }
+        }
+      },
+      "start": 264,
+      "end": 275,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54961590",
+          "matchedName": "Ophisaurus",
+          "matchedCanonical": "Ophisaurus",
+          "currentName": "Ophisaurus",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Anguidae|Ophisaurus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54772956|54961590",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ophisaurus ventralis.",
+      "name": "Ophisaurus ventralis",
+      "odds": 8649042244526.924,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 789,
+      "end": 810,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28897759",
+          "matchedName": "Ophisaurus ventralis (Linnaeus, 1766)",
+          "matchedCanonical": "Ophisaurus ventralis",
+          "currentName": "Ophisaurus ventralis (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Anguidae|Ophisaurus|Ophisaurus ventralis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54772956|54961590|28897759",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anguis ventralis,",
+      "name": "Anguis ventralis",
+      "odds": 18756496818.32676,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uis": 0.05005435767349157
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 827,
+      "end": 844,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28922337",
+          "matchedName": "Anguis ventralis Linnaeus, 1766",
+          "matchedCanonical": "Anguis ventralis",
+          "currentName": "Ophisaurus ventralis (Linnaeus, 1766)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Anguidae|Ophisaurus|Ophisaurus ventralis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54772956|54961590|28897759",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Chamasaura ventralis,",
+      "name": "Chamasaura ventralis",
+      "odds": 63910.93703593955,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 874,
+      "end": 895,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Ccecilia maculata,",
+      "name": "Ccecilia maculata",
+      "odds": 80741.11890960403,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 930,
+      "end": 948,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anguis",
+      "name": "Anguis",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uis": 0.05005435767349157
+          }
+        }
+      },
+      "start": 1149,
+      "end": 1155,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54797964",
+          "matchedName": "Anguis",
+          "matchedCanonical": "Anguis",
+          "currentName": "Anguis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Anguidae|Anguis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54772956|54797964",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ophisaurus ventralis,",
+      "name": "Ophisaurus ventralis",
+      "odds": 8649042244526.924,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 1239,
+      "end": 1260,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28897759",
+          "matchedName": "Ophisaurus ventralis (Linnaeus, 1766)",
+          "matchedCanonical": "Ophisaurus ventralis",
+          "currentName": "Ophisaurus ventralis (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Anguidae|Ophisaurus|Ophisaurus ventralis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54772956|54961590|28897759",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:24.523114216-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 231,
+    "total_candidates": 21,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Trox porcatus,",
+      "name": "Trox porcatus",
+      "odds": 11936773944.01271,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rox": 2.5027178836745785
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 782,
+      "end": 796,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54755956",
+          "matchedName": "Trox porcatus Say, 1825",
+          "matchedCanonical": "Trox porcatus",
+          "currentName": "Trox unistriatus Palisot de Beauvois, 1805",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Trogidae|Trox|Trox unistriatus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54783437|55050237|54716167",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

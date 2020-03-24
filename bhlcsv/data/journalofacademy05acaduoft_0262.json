@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:00.693313014-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 231,
+    "total_candidates": 17,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Helops,",
+      "name": "Helops",
+      "odds": 4870.74100607233,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 32,
+      "end": 39,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "326104",
+          "matchedName": "Helops Fabricius, 1775",
+          "matchedCanonical": "Helops",
+          "currentName": "Helops Fabricius, 1775",
+          "classificationPath": "Cephalornis|Coelenterata|Bilateria|Nephrozoa|Protostomia|Ecdysozoa|Circumscriptional names of the taxon under|Notchia|Carbotriplurida|Boltonocostidae|Circumscriptional names|Pterygota|Pharotarsus||Baromiamima|Wuhua|Heliotaurus|Ulomimus|Zophohelops|Helops",
+          "classificationRank": "|||||||||||||||||||",
+          "classificationIDs": "80|4404|192967|249913|99137|148590|249529|425|11905|11903|151866|11899|18728|99959|65216|95592|95593|152200|206619|326104",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. pullus.",
+      "name": "H. pullus",
+      "odds": 1576047.2892823599,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 55,
+      "end": 65,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helops pullus,",
+      "name": "Helops pullus",
+      "odds": 16542401949.8657,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 191,
+      "end": 205,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "326104",
+          "matchedName": "Helops Fabricius, 1775",
+          "matchedCanonical": "Helops",
+          "currentName": "Helops Fabricius, 1775",
+          "classificationPath": "Cephalornis|Coelenterata|Bilateria|Nephrozoa|Protostomia|Ecdysozoa|Circumscriptional names of the taxon under|Notchia|Carbotriplurida|Boltonocostidae|Circumscriptional names|Pterygota|Pharotarsus||Baromiamima|Wuhua|Heliotaurus|Ulomimus|Zophohelops|Helops",
+          "classificationRank": "|||||||||||||||||||",
+          "classificationIDs": "80|4404|192967|249913|99137|148590|249529|425|11905|11903|151866|11899|18728|99959|65216|95592|95593|152200|206619|326104",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. con- \r\r\n tractus,",
+      "name": "H. contractus",
+      "odds": 35098527.80550332,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 799,
+      "end": 819,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. politus.",
+      "name": "H. politus",
+      "odds": 11832047.466552548,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 964,
+      "end": 975,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

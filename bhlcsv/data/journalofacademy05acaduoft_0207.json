@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:27.832033722-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 226,
+    "total_candidates": 17,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. moesta.",
+      "name": "M. moesta",
+      "odds": 450299.2255092457,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sta": 75.08153651023736
+          }
+        }
+      },
+      "start": 125,
+      "end": 135,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Melolontha moesta,",
+      "name": "Melolontha moesta",
+      "odds": 156591100133.81842,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tha": 28.781255662257653
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sta": 75.08153651023736
+          }
+        }
+      },
+      "start": 242,
+      "end": 260,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54761740",
+          "matchedName": "Melolontha moesta Germar, 1824",
+          "matchedCanonical": "Melolontha moesta",
+          "currentName": "Diplotaxis subcostata Blanchard, 1850",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Diplotaxis|Diplotaxis subcostata",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54772209|54860681|54729323",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. sordida.",
+      "name": "M. sordida",
+      "odds": 2343266.1241827784,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          }
+        }
+      },
+      "start": 1186,
+      "end": 1197,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Melolontha sordida,",
+      "name": "Melolontha sordida",
+      "odds": 814868424162.0044,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tha": 28.781255662257653
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 1235,
+      "end": 1254,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54935060",
+          "matchedName": "Melolontha",
+          "matchedCanonical": "Melolontha",
+          "currentName": "Melolontha",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Melolontha",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54772209|54935060",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

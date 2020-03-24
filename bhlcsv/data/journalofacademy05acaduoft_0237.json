@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:45.813434482-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 233,
+    "total_candidates": 23,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "BUCCINUM.",
+      "name": "Buccinum",
+      "odds": 60681.4262397568,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "num": 23.597054331788886
+          }
+        }
+      },
+      "start": 320,
+      "end": 329,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54821223",
+          "matchedName": "Buccinum",
+          "matchedCanonical": "Buccinum",
+          "currentName": "Buccinum",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Neogastropoda|Buccinoidea|Buccinidae|Buccinum",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54781593|54781724|54782685|54821223",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Latirus filosus.",
+      "name": "Latirus filosus",
+      "odds": 624645301773.144,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          }
+        }
+      },
+      "start": 1401,
+      "end": 1417,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:225044",
+          "matchedName": "Latirus filosus (Schubert \u0026 Wagner, 1829)",
+          "matchedCanonical": "Latirus filosus",
+          "currentName": "Polygona filosa (Schubert \u0026 J. A. Wagner, 1829)",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Neogastropoda|Buccinoidea|Fasciolariidae|Fasciolariinae|Polygona|Polygona filosa",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:146|urn:lsid:marinespecies.org:taxname:382214|urn:lsid:marinespecies.org:taxname:23038|urn:lsid:marinespecies.org:taxname:411757|urn:lsid:marinespecies.org:taxname:415846|urn:lsid:marinespecies.org:taxname:489153",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. alternata.",
+      "name": "P. alternata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 1493,
+      "end": 1506,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

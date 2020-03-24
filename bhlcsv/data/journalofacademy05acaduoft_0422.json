@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:37.801212542-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 140,
+    "total_candidates": 73,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Lacertina,",
+      "name": "Lacertina",
+      "odds": 13514.806754238203,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 206,
+      "end": 216,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "477707",
+          "matchedName": "Lacertina Remes Lenicov \u0026 Rossi Batiz in Rossi Batiz \u0026 Remes Lenicov, 2011",
+          "matchedCanonical": "Lacertina",
+          "currentName": "Lacertina Remes Lenicov \u0026 Rossi Batiz in Rossi Batiz \u0026 Remes Lenicov, 2011",
+          "classificationPath": "Sardia|Saccharosydnini|Lacertina",
+          "classificationRank": "||",
+          "classificationIDs": "102677|477704|477707",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vespertilio",
+      "name": "Vespertilio",
+      "odds": 111474.93661793132,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lio": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 246,
+      "end": 257,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55055749",
+          "matchedName": "Vespertilio",
+          "matchedCanonical": "Vespertilio",
+          "currentName": "Vespertilio",
+          "classificationPath": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionoidea|Vespertilionidae|Vespertilio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54768168|54768169|54768170|55055749",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Arcuatus,",
+      "name": "Arcuatus",
+      "odds": 187714.0079386416,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 258,
+      "end": 267,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1436531",
+          "matchedName": "Arcuatus Perry, 1810",
+          "matchedCanonical": "Arcuatus",
+          "currentName": "Arcuatus Perry, 1810",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Lepidoptera|Arcuatus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|108215|1436531",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rana,",
+      "name": "Rana",
+      "odds": 177.7282796257126,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 322,
+      "end": 327,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anodonta",
+      "name": "Anodonta",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          }
+        }
+      },
+      "start": 489,
+      "end": 497,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54798689",
+          "matchedName": "Anodonta",
+          "matchedCanonical": "Anodonta",
+          "currentName": "Anodonta",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Anodonta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|54798689",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cataracta,",
+      "name": "Cataracta",
+      "odds": 142857.85663037025,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cta": 37.54076825511868
+          }
+        }
+      },
+      "start": 498,
+      "end": 508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "77141249-1",
+          "matchedName": "Elatostema ser. Cataracta W.T.Wang",
+          "matchedCanonical": "Elatostema ser. Cataracta",
+          "currentName": "Elatostema ser. Cataracta W.T.Wang",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Raia,",
+      "name": "Raia",
+      "odds": 1793.4399125867358,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aia": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 603,
+      "end": 608,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:297657",
+          "matchedName": "Raia",
+          "matchedCanonical": "Raia",
+          "currentName": "Raja Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Elasmobranchii|Neoselachii|Batoidea|Rajiformes|Rajidae|Raja",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|subclass|infraclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10193|urn:lsid:marinespecies.org:taxname:368407|urn:lsid:marinespecies.org:taxname:368409|urn:lsid:marinespecies.org:taxname:10216|urn:lsid:marinespecies.org:taxname:105711|urn:lsid:marinespecies.org:taxname:105766",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:13.191957594-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 195,
+    "total_candidates": 24,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Lyctus,",
+      "name": "Lyctus",
+      "odds": 53984.04615063498,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 32,
+      "end": 39,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54927184",
+          "matchedName": "Lyctus",
+          "matchedCanonical": "Lyctus",
+          "currentName": "Lyctus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Bostrichidae|Lyctus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54770154|54927184",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lyctus americanus",
+      "name": "Lyctus americanus",
+      "odds": 1367684356208.7705,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 188,
+      "end": 205,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11510928",
+          "matchedName": "Lyctus americanus Dejean, 1833",
+          "matchedCanonical": "Lyctus americanus",
+          "currentName": "Lyctus americanus Dejean, 1833",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichidae|Lyctus|Lyctus americanus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1096|10279|108553|1298513|11510928",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. geminatus.",
+      "name": "L. geminatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 712,
+      "end": 725,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. haematodes.",
+      "name": "L. haematodes",
+      "odds": 1398792.1839357074,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "des": 40.79430150389563
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1265,
+      "end": 1279,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lyctus",
+      "name": "Lyctus",
+      "odds": 53984.04615063498,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          }
+        }
+      },
+      "start": 1365,
+      "end": 1371,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54927184",
+          "matchedName": "Lyctus",
+          "matchedCanonical": "Lyctus",
+          "currentName": "Lyctus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Bostrichidae|Lyctus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54770154|54927184",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

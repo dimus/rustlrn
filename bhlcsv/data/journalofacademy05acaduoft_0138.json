@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:44.328601087-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 231,
+    "total_candidates": 20,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. subglobosa.",
+      "name": "M. subglobosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          }
+        }
+      },
+      "start": 42,
+      "end": 56,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anculotus,",
+      "name": "Anculotus",
+      "odds": 277779.1656701644,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 960,
+      "end": 970,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:716874",
+          "matchedName": "Anculotus [sic]",
+          "matchedCanonical": "Anculotus",
+          "currentName": "Leptoxis Rafinesque, 1819",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Cerithioidea|Pleuroceridae|Leptoxis",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14769|urn:lsid:marinespecies.org:taxname:715953|urn:lsid:marinespecies.org:taxname:1039655",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PiRENA.",
+      "name": "Pirena",
+      "odds": 57377.32905153204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ena": 77.58425439391193
+          }
+        }
+      },
+      "start": 1057,
+      "end": 1064,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1063034",
+          "matchedName": "Melania (Pirena) Lamarck, 1822",
+          "matchedCanonical": "Melania subgen. Pirena",
+          "currentName": "Faunus Montfort, 1810",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Cerithioidea|Pachychilidae|Faunus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14769|urn:lsid:marinespecies.org:taxname:411651|urn:lsid:marinespecies.org:taxname:581168",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. scalariformis.",
+      "name": "P. scalariformis",
+      "odds": 7067643.02003977,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mis": 120.13045841637977
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1071,
+      "end": 1088,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:49.495551341-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 255,
+    "total_candidates": 29,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "I. ictero- \r\r\n cephalus,",
+      "name": "I. icterocephalus",
+      "odds": 17784591.913171966,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1053,
+      "end": 1077,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "I. icterocephalus",
+      "name": "I. icterocephalus",
+      "odds": 17784591.913171966,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 1288,
+      "end": 1305,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

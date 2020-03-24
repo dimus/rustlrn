@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:53.766913765-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 228,
+    "total_candidates": 50,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. terrestris",
+      "name": "S. terrestris",
+      "odds": 11499273.168551212,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 385,
+      "end": 398,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra tigrina.",
+      "name": "Salamandra tigrina",
+      "odds": 1250952062857.398,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          }
+        }
+      },
+      "start": 660,
+      "end": 679,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162648",
+          "matchedName": "Salamandra tigrina Green, 1825",
+          "matchedCanonical": "Salamandra tigrina",
+          "currentName": "Ambystoma tigrinum (Green, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Ambystomatidae|Ambystoma|Ambystoma tigrinum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771356|54793993|7161388",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Salamanuua cylindracea.",
+      "name": "Salamanuua cylindracea",
+      "odds": 40344.35001877117,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1099,
+      "end": 1122,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cylindracea,",
+      "name": "S. cylindracea",
+      "odds": 6448363.188166889,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1129,
+      "end": 1144,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

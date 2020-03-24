@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:39.47654735-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 182,
+    "total_candidates": 20,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Endomycleus limbatus,",
+      "name": "Endomycleus limbatus",
+      "odds": 37839688179192.836,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 32,
+      "end": 53,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "36504884",
+          "matchedName": "Endomychus limbatus (Horn, 1870)",
+          "matchedCanonical": "Endomychus limbatus",
+          "currentName": "Endomychus limbatus (Horn, 1870)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Coccinelloidea|Endomychidae|Endomychus|Endomychus limbatus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769877|54770151|54868834|36504884",
+          "editDistance": 2,
+          "stemEditDistance": 2,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

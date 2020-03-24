@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:03.201056037-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 227,
+    "total_candidates": 21,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. trifasciata.",
+      "name": "M. trifasciata",
+      "odds": 108227933.50950374,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 687,
+      "end": 702,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Mordella trifasciata,",
+      "name": "Mordella trifasciata",
+      "odds": 18063675340.623203,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 782,
+      "end": 803,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11515539",
+          "matchedName": "Mordella trifasciata Píc, 1936",
+          "matchedCanonical": "Mordella trifasciata",
+          "currentName": "Mordella trifasciata Píc, 1936",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Mordellidae|Mordella|Mordella trifasciata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1096|10279|101737|1424101|11515539",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. attenuata.",
+      "name": "M. attenuata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 1251,
+      "end": 1264,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

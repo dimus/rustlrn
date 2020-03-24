@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:07.146869289-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 243,
+    "total_candidates": 25,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Lampyris pyralis,",
+      "name": "Lampyris pyralis",
+      "odds": 735901288858.5604,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 811,
+      "end": 828,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11670605",
+          "matchedName": "Lampyris pyralis Linnaeus, 1767",
+          "matchedCanonical": "Lampyris pyralis",
+          "currentName": "Photinus pyralis (Linnaeus, 1767)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Lampyridae|Photinus|Photinus pyralis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1096|10279|100845|1290612|11593540",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

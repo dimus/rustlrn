@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:00.18522136-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 191,
+    "total_candidates": 43,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Rana palustris.",
+      "name": "Rana palustris",
+      "odds": 3382251334.9071794,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 295,
+      "end": 310,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162714",
+          "matchedName": "Rana palustris LeConte, 1825",
+          "matchedCanonical": "Rana palustris",
+          "currentName": "Lithobates palustris (LeConte, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Lithobates|Lithobates palustris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|54923952|7161254",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana palustris,",
+      "name": "Rana palustris",
+      "odds": 3382251334.9071794,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 327,
+      "end": 342,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162714",
+          "matchedName": "Rana palustris LeConte, 1825",
+          "matchedCanonical": "Rana palustris",
+          "currentName": "Lithobates palustris (LeConte, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Lithobates|Lithobates palustris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|54923952|7161254",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana partialis,",
+      "name": "Rana partialis",
+      "odds": 3912305648.5866623,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 399,
+      "end": 414,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rana",
+      "name": "Rana",
+      "odds": 177.7282796257126,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1006,
+      "end": 1010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana pumila,",
+      "name": "Rana pumila",
+      "odds": 103476867.94953135,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ila": 45.04892190614242
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 1024,
+      "end": 1036,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

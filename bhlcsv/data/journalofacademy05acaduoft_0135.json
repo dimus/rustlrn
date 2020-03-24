@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:42.13240968-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 202,
+    "total_candidates": 28,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. heterostropha,",
+      "name": "P. heterostropha",
+      "odds": 1914153.3179274378,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 52,
+      "end": 69,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cyclostoma.",
+      "name": "Cyclostoma",
+      "odds": 187099.43841953372,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 254,
+      "end": 265,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:863303",
+          "matchedName": "Cyclostoma Draparnaud, 1801",
+          "matchedCanonical": "Cyclostoma",
+          "currentName": "Pomatias S. Studer, 1789",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Littorinimorpha|Littorinoidea|Pomatiidae|Pomatias",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382213|urn:lsid:marinespecies.org:taxname:14766|urn:lsid:marinespecies.org:taxname:224634|urn:lsid:marinespecies.org:taxname:224635",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. dentata.",
+      "name": "C. dentata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 272,
+      "end": 283,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cyclostoma",
+      "name": "Cyclostoma",
+      "odds": 187099.43841953372,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          }
+        }
+      },
+      "start": 821,
+      "end": 831,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:863303",
+          "matchedName": "Cyclostoma Draparnaud, 1801",
+          "matchedCanonical": "Cyclostoma",
+          "currentName": "Pomatias S. Studer, 1789",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Littorinimorpha|Littorinoidea|Pomatiidae|Pomatias",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382213|urn:lsid:marinespecies.org:taxname:14766|urn:lsid:marinespecies.org:taxname:224634|urn:lsid:marinespecies.org:taxname:224635",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Turbo crenatus,",
+      "name": "Turbo crenatus",
+      "odds": 24438621888.415833,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 925,
+      "end": 940,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54538568",
+          "matchedName": "Turbo crenatus Linnaeus, 1758",
+          "matchedCanonical": "Turbo crenatus",
+          "currentName": "Opalia crenata (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Epitonioidea|Epitoniidae|Opalia|Opalia crenata",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54782293|54782294|54960875|54436045",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paludina.",
+      "name": "Paludina",
+      "odds": 9132.861120933094,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1031,
+      "end": 1040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:718590",
+          "matchedName": "Paludina Férussac, 1812",
+          "matchedCanonical": "Paludina",
+          "currentName": "Viviparus Montfort, 1810",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Architaenioglossa|Viviparoidea|Viviparidae|Viviparinae|Viviparus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:489327|urn:lsid:marinespecies.org:taxname:153656|urn:lsid:marinespecies.org:taxname:154000|urn:lsid:marinespecies.org:taxname:154002|urn:lsid:marinespecies.org:taxname:154004",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. subglobosa.",
+      "name": "P. subglobosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1047,
+      "end": 1061,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

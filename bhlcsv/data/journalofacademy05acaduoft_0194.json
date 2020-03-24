@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:19.190197955-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 206,
+    "total_candidates": 28,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. agarica",
+      "name": "S. agarica",
+      "odds": 5988346.761800434,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 352,
+      "end": 362,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Catops",
+      "name": "Catops",
+      "odds": 4870.74100607233,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 445,
+      "end": 451,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54829018",
+          "matchedName": "Catops",
+          "matchedCanonical": "Catops",
+          "currentName": "Catops",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Leiodidae|Catops",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769842|54769845|54829018",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. opacus.",
+      "name": "C. opacus",
+      "odds": 1696127.082751492,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 467,
+      "end": 477,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Ptomophagiis opacus,",
+      "name": "Ptomophagiis opacus",
+      "odds": 24234.081325792857,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "iis": 2.5027178836745785
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 567,
+      "end": 587,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Hydnum.",
+      "name": "Hydnum",
+      "odds": 17451.169204613434,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "num": 23.597054331788886
+          }
+        }
+      },
+      "start": 1000,
+      "end": 1007,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54902551",
+          "matchedName": "Hydnum",
+          "matchedCanonical": "Hydnum",
+          "currentName": "Hydnum",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Cantharellales|Hydnaceae|Hydnum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767768|54769016|54769153|54769156|54902551",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

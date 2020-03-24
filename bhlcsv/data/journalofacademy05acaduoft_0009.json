@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:27.301504196-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 246,
+    "total_candidates": 111,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Hister",
+      "name": "Hister",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 468,
+      "end": 474,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54899426",
+          "matchedName": "Hister",
+          "matchedCanonical": "Hister",
+          "currentName": "Hister",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Histeroidea|Histeridae|Hister",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769846|54769900|54899426",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Hololepta,",
+      "name": "Hololepta",
+      "odds": 57143.142652148104,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pta": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 479,
+      "end": 489,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54899985",
+          "matchedName": "Hololepta",
+          "matchedCanonical": "Hololepta",
+          "currentName": "Hololepta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Histeroidea|Histeridae|Hololepta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769846|54769900|54899985",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salmo.",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          }
+        }
+      },
+      "start": 589,
+      "end": 595,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55014062",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54768893|54768894|55014062",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Condylura",
+      "name": "Condylura",
+      "odds": 300001.49892377754,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 1011,
+      "end": 1020,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54842630",
+          "matchedName": "Condylura",
+          "matchedCanonical": "Condylura",
+          "currentName": "Condylura",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Talpidae|Condylura",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54776766|54776770|54842630",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saurus,",
+      "name": "Saurus",
+      "odds": 51824.68430460959,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          }
+        }
+      },
+      "start": 1209,
+      "end": 1216,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:345027",
+          "matchedName": "Saurus Browne, 1789",
+          "matchedCanonical": "Saurus",
+          "currentName": "Saurus Browne, 1789",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Perciformes|Percoidei|Carangidae|Saurus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|suborder|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10194|urn:lsid:marinespecies.org:taxname:11014|urn:lsid:marinespecies.org:taxname:151751|urn:lsid:marinespecies.org:taxname:125523|urn:lsid:marinespecies.org:taxname:345027",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

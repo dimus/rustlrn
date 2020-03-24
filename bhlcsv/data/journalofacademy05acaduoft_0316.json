@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:32.404532414-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 223,
+    "total_candidates": 15,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Lema,",
+      "name": "Lema",
+      "odds": 17635.492473769573,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ema": 147.66035513680015
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1013,
+      "end": 1018,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54918263",
+          "matchedName": "Lema",
+          "matchedCanonical": "Lema",
+          "currentName": "Lema",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Lema",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767855|54774562|54918263",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

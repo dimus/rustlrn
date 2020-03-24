@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:57.564300678-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 239,
+    "total_candidates": 24,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. reticulata.",
+      "name": "O. reticulata",
+      "odds": 53291407.74380824,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 254,
+      "end": 268,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

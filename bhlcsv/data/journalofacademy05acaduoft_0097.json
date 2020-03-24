@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:20.141740021-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 203,
+    "total_candidates": 38,
+    "total_names": 10
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. hypoleucos.",
+      "name": "T. hypoleucos",
+      "odds": 34288.91125399293,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 337,
+      "end": 351,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa macularia,",
+      "name": "Tringa macularia",
+      "odds": 55857579169.674194,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ria": 31.283973545932234
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 377,
+      "end": 394,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35518563",
+          "matchedName": "Tringa macularia Linnaeus, 1766",
+          "matchedCanonical": "Tringa macularia",
+          "currentName": "Actitis macularius (Linnaeus, 1766)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Actitis|Actitis macularius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54787098|35537411",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa turdus",
+      "name": "Tringa turdus",
+      "odds": 44781069811.71263,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spEnd3": {
+            "dus": 110.11958688168146
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 456,
+      "end": 469,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          }
+        }
+      },
+      "start": 653,
+      "end": 659,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 740,
+      "end": 746,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa,",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          }
+        }
+      },
+      "start": 956,
+      "end": 963,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ma- \r\r\n chetes,",
+      "name": "Machetes",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 998,
+      "end": 1013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1365123",
+          "matchedName": "Machetes Cuvier, 1817",
+          "matchedCanonical": "Machetes",
+          "currentName": "Philomachus Merrem, 1804",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Philomachus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1287406",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa \r\r\n pugnax",
+      "name": "Tringa pugnax",
+      "odds": 3053254759.889497,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nax": 7.508153651023735
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1107,
+      "end": 1124,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:882951",
+          "matchedName": "Tringa pugnax Linnaeus, 1758",
+          "matchedCanonical": "Tringa pugnax",
+          "currentName": "Philomachus pugnax (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Aves|Charadriiformes|Scolopacidae|Philomachus|Philomachus pugnax",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|family|genus|species",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:1831|urn:lsid:marinespecies.org:taxname:1836|urn:lsid:marinespecies.org:taxname:2682|urn:lsid:marinespecies.org:taxname:147429|urn:lsid:marinespecies.org:taxname:159045|urn:lsid:marinespecies.org:taxname:159046",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Hemipalama,",
+      "name": "Hemipalama",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ama": 0.1726012333568675
+          }
+        }
+      },
+      "start": 1251,
+      "end": 1262,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1392753",
+          "matchedName": "Hemipalama Bonaparte, 1825",
+          "matchedCanonical": "Hemipalama",
+          "currentName": "Hemipalama Bonaparte, 1825",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Hemipalama",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10015|100483|1392753",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa semipalmata",
+      "name": "Tringa semipalmata",
+      "odds": 7338397101775.86,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1275,
+      "end": 1293,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35539855",
+          "matchedName": "Tringa semipalmata (Gmelin, 1789)",
+          "matchedCanonical": "Tringa semipalmata",
+          "currentName": "Tringa semipalmata (Gmelin, 1789)",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa|Tringa semipalmata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790|35539855",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

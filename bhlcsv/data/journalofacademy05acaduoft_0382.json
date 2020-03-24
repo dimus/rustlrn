@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:12.935235406-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 188,
+    "total_candidates": 53,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Coluber melanokucus.",
+      "name": "Coluber melanokucus",
+      "odds": 675427.3807806746,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 35,
+      "end": 55,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28924361",
+          "matchedName": "Coluber melanoleucus Daudin, 1803",
+          "matchedCanonical": "Coluber melanoleucus",
+          "currentName": "Pituophis melanoleucus (Daudin, 1803)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Pituophis|Pituophis melanoleucus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54985537|28898700",
+          "editDistance": 2,
+          "stemEditDistance": 2,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber eximus.",
+      "name": "Coluber eximus",
+      "odds": 1739961157.6372182,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "mus": 80.08697227758651
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 409,
+      "end": 424,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28917322",
+          "matchedName": "Coluber eximius Harlan, 1827",
+          "matchedCanonical": "Coluber eximius",
+          "currentName": "Lampropeltis triangulum (Lacépède, 1789)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis triangulum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54915778|28895136",
+          "editDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. eximus^",
+      "name": "C. eximus",
+      "odds": 480319.1738765287,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mus": 80.08697227758651
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 431,
+      "end": 441,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber floridanus.",
+      "name": "Coluber floridanus",
+      "odds": 42588837855.79526,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1022,
+      "end": 1041,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28922915",
+          "matchedName": "Coluber floridanus Harlan, 1827",
+          "matchedCanonical": "Coluber floridanus",
+          "currentName": "Pantherophis guttatus (Linnaeus, 1766)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Pantherophis|Pantherophis guttatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54968042|28897948",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

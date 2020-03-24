@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:16.679139635-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 225,
+    "total_candidates": 26,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. ziczac.",
+      "name": "N. ziczac",
+      "odds": 15009.974183641521,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "zac": 2.5027178836745785
+          }
+        }
+      },
+      "start": 265,
+      "end": 275,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X\\\\c pectus,",
+      "name": "X��c pectus",
+      "odds": 17616.215854234546,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 792,
+      "end": 804,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "NiTiDULA undulata",
+      "name": "Nitidula undulata",
+      "odds": 4119178967945.6797,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 963,
+      "end": 980,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54954743",
+          "matchedName": "Nitidula",
+          "matchedCanonical": "Nitidula",
+          "currentName": "Nitidula",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Cucujoidea|Nitidulidae|Nitidula",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769831|54769870|54954743",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. undulata.",
+      "name": "N. undulata",
+      "odds": 28137492.59498138,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1135,
+      "end": 1147,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "JYitidula undulata,",
+      "name": "Jyitidula undulata",
+      "odds": 119480.69775014598,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 1278,
+      "end": 1297,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

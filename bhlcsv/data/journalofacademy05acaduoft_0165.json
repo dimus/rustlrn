@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:02.09143686-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 244,
+    "total_candidates": 39,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "COLUBER",
+      "name": "Coluber",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          }
+        }
+      },
+      "start": 0,
+      "end": 7,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54841899",
+          "matchedName": "Coluber",
+          "matchedCanonical": "Coluber",
+          "currentName": "Coluber",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Coluber",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54841899",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "FULVIUS.",
+      "name": "Fulvius",
+      "odds": 36211.30724390522,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 8,
+      "end": 16,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54881708",
+          "matchedName": "Fulvius",
+          "matchedCanonical": "Fulvius",
+          "currentName": "Fulvius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Miroidea|Miridae|Fulvius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767756|54769775|54769776|54881708",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Coluber",
+      "name": "Coluber",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          }
+        }
+      },
+      "start": 152,
+      "end": 159,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54841899",
+          "matchedName": "Coluber",
+          "matchedCanonical": "Coluber",
+          "currentName": "Coluber",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Coluber",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54841899",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber coccineus,",
+      "name": "Coluber coccineus",
+      "odds": 15517910412.663445,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 651,
+      "end": 669,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28907801",
+          "matchedName": "Coluber coccineus Blumenbach, 1788",
+          "matchedCanonical": "Coluber coccineus",
+          "currentName": "Cemophora coccinea (Blumenbach, 1788)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Cemophora|Cemophora coccinea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54829767|28890472",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. coccineus.",
+      "name": "C. coccineus",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1486,
+      "end": 1499,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

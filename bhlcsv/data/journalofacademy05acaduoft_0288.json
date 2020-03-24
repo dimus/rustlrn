@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:15.55350509-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 203,
+    "total_candidates": 24,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. granulata.",
+      "name": "S. granulata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 1319,
+      "end": 1332,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:07.037008876-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 226,
+    "total_candidates": 20,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. centrata.",
+      "name": "L. centrata",
+      "odds": 28137492.59498138,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 398,
+      "end": 410,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lampyris",
+      "name": "Lampyris",
+      "odds": 76158.25464939173,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 493,
+      "end": 501,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54915864",
+          "matchedName": "Lampyris",
+          "matchedCanonical": "Lampyris",
+          "currentName": "Lampyris",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Elateroidea|Lampyridae|Lampyris",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769835|54769893|54915864",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. reticulata.",
+      "name": "L. reticulata",
+      "odds": 53291407.74380824,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 1344,
+      "end": 1358,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

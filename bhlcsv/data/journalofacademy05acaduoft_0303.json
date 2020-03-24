@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:25.13481118-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 211,
+    "total_candidates": 24,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Orsodacna,",
+      "name": "Orsodacna",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 130,
+      "end": 140,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1159377",
+          "matchedName": "Orsodacna Latreille, 1804",
+          "matchedCanonical": "Orsodacna",
+          "currentName": "Orsodacne Latreille, 1802",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Orsodacnidae|Orsodacne",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|117956|1240364",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. tripla.",
+      "name": "O. tripla",
+      "odds": 30019.948367283043,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pla": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 156,
+      "end": 166,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Crioceres asparagi,",
+      "name": "Crioceres asparagi",
+      "odds": 769.6019178753363,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "res": 2.047678268461019
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "agi": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 230,
+      "end": 249,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "36502359",
+          "matchedName": "Crioceris (Crioceris) asparagi (Linnaeus, 1758)",
+          "matchedCanonical": "Crioceris asparagi",
+          "currentName": "Crioceris (Crioceris) asparagi (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Crioceris|Crioceris asparagi",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767855|54774562|54847010|36502359",
+          "editDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Crioceres flavida,",
+      "name": "Crioceres flavida",
+      "odds": 9950.249496700893,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "res": 2.047678268461019
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 913,
+      "end": 931,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "120126",
+          "matchedName": "Eriocera flavida Williston, 1900",
+          "matchedCanonical": "Eriocera flavida",
+          "currentName": "Hexatoma flavida (Williston, 1900)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Protostomia|Ecdysozoa|Arthropoda|Hexapoda|Insecta|Pterygota|Neoptera|Holometabola|Diptera|Nematocera|Tipulomorpha|Tipulidae|Limoniinae|Hexatomini|Hexatoma|Hexatoma flavida",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Superphylum|Phylum|Subphylum|Class|Subclass|Infraclass|Superorder|Order|Suborder|Infraorder|Family|Subfamily|Tribe|Genus|Species",
+          "classificationIDs": "202423|914154|914155|914158|82696|563886|99208|100500|563890|914213|118831|118832|118839|118840|119654|120030|120094|120125",
+          "editDistance": 3,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "AucHenia",
+      "name": "Auchenia",
+      "odds": 7273.100237901375,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 981,
+      "end": 989,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "44381",
+          "matchedName": "Auchenia Illiger 1811",
+          "matchedCanonical": "Auchenia",
+          "currentName": "Auchenia Illiger 1811",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Laurasiatheria|Artiodactyla|Tylopoda|Camelidae|Camelina|Auchenia",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|unranked clade|order|suborder|family|tribe|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|92585|87634|42482|42513|96791|44381",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

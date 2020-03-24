@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:53.51034043-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 256,
+    "total_candidates": 29,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. trifaria.",
+      "name": "S. trifaria",
+      "odds": 566374.6496574352,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ria": 31.283973545932234
+          }
+        }
+      },
+      "start": 369,
+      "end": 381,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rumphius,",
+      "name": "Rumphius",
+      "odds": 2111.8698278187985,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1101,
+      "end": 1110,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "109240",
+          "matchedName": "Podocarpus sect. Rumphius de Laub.",
+          "matchedCanonical": "Podocarpus sect. Rumphius",
+          "currentName": "Podocarpus sect. Rumphius de Laub.",
+          "classificationPath": "Pachytheca|Tracheophyta|Pinophyta|Pinopsida|Pseudolarix erensis|Halocarpus|Podocarpus|Podocarpus|Podocarpus",
+          "classificationRank": "||||||||",
+          "classificationIDs": "401|636362|8792|8793|8794|80327|109013|109233|109240",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:07.712064292-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 231,
+    "total_candidates": 16,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Cantharis,",
+      "name": "Cantharis",
+      "odds": 112698.97578618098,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 718,
+      "end": 728,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89233011",
+          "matchedName": "Cantharis Lampyris Linnaeus 1758",
+          "matchedCanonical": "Cantharis",
+          "currentName": "Cantharis Lampyris Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. tomentosa.",
+      "name": "C. tomentosa",
+      "odds": 15091963.154813692,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          }
+        }
+      },
+      "start": 749,
+      "end": 762,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Cantharis tomentosa,",
+      "name": "Cantharis tomentosa",
+      "odds": 3665219538117.602,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 851,
+      "end": 871,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129448595",
+          "matchedName": "Cantharis (Epicauta) tomentosa Makl.",
+          "matchedCanonical": "Cantharis tomentosa",
+          "currentName": "Cantharis (Epicauta) tomentosa Makl.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    }
+  ]
+}

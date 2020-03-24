@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:37.098582116-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 227,
+    "total_candidates": 140,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Tioga",
+      "name": "Tioga",
+      "odds": 886.2111496936182,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oga": 1.6684785891163858
+          }
+        }
+      },
+      "start": 392,
+      "end": 397,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1411606",
+          "matchedName": "Tioga Hulst, 1888",
+          "matchedCanonical": "Tioga",
+          "currentName": "Tioga Hulst, 1888",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Lepidoptera|Tioga",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|108215|1411606",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Terebratula,",
+      "name": "Terebratula",
+      "odds": 196113.31442043476,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 602,
+      "end": 614,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:869072",
+          "matchedName": "Terebratula Müller, 1776",
+          "matchedCanonical": "Terebratula",
+          "currentName": "Terebratula Müller, 1776",
+          "classificationPath": "Biota|Animalia|Brachiopoda|Rhynchonelliformea|Rhynchonellata|Terebratulida|Terebratulidina|Terebratuloidea|Terebratulidae|Terebratulinae|Terebratula",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|suborder|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1803|urn:lsid:marinespecies.org:taxname:104018|urn:lsid:marinespecies.org:taxname:104020|urn:lsid:marinespecies.org:taxname:104023|urn:lsid:marinespecies.org:taxname:235210|urn:lsid:marinespecies.org:taxname:235211|urn:lsid:marinespecies.org:taxname:104035|urn:lsid:marinespecies.org:taxname:235212|urn:lsid:marinespecies.org:taxname:869072",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Exogyra",
+      "name": "Exogyra",
+      "odds": 32864.04354909046,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yra": 22.52446095307121
+          }
+        }
+      },
+      "start": 783,
+      "end": 790,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "16655",
+          "matchedName": "Exogyra Say 1820",
+          "matchedCanonical": "Exogyra",
+          "currentName": "Exogyra Say 1820",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Bilateria|Eubilateria|Protostomia|Spiralia|Schizocoela|Mollusca|Bivalvia|Eubivalvia|Autobranchia|Pteriomorphia|Ostreomorphi|Ostreioni|Ostreata|Ostreiformii|Ostreida|Ostreidina|Ostreoidea|Gryphaeidae|Exogyrinae|Exogyra",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|phylum|class|unranked clade|subclass|infraclass|unranked clade|unranked clade|unranked clade|superorder|order|suborder|superfamily|family|subfamily|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|67103|272902|85324|85326|272903|7805|16005|204890|83700|61998|244008|244048|244066|244067|83707|82896|89008|60542|60345|16655",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cos- \r\r\n\r\r\ntata,",
+      "name": "Costata",
+      "odds": 684.6958578066105,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 791,
+      "end": 807,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145738557",
+          "matchedName": "Ephemerum sect. Costata Kindb.",
+          "matchedCanonical": "Ephemerum sect. Costata",
+          "currentName": "Ephemerum sect. Costata Kindb.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tridachna",
+      "name": "Tridachna",
+      "odds": 28571.571326074052,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hna": 7.508153651023735
+          }
+        }
+      },
+      "start": 1047,
+      "end": 1056,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1319082",
+          "matchedName": "Tridachna Lamarck, 1799",
+          "matchedCanonical": "Tridachna",
+          "currentName": "Tridachna Lamarck, 1799",
+          "classificationPath": "Biota|Animalia|Mollusca|Mollusca|Mollusca|Mollusca|Tridachna",
+          "classificationRank": "|Kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "1|2|175|1197|10781|103222|1319082",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Squamosa,",
+      "name": "Squamosa",
+      "odds": 40224.43027256606,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          }
+        }
+      },
+      "start": 1057,
+      "end": 1066,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55028198",
+          "matchedName": "Squamosa",
+          "matchedCanonical": "Squamosa",
+          "currentName": "Squamosa",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Zygaenoidea|Limacodidae|Squamosa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54768032|54772644|54772711|55028198",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

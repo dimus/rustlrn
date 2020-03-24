@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:15.274251859-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 160,
+    "total_candidates": 26,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Latridius,",
+      "name": "Latridius",
+      "odds": 94444.91632785588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 324,
+      "end": 334,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:989870",
+          "matchedName": "Latridius Herbst in Jablonsky, 1793",
+          "matchedCanonical": "Latridius",
+          "currentName": "Latridius Herbst in Jablonsky, 1793",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Coleoptera|Latridiidae|Latridius",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1278|urn:lsid:marinespecies.org:taxname:1307|urn:lsid:marinespecies.org:taxname:151152|urn:lsid:marinespecies.org:taxname:118085|urn:lsid:marinespecies.org:taxname:989584|urn:lsid:marinespecies.org:taxname:989870",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. pubescens.",
+      "name": "L. pubescens",
+      "odds": 1383979.1539348802,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          }
+        }
+      },
+      "start": 349,
+      "end": 362,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Latridius pubescens,",
+      "name": "Latridius pubescens",
+      "odds": 281671185981.7912,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          }
+        }
+      },
+      "start": 462,
+      "end": 482,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "9367807",
+          "matchedName": "Latridius pubescens Gyllenhal, 1827",
+          "matchedCanonical": "Latridius pubescens",
+          "currentName": "Corticaria pubescens (Gyllenhal, 1827)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Latridiidae|Corticaria|Corticaria pubescens",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|54|216|1470|7834|1043833|4450917",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. dentatus.",
+      "name": "S. dentatus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 967,
+      "end": 979,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Latridius dentatus,",
+      "name": "Latridius dentatus",
+      "odds": 3771637762005.9956,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1057,
+      "end": 1076,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:989870",
+          "matchedName": "Latridius Herbst in Jablonsky, 1793",
+          "matchedCanonical": "Latridius",
+          "currentName": "Latridius Herbst in Jablonsky, 1793",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Coleoptera|Latridiidae|Latridius",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1278|urn:lsid:marinespecies.org:taxname:1307|urn:lsid:marinespecies.org:taxname:151152|urn:lsid:marinespecies.org:taxname:118085|urn:lsid:marinespecies.org:taxname:989584|urn:lsid:marinespecies.org:taxname:989870",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

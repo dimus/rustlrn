@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:07.864068642-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 232,
+    "total_candidates": 23,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. capilli- \r\r\n cornis,",
+      "name": "A. capillicornis",
+      "odds": 17374622.424264435,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nis": 295.3207102736003
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 261,
+      "end": 284,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anthribus variegatus,",
+      "name": "Anthribus variegatus",
+      "odds": 2245758267433.824,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 463,
+      "end": 484,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "30073617",
+          "matchedName": "Anthribus variegatus Geoffroy, E.L., 1785",
+          "matchedCanonical": "Anthribus variegatus",
+          "currentName": "Anthribus nebulosus Forster, J.R., 1770",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Anthribidae|Anthribus|Anthribus nebulosus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54772024|54800032|30073609",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anthribus tomentoSus,",
+      "name": "Anthribus tomentosus",
+      "odds": 538103447942.57904,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          }
+        }
+      },
+      "start": 1408,
+      "end": 1429,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "30071418",
+          "matchedName": "Anthribus tomentosus Melsheimer, 1806",
+          "matchedCanonical": "Anthribus tomentosus",
+          "currentName": "Anthribus tomentosus Melsheimer, 1806",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Anthribidae|Anthribus|Anthribus tomentosus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54772024|54800032|30071418",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

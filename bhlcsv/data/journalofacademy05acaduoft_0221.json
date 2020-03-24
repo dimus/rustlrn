@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:35.947714078-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 174,
+    "total_candidates": 86,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Scincus.",
+      "name": "Scincus",
+      "odds": 558688.7403345377,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 297,
+      "end": 305,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55017409",
+          "matchedName": "Scincus",
+          "matchedCanonical": "Scincus",
+          "currentName": "Scincus",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Scincidae|Scincus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768309|55017409",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

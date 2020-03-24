@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:58.619302556-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 164,
+    "total_candidates": 55,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Rana halecina.",
+      "name": "Rana halecina",
+      "odds": 1908874178.58394,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 183,
+      "end": 197,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 179,
+          "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+          "taxonId": "6158870",
+          "matchedName": "Rana halecina",
+          "matchedCanonical": "Rana halecina",
+          "currentName": "Rana halecina",
+          "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Neobatrachia|Ranoidea|Ranidae|Rana|Rana halecina",
+          "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|suborder|superfamily|family|genus|species",
+          "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|535804|911276|364560|364550|6158870",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana pipiens,",
+      "name": "Rana pipiens",
+      "odds": 232673388.44249073,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 214,
+      "end": 227,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162943",
+          "matchedName": "Rana pipiens Schreber, 1782",
+          "matchedCanonical": "Rana pipiens",
+          "currentName": "Lithobates pipiens (Schreber, 1782)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Lithobates|Lithobates pipiens",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|54923952|7161255",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana aquatica,",
+      "name": "Rana aquatica",
+      "odds": 3592154136.062506,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 259,
+      "end": 273,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana ocellata?",
+      "name": "Rana ocellata",
+      "odds": 10776462408.187517,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 313,
+      "end": 327,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232473",
+          "matchedName": "Rana ocellata Linnaeus 1758",
+          "matchedCanonical": "Rana ocellata",
+          "currentName": "Rana ocellata Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana utricularius.",
+      "name": "Rana utricularius",
+      "odds": 4061317687.52662,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ius": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          }
+        }
+      },
+      "start": 669,
+      "end": 687,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7165101",
+          "matchedName": "Rana utricularius Harlan, 1826",
+          "matchedCanonical": "Rana utricularius",
+          "currentName": "Lithobates sphenocephalus utricularius (Harlan, 1826)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Lithobates|Lithobates sphenocephalus|Lithobates sphenocephalus utricularius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|54923952|7161263|7161685",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana utricularius,",
+      "name": "Rana utricularius",
+      "odds": 4061317687.52662,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ius": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 694,
+      "end": 712,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7165101",
+          "matchedName": "Rana utricularius Harlan, 1826",
+          "matchedCanonical": "Rana utricularius",
+          "currentName": "Lithobates sphenocephalus utricularius (Harlan, 1826)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Lithobates|Lithobates sphenocephalus|Lithobates sphenocephalus utricularius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|54923952|7161263|7161685",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

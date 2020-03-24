@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:44.830571024-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 233,
+    "total_candidates": 22,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Fusus,",
+      "name": "Fusus",
+      "odds": 2824.7980396484077,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sus": 5.318275502808479
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 640,
+      "end": 646,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:446048",
+          "matchedName": "Fusus Bruguière, 1789",
+          "matchedCanonical": "Fusus",
+          "currentName": "Fusinus Rafinesque, 1815",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Neogastropoda|Buccinoidea|Fasciolariidae|Fusininae|Fusinus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:146|urn:lsid:marinespecies.org:taxname:382214|urn:lsid:marinespecies.org:taxname:23038|urn:lsid:marinespecies.org:taxname:411758|urn:lsid:marinespecies.org:taxname:138002",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:46.711839934-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 219,
+    "total_candidates": 35,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Chelonia,",
+      "name": "Chelonia",
+      "odds": 7273.100237901375,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 1306,
+      "end": 1315,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54834070",
+          "matchedName": "Chelonia",
+          "matchedCanonical": "Chelonia",
+          "currentName": "Chelonia",
+          "classificationPath": "Animalia|Chordata|Reptilia|Testudines|Cheloniidae|Chelonia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54774648|54774651|54834070",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ophidia,",
+      "name": "Ophidia",
+      "odds": 153.1935060008488,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1324,
+      "end": 1332,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "54232",
+          "matchedName": "Ophidia Latreille 1804",
+          "matchedCanonical": "Ophidia",
+          "currentName": "Ophidia Latreille 1804",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Sauropsida|Reptilia|Pythonomorpha|Ophidia",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|class|order|order",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|135358|36322|174159|54232",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ba- \r\r\n trachia,",
+      "name": "Batrachia",
+      "odds": 858.4865790899471,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          }
+        }
+      },
+      "start": 1337,
+      "end": 1353,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "67352",
+          "matchedName": "Batrachia (Macartney 1802)",
+          "matchedCanonical": "Batrachia",
+          "currentName": "Batrachia (Macartney 1802)",
+          "classificationPath": "Batrachia",
+          "classificationRank": "unranked clade",
+          "classificationIDs": "67352",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:41.652225759-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 202,
+    "total_candidates": 27,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ScALARiA,",
+      "name": "Scalaria",
+      "odds": 47196.664853144175,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 937,
+      "end": 946,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:206042",
+          "matchedName": "Scalaria Lamarck, 1801",
+          "matchedCanonical": "Scalaria",
+          "currentName": "Epitonium Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Epitonioidea|Epitoniidae|Epitonium",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14781|urn:lsid:marinespecies.org:taxname:132|urn:lsid:marinespecies.org:taxname:137943",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:57.491638585-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 267,
+    "total_candidates": 17,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Saurus,",
+      "name": "Saurus",
+      "odds": 51824.68430460959,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          }
+        }
+      },
+      "start": 1544,
+      "end": 1551,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:345027",
+          "matchedName": "Saurus Browne, 1789",
+          "matchedCanonical": "Saurus",
+          "currentName": "Saurus Browne, 1789",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Perciformes|Percoidei|Carangidae|Saurus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|suborder|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10194|urn:lsid:marinespecies.org:taxname:11014|urn:lsid:marinespecies.org:taxname:151751|urn:lsid:marinespecies.org:taxname:125523|urn:lsid:marinespecies.org:taxname:345027",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

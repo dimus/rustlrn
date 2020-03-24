@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:03.297567713-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 208,
+    "total_candidates": 35,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "BUFO.",
+      "name": "Bufo",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ufo": 2.5027178836745785
+          }
+        }
+      },
+      "start": 327,
+      "end": 332,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54821451",
+          "matchedName": "Bufo",
+          "matchedCanonical": "Bufo",
+          "currentName": "Bufo",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Bufo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771399|54821451",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "BuFO musicus.",
+      "name": "Bufo musicus",
+      "odds": 2105643803.1992497,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ufo": 2.5027178836745785
+          }
+        }
+      },
+      "start": 748,
+      "end": 761,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54821451",
+          "matchedName": "Bufo",
+          "matchedCanonical": "Bufo",
+          "currentName": "Bufo",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Bufo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771399|54821451",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Rana mtisica,",
+      "name": "Rana mtisica",
+      "odds": 21714.037742208176,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 778,
+      "end": 791,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bufo clamosa,",
+      "name": "Bufo clamosa",
+      "odds": 4267189654.271046,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ufo": 2.5027178836745785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 810,
+      "end": 823,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54821451",
+          "matchedName": "Bufo",
+          "matchedCanonical": "Bufo",
+          "currentName": "Bufo",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Bufo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771399|54821451",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

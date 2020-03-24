@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:34.6386568-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 252,
+    "total_candidates": 37,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Spir-ea \r\r\n opulifolia,",
+      "name": "Spir-ea opulifolia",
+      "odds": 17883.54186626035,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "lia": 320.34788911034605
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 973,
+      "end": 996,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "53756672",
+          "matchedName": "Spiraea opulifolia L.",
+          "matchedCanonical": "Spiraea opulifolia",
+          "currentName": "Physocarpus opulifolius (L.) Maxim.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Physocarpus|Physocarpus opulifolius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767868|54767869|54767870|54768571|54770861|54983865|53503215",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. philadelphica,",
+      "name": "C. philadelphica",
+      "odds": 30479210.52392151,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1110,
+      "end": 1127,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

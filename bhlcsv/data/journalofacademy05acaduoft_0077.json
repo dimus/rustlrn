@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:08.015323758-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 242,
+    "total_candidates": 51,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "CicoNiA",
+      "name": "Ciconia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 35,
+      "end": 42,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54837363",
+          "matchedName": "Ciconia",
+          "matchedCanonical": "Ciconia",
+          "currentName": "Ciconia",
+          "classificationPath": "Animalia|Chordata|Aves|Ciconiiformes|Ciconiidae|Ciconia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773287|54773288|54837363",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. violacea.",
+      "name": "A. violacea",
+      "odds": 1676468.9629860083,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 124,
+      "end": 136,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. nycticorax,",
+      "name": "A. nycticorax",
+      "odds": 343261.88562839443,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rax": 10.010871534698314
+          }
+        }
+      },
+      "start": 207,
+      "end": 221,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea violacea,",
+      "name": "Ardea violacea",
+      "odds": 153676780039.47495,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 703,
+      "end": 718,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232098",
+          "matchedName": "Ardea violacea Linnaeus 1758",
+          "matchedCanonical": "Ardea violacea",
+          "currentName": "Ardea violacea Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Ardea caycnnciisis,",
+      "name": "Ardea caycnnciisis",
+      "odds": 29880026.56051511,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 791,
+      "end": 810,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea cayanensis,",
+      "name": "Ardea cayanensis",
+      "odds": 1966610419664.925,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 832,
+      "end": 849,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Ardf.a jamaicensis,",
+      "name": "Ardf�a jamaicensis",
+      "odds": 125025.08097744617,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 871,
+      "end": 890,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ardea",
+      "name": "Ardea",
+      "odds": 42538.135185293664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          }
+        }
+      },
+      "start": 918,
+      "end": 923,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. nycticorax.)",
+      "name": "A. nycticorax",
+      "odds": 343261.88562839443,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rax": 10.010871534698314
+          }
+        }
+      },
+      "start": 1001,
+      "end": 1016,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea sexsetacea,",
+      "name": "Ardea sexsetacea",
+      "odds": 291058342110.409,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          }
+        }
+      },
+      "start": 1023,
+      "end": 1040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. violacea",
+      "name": "A. violacea",
+      "odds": 1676468.9629860083,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1604,
+      "end": 1615,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. sexsetacea.",
+      "name": "A. sexsetacea",
+      "odds": 3175172.4420626485,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          }
+        }
+      },
+      "start": 1658,
+      "end": 1672,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

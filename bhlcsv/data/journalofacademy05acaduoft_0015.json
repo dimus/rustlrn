@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:29.907912966-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 217,
+    "total_candidates": 41,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Geoglos- \r\r\n suM,",
+      "name": "Geoglossum",
+      "odds": 336778.98915516067,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sum": 60.06522920818988
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 272,
+      "end": 289,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54884258",
+          "matchedName": "Geoglossum",
+          "matchedCanonical": "Geoglossum",
+          "currentName": "Geoglossum",
+          "classificationPath": "Fungi|Ascomycota|Geoglossomycetes|Geoglossales|Geoglossaceae|Geoglossum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767787|54772966|54772967|54772968|54884258",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. hirsutum)",
+      "name": "G. hirsutum",
+      "odds": 8744824.590710798,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          }
+        }
+      },
+      "start": 302,
+      "end": 314,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. capitata.",
+      "name": "S. capitata",
+      "odds": 28137492.59498138,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 375,
+      "end": 387,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Scleroderma cervinum,",
+      "name": "Scleroderma cervinum",
+      "odds": 146816143.52690297,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rma": 26.278537778583075
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "num": 265.2880956695053
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 539,
+      "end": 560,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "42177050",
+          "matchedName": "Scleroderma cervinum (L.) Pers., 1801",
+          "matchedCanonical": "Scleroderma cervinum",
+          "currentName": "Elaphomyces granulatus Fr., 1829",
+          "isSynonym": true,
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Eurotiales|Elaphomycetaceae|Elaphomyces|Elaphomyces granulatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767767|54767787|54769101|54773529|54773533|54866955|42187030",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. mucronata,",
+      "name": "S. mucronata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 615,
+      "end": 628,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synops.",
+      "name": "Synops",
+      "odds": 4870.74100607233,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 638,
+      "end": 645,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:708694",
+          "matchedName": "Geodia (Synops) Vosmaer, 1882",
+          "matchedCanonical": "Geodia subgen. Synops",
+          "currentName": "Geodia Lamarck, 1815",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Porifera|Demospongiae|Heteroscleromorpha|Tetractinellida|Astrophorina|Geodiidae|Geodiinae|Geodia",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|suborder|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:558|urn:lsid:marinespecies.org:taxname:164811|urn:lsid:marinespecies.org:taxname:607950|urn:lsid:marinespecies.org:taxname:597812|urn:lsid:marinespecies.org:taxname:131602|urn:lsid:marinespecies.org:taxname:131664|urn:lsid:marinespecies.org:taxname:597252|urn:lsid:marinespecies.org:taxname:132005",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Hypoxylon.",
+      "name": "Hypoxylon",
+      "odds": 17989.507871972553,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          }
+        }
+      },
+      "start": 1139,
+      "end": 1149,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54904670",
+          "matchedName": "Hypoxylon",
+          "matchedCanonical": "Hypoxylon",
+          "currentName": "Hypoxylon",
+          "classificationPath": "Fungi|Ascomycota|Sordariomycetes|Xylariales|Hypoxylaceae|Hypoxylon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767787|54768946|54768947|54768948|54904670",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

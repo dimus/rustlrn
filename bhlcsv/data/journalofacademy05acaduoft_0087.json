@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:13.354663238-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 236,
+    "total_candidates": 46,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "ScoLOPAX minor,",
+      "name": "Scolopax minor",
+      "odds": 49083.015925233885,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "nor": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 51,
+      "end": 66,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35518519",
+          "matchedName": "Scolopax minor Gmelin, 1789",
+          "matchedCanonical": "Scolopax minor",
+          "currentName": "Scolopax minor Gmelin, 1789",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax|Scolopax minor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066|35518519",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "RusTicoLA minor,",
+      "name": "Rusticola minor",
+      "odds": 7888735.174396669,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ola": 125.13589418372894
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "nor": 17.51902518572205
+          }
+        }
+      },
+      "start": 83,
+      "end": 99,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1419746",
+          "matchedName": "Rusticola Houttuyn in Nozeman, 1770",
+          "matchedCanonical": "Rusticola",
+          "currentName": "Limosa Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Limosa",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1297722",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scolopax.",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 123,
+      "end": 132,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. gallinago.",
+      "name": "S. gallinago",
+      "odds": 131807.53846998856,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ago": 5.005435767349157
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 491,
+      "end": 504,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. gallinago",
+      "name": "S. gallinago",
+      "odds": 131807.53846998856,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ago": 5.005435767349157
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 671,
+      "end": 683,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scolo- \r\r\n pax,",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1193,
+      "end": 1208,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. brehmii.",
+      "name": "S. brehmii",
+      "odds": 289292.1140966393,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mii": 25.027178836745787
+          }
+        }
+      },
+      "start": 1266,
+      "end": 1277,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

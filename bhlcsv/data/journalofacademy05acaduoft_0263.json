@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:00.818786386-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 208,
+    "total_candidates": 18,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. tenuicollis.",
+      "name": "H. tenuicollis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 135,
+      "end": 150,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Upis,",
+      "name": "Upis",
+      "odds": 15244.239256987254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pis": 127.6386120674035
+          }
+        }
+      },
+      "start": 771,
+      "end": 776,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1115210",
+          "matchedName": "Upis Fabricius, 1792",
+          "matchedCanonical": "Upis",
+          "currentName": "Upis Fabricius, 1792",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Tenebrionidae|Upis",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|105034|1115210",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. aratus.",
+      "name": "H. aratus",
+      "odds": 6139079.441109383,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 816,
+      "end": 826,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

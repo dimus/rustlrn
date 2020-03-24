@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:08.189786284-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 225,
+    "total_candidates": 34,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Kalmia latifolia",
+      "name": "Kalmia latifolia",
+      "odds": 767005.3385732103,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lia": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 305,
+      "end": 321,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "53562761",
+          "matchedName": "Kalmia latifolia L.",
+          "matchedCanonical": "Kalmia latifolia",
+          "currentName": "Kalmia latifolia L.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Ericaceae|Kalmia|Kalmia latifolia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767868|54767869|54767870|54770213|54773500|54910817|53562761",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Apion,",
+      "name": "Apion",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ion": 0.22518027231005205
+          }
+        }
+      },
+      "start": 364,
+      "end": 370,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:150751",
+          "matchedName": "Apion Herbst, 1797",
+          "matchedCanonical": "Apion",
+          "currentName": "Apion Herbst, 1797",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Coleoptera|Apionidae|Apion",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1278|urn:lsid:marinespecies.org:taxname:1307|urn:lsid:marinespecies.org:taxname:151152|urn:lsid:marinespecies.org:taxname:118085|urn:lsid:marinespecies.org:taxname:150737|urn:lsid:marinespecies.org:taxname:150751",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rhynchites rostrum,",
+      "name": "Rhynchites rostrum",
+      "odds": 12481768.169097185,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 506,
+      "end": 525,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55010273",
+          "matchedName": "Rhynchites",
+          "matchedCanonical": "Rhynchites",
+          "currentName": "Rhynchites",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Attelabidae|Rhynchites",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54768942|55010273",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Robinia pseud- \r\r\n acacia",
+      "name": "Robinia pseudacacia",
+      "odds": 156313.2481190867,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 1150,
+      "end": 1175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "11755294",
+          "matchedName": "Robinia pseudacacia L.",
+          "matchedCanonical": "Robinia pseudacacia",
+          "currentName": "Robinia pseudoacacia L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Robinia|Robinia pseudoacacia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767868|54767869|54767870|54768564|54768565|55011519|11472276",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

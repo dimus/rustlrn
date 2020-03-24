@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:43.949194308-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 264,
+    "total_candidates": 23,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. \r\r\n vulgatum.",
+      "name": "N. vulgatum",
+      "odds": 8744824.590710798,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 1158,
+      "end": 1174,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

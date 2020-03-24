@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:35.354124497-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 270,
+    "total_candidates": 23,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "CONDYLURA.",
+      "name": "Condylura",
+      "odds": 300001.49892377754,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 0,
+      "end": 10,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54842630",
+          "matchedName": "Condylura",
+          "matchedCanonical": "Condylura",
+          "currentName": "Condylura",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Talpidae|Condylura",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54776766|54776770|54842630",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Sigmodont hispidum",
+      "name": "Sigmodont hispidum",
+      "odds": 619.1024410211332,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dum": 67.57338285921362
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ont": 0.11917704207974185
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 199,
+      "end": 217,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35489610",
+          "matchedName": "Sigmodon (Sigmodon) hispidus Say and Ord, 1825",
+          "matchedCanonical": "Sigmodon hispidus",
+          "currentName": "Sigmodon (Sigmodon) hispidus Say and Ord, 1825",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Sigmodon|Sigmodon hispidus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767753|54767754|54768010|54768011|55021667|35489610",
+          "editDistance": 2,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Condylura",
+      "name": "Condylura",
+      "odds": 300001.49892377754,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          }
+        }
+      },
+      "start": 253,
+      "end": 262,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54842630",
+          "matchedName": "Condylura",
+          "matchedCanonical": "Condylura",
+          "currentName": "Condylura",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Talpidae|Condylura",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54776766|54776770|54842630",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scalops,",
+      "name": "Scalops",
+      "odds": 9609.36945879838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 272,
+      "end": 280,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "51405",
+          "matchedName": "Scalops Illinger 1811",
+          "matchedCanonical": "Scalops",
+          "currentName": "Scalopus Geoffroy 1803",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Lipotyphla|Talpidae|Scalopus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|order|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|57530|67887|40423",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Condylura",
+      "name": "Condylura",
+      "odds": 300001.49892377754,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          }
+        }
+      },
+      "start": 359,
+      "end": 368,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54842630",
+          "matchedName": "Condylura",
+          "matchedCanonical": "Condylura",
+          "currentName": "Condylura",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Talpidae|Condylura",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54776766|54776770|54842630",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scalops",
+      "name": "Scalops",
+      "odds": 9609.36945879838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 472,
+      "end": 479,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "51405",
+          "matchedName": "Scalops Illinger 1811",
+          "matchedCanonical": "Scalops",
+          "currentName": "Scalopus Geoffroy 1803",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Lipotyphla|Talpidae|Scalopus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|order|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|57530|67887|40423",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scalops",
+      "name": "Scalops",
+      "odds": 9609.36945879838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 841,
+      "end": 848,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "51405",
+          "matchedName": "Scalops Illinger 1811",
+          "matchedCanonical": "Scalops",
+          "currentName": "Scalopus Geoffroy 1803",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Lipotyphla|Talpidae|Scalopus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|order|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|57530|67887|40423",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Condylura",
+      "name": "Condylura",
+      "odds": 300001.49892377754,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          }
+        }
+      },
+      "start": 1273,
+      "end": 1282,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54842630",
+          "matchedName": "Condylura",
+          "matchedCanonical": "Condylura",
+          "currentName": "Condylura",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Talpidae|Condylura",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54776766|54776770|54842630",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Talpa",
+      "name": "Talpa",
+      "odds": 5317.266898161708,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lpa": 10.010871534698314
+          }
+        }
+      },
+      "start": 1532,
+      "end": 1537,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55036609",
+          "matchedName": "Talpa",
+          "matchedCanonical": "Talpa",
+          "currentName": "Talpa",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Talpidae|Talpa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54776766|54776770|55036609",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

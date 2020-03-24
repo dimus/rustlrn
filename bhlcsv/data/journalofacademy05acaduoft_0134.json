@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:41.983718188-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 228,
+    "total_candidates": 38,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Planorbis campanulatus,",
+      "name": "Planorbis campanulatus",
+      "odds": 8091963575407.8125,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bis": 17.51902518572205
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 446,
+      "end": 469,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54550762",
+          "matchedName": "Planorbis campanulatus Say, 1821",
+          "matchedCanonical": "Planorbis campanulatus",
+          "currentName": "Planorbella campanulata (Say, 1821)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Planorbidae|Planorbella|Planorbella campanulata",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54778777|54781982|54986284|54463756",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Valvata tri- \r\r\n earinata,",
+      "name": "Valvata triearinata",
+      "odds": 45690155.00705586,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          }
+        }
+      },
+      "start": 470,
+      "end": 496,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54438003",
+          "matchedName": "Valvata tricarinata (Say, 1817)",
+          "matchedCanonical": "Valvata tricarinata",
+          "currentName": "Valvata tricarinata (Say, 1817)",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Valvatoidea|Valvatidae|Valvata|Valvata tricarinata",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781990|54781991|55054483|54438003",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Physa.",
+      "name": "Physa",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ysa": 12.513589418372893
+          }
+        }
+      },
+      "start": 704,
+      "end": 710,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54983669",
+          "matchedName": "Physa",
+          "matchedCanonical": "Physa",
+          "currentName": "Physa",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54778777|54781976|54983669",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. ancillaria.",
+      "name": "P. ancillaria",
+      "odds": 1072693.3925887328,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ria": 31.283973545932234
+          }
+        }
+      },
+      "start": 717,
+      "end": 731,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paludina",
+      "name": "Paludina",
+      "odds": 9132.861120933094,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1182,
+      "end": 1190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:718590",
+          "matchedName": "Paludina Férussac, 1812",
+          "matchedCanonical": "Paludina",
+          "currentName": "Viviparus Montfort, 1810",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Architaenioglossa|Viviparoidea|Viviparidae|Viviparinae|Viviparus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:489327|urn:lsid:marinespecies.org:taxname:153656|urn:lsid:marinespecies.org:taxname:154000|urn:lsid:marinespecies.org:taxname:154002|urn:lsid:marinespecies.org:taxname:154004",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

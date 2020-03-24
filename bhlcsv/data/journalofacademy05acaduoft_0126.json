@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:37.096434004-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 207,
+    "total_candidates": 24,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Salamandra.",
+      "name": "Salamandra",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1250,
+      "end": 1261,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tigrina.",
+      "name": "S. tigrina",
+      "odds": 3182213.2550630323,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1268,
+      "end": 1279,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Cauda longiuscula",
+      "name": "Cauda longiuscula",
+      "odds": 147.3582159250218,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uda": 2.5027178836745785
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 1280,
+      "end": 1297,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129547720",
+          "matchedName": "Cauda",
+          "matchedCanonical": "Cauda",
+          "currentName": "Cauda",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    }
+  ]
+}

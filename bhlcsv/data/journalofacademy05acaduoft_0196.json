@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:21.570495702-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 202,
+    "total_candidates": 27,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Byrrhus,",
+      "name": "Byrrhus",
+      "odds": 25139.588868748684,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 569,
+      "end": 577,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54822352",
+          "matchedName": "Byrrhus",
+          "matchedCanonical": "Byrrhus",
+          "currentName": "Byrrhus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Byrrhoidea|Byrrhidae|Byrrhus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769861|54770149|54822352",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. alternatus.",
+      "name": "B. alternatus",
+      "odds": 35098527.80550332,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 590,
+      "end": 604,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Elmis,",
+      "name": "Elmis",
+      "odds": 38550.18501167239,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mis": 72.57881862656278
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1303,
+      "end": 1309,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54867715",
+          "matchedName": "Elmis",
+          "matchedCanonical": "Elmis",
+          "currentName": "Elmis",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Byrrhoidea|Elmidae|Elmis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769861|54769915|54867715",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. cinctus.",
+      "name": "E. cinctus",
+      "odds": 11832047.466552548,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1325,
+      "end": 1336,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

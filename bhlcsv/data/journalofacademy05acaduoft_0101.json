@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:22.591984714-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 303,
+    "total_candidates": 34,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. pusilla",
+      "name": "T. pusilla",
+      "odds": 2921850.352376057,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 127,
+      "end": 137,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. pusilla,",
+      "name": "T. pusilla",
+      "odds": 2921850.352376057,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          }
+        }
+      },
+      "start": 611,
+      "end": 622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 748,
+      "end": 754,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. pusilla.",
+      "name": "T. pusilla",
+      "odds": 2921850.352376057,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 890,
+      "end": 901,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Totanus pusillus,",
+      "name": "Totanus pusillus",
+      "odds": 2246193253635.2285,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1086,
+      "end": 1103,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "39583",
+          "matchedName": "Totanus Moehring 1758",
+          "matchedCanonical": "Totanus",
+          "currentName": "Totanus Moehring 1758",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Sauropsida|Reptilia|Eureptilia|Romeriida|Diapsida|Archosauromorpha|Archosauriformes|Crurotarsi|Archosauria|Avemetatarsalia|Ornithodira|Dinosauromorpha|Dinosauriformes|Dinosauria|Saurischia|Theropoda|Neotheropoda|Averostra|Tetanurae|Avetheropoda|Coelurosauria|Maniraptora|Paraves|Aves|Charadriiformes|Limicolae|Scolopacides|Scolopacoidea|Scolopacidae|Totanus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|infraclass|unranked clade|unranked clade|unranked clade|informal|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|suborder|unranked clade|unranked clade|class|order|suborder|infraorder|superfamily|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|135358|36322|92204|99771|37768|38182|57091|66477|38215|144376|57250|53366|53207|52775|38505|38513|56397|92043|53374|55483|53940|55486|64113|36616|36640|98938|98941|98943|39581|39583",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1376,
+      "end": 1382,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Tringa semipalmala",
+      "name": "Tringa semipalmala",
+      "odds": 3580159.7871842403,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "ala": 80.08697227758651
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1465,
+      "end": 1483,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35539855",
+          "matchedName": "Tringa semipalmata (Gmelin, 1789)",
+          "matchedCanonical": "Tringa semipalmata",
+          "currentName": "Tringa semipalmata (Gmelin, 1789)",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa|Tringa semipalmata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790|35539855",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

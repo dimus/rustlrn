@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:03.021329745-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 204,
+    "total_candidates": 45,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Hyla delitescens^",
+      "name": "Hyla delitescens",
+      "odds": 53740.557854110884,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yla": 27.529896720420364
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          }
+        }
+      },
+      "start": 733,
+      "end": 750,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1098563",
+          "matchedName": "Hyla delitescens LeConte, 1825",
+          "matchedCanonical": "Hyla delitescens",
+          "currentName": "Dryophytes squirellus (Daudin, 1800)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Anura|Hylidae|Hylinae|Dryophytes|Dryophytes squirellus",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173423|173497|661421|1094766|1098561",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hyla versicolor.",
+      "name": "Hyla versicolor",
+      "odds": 14.035348209616103,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yla": 27.529896720420364
+          },
+          "spEnd3": {
+            "lor": 115.12502264903061
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 1099,
+      "end": 1115,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7156381",
+          "matchedName": "Hyla versicolor LeConte, 1825",
+          "matchedCanonical": "Hyla versicolor",
+          "currentName": "Hyla versicolor LeConte, 1825",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Hyla|Hyla versicolor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771386|54903048|7156381",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hyla versicolor,",
+      "name": "Hyla versicolor",
+      "odds": 14.035348209616103,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yla": 27.529896720420364
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "lor": 115.12502264903061
+          }
+        }
+      },
+      "start": 1122,
+      "end": 1138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7156381",
+          "matchedName": "Hyla versicolor LeConte, 1825",
+          "matchedCanonical": "Hyla versicolor",
+          "currentName": "Hyla versicolor LeConte, 1825",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Hyla|Hyla versicolor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771386|54903048|7156381",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

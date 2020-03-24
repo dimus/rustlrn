@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:54.816970323-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 258,
+    "total_candidates": 37,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ASTERIAS.",
+      "name": "Asterias",
+      "odds": 212384.99183914877,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          }
+        }
+      },
+      "start": 0,
+      "end": 9,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54807252",
+          "matchedName": "Asterias",
+          "matchedCanonical": "Asterias",
+          "currentName": "Asterias",
+          "classificationPath": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767878|54778898|54779951|54782440|54807252",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ophiura,",
+      "name": "Ophiura",
+      "odds": 115024.15242181659,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          }
+        }
+      },
+      "start": 401,
+      "end": 409,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54961623",
+          "matchedName": "Ophiura",
+          "matchedCanonical": "Ophiura",
+          "currentName": "Ophiura",
+          "classificationPath": "Animalia|Echinodermata|Ophiuroidea|Ophiurida|Ophiuridae|Ophiura",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767878|54779122|54780798|54780817|54961623",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. angulata.",
+      "name": "O. angulata",
+      "odds": 28137492.59498138,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 424,
+      "end": 436,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

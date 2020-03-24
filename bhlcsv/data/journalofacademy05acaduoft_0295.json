@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:20.177447909-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 212,
+    "total_candidates": 23,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. fuscipes.",
+      "name": "S. fuscipes",
+      "odds": 679649.5795889222,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pes": 37.54076825511868
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 225,
+      "end": 237,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Saperda fuscipes,",
+      "name": "Saperda fuscipes",
+      "odds": 10696158350.643946,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rda": 5.005435767349157
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pes": 37.54076825511868
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 307,
+      "end": 324,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "23237351",
+          "matchedName": "Saperda fuscipes Lacordaire, 1872",
+          "matchedCanonical": "Saperda fuscipes",
+          "currentName": "Saperda discoidea Fabricius, 1798",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Cerambycidae|Saperda|Saperda discoidea",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767855|54767856|55014542|23162411",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Saperda cinera,",
+      "name": "Saperda cinera",
+      "odds": 15590737234.166004,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rda": 5.005435767349157
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          }
+        }
+      },
+      "start": 880,
+      "end": 895,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "23218994",
+          "matchedName": "Saperda cinerea Gemminger \u0026 Harold, 1873",
+          "matchedCanonical": "Saperda cinerea",
+          "currentName": "Mecas cinerea (Newman, 1840)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Cerambycidae|Mecas|Mecas cinerea",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767855|54767856|54932675|23159938",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. vestita",
+      "name": "S. vestita",
+      "odds": 607513.4396029427,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ita": 52.55707555716615
+          }
+        }
+      },
+      "start": 1374,
+      "end": 1384,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

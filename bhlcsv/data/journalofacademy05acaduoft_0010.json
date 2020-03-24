@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:27.462097065-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 135,
+    "total_candidates": 58,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Asterias,",
+      "name": "Asterias",
+      "odds": 212384.99183914877,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 328,
+      "end": 337,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54807252",
+          "matchedName": "Asterias",
+          "matchedCanonical": "Asterias",
+          "currentName": "Asterias",
+          "classificationPath": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767878|54778898|54779951|54782440|54807252",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber fulvius,",
+      "name": "Coluber fulvius",
+      "odds": 8069320219.113117,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ius": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 456,
+      "end": 472,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28920683",
+          "matchedName": "Coluber fulvius Linnaeus, 1766",
+          "matchedCanonical": "Coluber fulvius",
+          "currentName": "Micrurus fulvius (Linnaeus, 1766)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Elapidae|Micrurus|Micrurus fulvius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768622|54940465|28896950",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scincus,",
+      "name": "Scincus",
+      "odds": 558688.7403345377,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 500,
+      "end": 508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55017409",
+          "matchedName": "Scincus",
+          "matchedCanonical": "Scincus",
+          "currentName": "Scincus",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Scincidae|Scincus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768309|55017409",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salamandra.",
+      "name": "Salamandra",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          }
+        }
+      },
+      "start": 536,
+      "end": 547,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pulsatilla,",
+      "name": "Pulsatilla",
+      "odds": 2322371.779382462,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 636,
+      "end": 647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55003916",
+          "matchedName": "Pulsatilla",
+          "matchedCanonical": "Pulsatilla",
+          "currentName": "Pulsatilla",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Pulsatilla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771526|54771527|55003916",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

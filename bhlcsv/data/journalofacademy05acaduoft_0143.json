@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:46.821479456-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 246,
+    "total_candidates": 22,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Lunaria.",
+      "name": "Lunaria",
+      "odds": 26778.109558518143,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 713,
+      "end": 721,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54926629",
+          "matchedName": "Lunaria",
+          "matchedCanonical": "Lunaria",
+          "currentName": "Lunaria",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Lunaria",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|54926629",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sisymbrium,",
+      "name": "Sisymbrium",
+      "odds": 278490.317955229,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 1098,
+      "end": 1109,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55023211",
+          "matchedName": "Sisymbrium",
+          "matchedCanonical": "Sisymbrium",
+          "currentName": "Sisymbrium",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Sisymbrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|55023211",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lunaria",
+      "name": "Lunaria",
+      "odds": 26778.109558518143,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 1399,
+      "end": 1406,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54926629",
+          "matchedName": "Lunaria",
+          "matchedCanonical": "Lunaria",
+          "currentName": "Lunaria",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Lunaria",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|54926629",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ricotia,",
+      "name": "Ricotia",
+      "odds": 73639.80128592491,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tia": 50.471477320770674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1539,
+      "end": 1547,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55010990",
+          "matchedName": "Ricotia",
+          "matchedCanonical": "Ricotia",
+          "currentName": "Ricotia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Ricotia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|55010990",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sisymbrium.",
+      "name": "Sisymbrium",
+      "odds": 278490.317955229,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 1660,
+      "end": 1671,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55023211",
+          "matchedName": "Sisymbrium",
+          "matchedCanonical": "Sisymbrium",
+          "currentName": "Sisymbrium",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Sisymbrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|55023211",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:45.535998278-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 236,
+    "total_candidates": 29,
+    "total_names": 8
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Unio cariosus,",
+      "name": "Unio cariosus",
+      "odds": 2145117077.9582746,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nio": 1.8770384127559339
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          }
+        }
+      },
+      "start": 534,
+      "end": 548,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54581926",
+          "matchedName": "Unio cariosus Say, 1817",
+          "matchedCanonical": "Unio cariosus",
+          "currentName": "Lampsilis cariosa (Say, 1817)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Lampsilis|Lampsilis cariosa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|54915856|54464410",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Melania",
+      "name": "Melania",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 567,
+      "end": 574,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:205560",
+          "matchedName": "Melania Lamarck, 1799",
+          "matchedCanonical": "Melania",
+          "currentName": "Thiara Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Cerithioidea|Thiaridae|Thiarinae|Thiara",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14769|urn:lsid:marinespecies.org:taxname:196287|urn:lsid:marinespecies.org:taxname:1000045|urn:lsid:marinespecies.org:taxname:206444",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fusus.",
+      "name": "Fusus",
+      "odds": 2824.7980396484077,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sus": 5.318275502808479
+          }
+        }
+      },
+      "start": 840,
+      "end": 846,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:446048",
+          "matchedName": "Fusus Bruguière, 1789",
+          "matchedCanonical": "Fusus",
+          "currentName": "Fusinus Rafinesque, 1815",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Neogastropoda|Buccinoidea|Fasciolariidae|Fusininae|Fusinus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:146|urn:lsid:marinespecies.org:taxname:382214|urn:lsid:marinespecies.org:taxname:23038|urn:lsid:marinespecies.org:taxname:411758|urn:lsid:marinespecies.org:taxname:138002",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Unio.",
+      "name": "Unio",
+      "odds": 224.17998907334197,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nio": 1.8770384127559339
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 853,
+      "end": 858,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55053046",
+          "matchedName": "Unio",
+          "matchedCanonical": "Unio",
+          "currentName": "Unio",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Unio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|55053046",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "U. subtentus.",
+      "name": "U. subtentus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 865,
+      "end": 878,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "U. cariosus,",
+      "name": "U. cariosus",
+      "odds": 4440377.253314292,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1334,
+      "end": 1346,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Melania subglobosa,",
+      "name": "Melania subglobosa",
+      "odds": 174752557038.65244,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1354,
+      "end": 1373,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54601795",
+          "matchedName": "Melania subglobosa Say, 1825",
+          "matchedCanonical": "Melania subglobosa",
+          "currentName": "Leptoxis praerosa (Say, 1821)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Cerithioidea|Pleuroceridae|Leptoxis|Leptoxis praerosa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781570|54781651|54920618|54493959",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Fusus jluvialis,",
+      "name": "Fusus jluvialis",
+      "odds": 588716.8496008301,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sus": 5.318275502808479
+          }
+        }
+      },
+      "start": 1389,
+      "end": 1405,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54601355",
+          "matchedName": "Fusus fluvialis Say, 1825",
+          "matchedCanonical": "Fusus fluvialis",
+          "currentName": "Io fluvialis (Say, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Cerithioidea|Pleuroceridae|Io|Io fluvialis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781570|54781651|54907144|54500517",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

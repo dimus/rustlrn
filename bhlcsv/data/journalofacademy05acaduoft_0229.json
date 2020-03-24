@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:40.93263992-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 202,
+    "total_candidates": 37,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Delphinula,",
+      "name": "Delphinula",
+      "odds": 148120.38874879753,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 137,
+      "end": 148,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:204575",
+          "matchedName": "Delphinula Lamarck, 1804",
+          "matchedCanonical": "Delphinula",
+          "currentName": "Angaria Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Vetigastropoda|Trochida|Trochoidea|Angariidae|Angaria",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:156485|urn:lsid:marinespecies.org:taxname:1052448|urn:lsid:marinespecies.org:taxname:156489|urn:lsid:marinespecies.org:taxname:413479|urn:lsid:marinespecies.org:taxname:204420",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vermetus,",
+      "name": "Vermetus",
+      "odds": 187714.0079386416,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 812,
+      "end": 821,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55055384",
+          "matchedName": "Vermetus",
+          "matchedCanonical": "Vermetus",
+          "currentName": "Vermetus",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Vermetoidea|Vermetidae|Vermetus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778796|54782010|54782011|55055384",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Natica",
+      "name": "Natica",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ica": 0.8073283495724448
+          }
+        }
+      },
+      "start": 1157,
+      "end": 1163,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54948380",
+          "matchedName": "Natica",
+          "matchedCanonical": "Natica",
+          "currentName": "Natica",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Naticoidea|Naticidae|Natica",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778796|54782196|54782197|54948380",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helix aspersa.",
+      "name": "Helix aspersa",
+      "odds": 17002.27760248064,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lix": 17.51902518572205
+          },
+          "spEnd3": {
+            "rsa": 22.52446095307121
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1220,
+      "end": 1234,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54608226",
+          "matchedName": "Helix (Cornu) aspersa O. F. Müller, 1774",
+          "matchedCanonical": "Helix aspersa",
+          "currentName": "Cornu aspersum (O. F. Müller, 1774)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Stylommatophora|Helicoidea|Helicidae|Cornu|Cornu aspersum",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54777336|54778724|54781890|54844407|54476642",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "TuRRiTELLA,",
+      "name": "Turritella",
+      "odds": 2322371.779382462,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1252,
+      "end": 1263,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55051527",
+          "matchedName": "Turritella",
+          "matchedCanonical": "Turritella",
+          "currentName": "Turritella",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Cerithioidea|Turritellidae|Turritella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781570|54782022|55051527",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

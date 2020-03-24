@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:09.307672984-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 243,
+    "total_candidates": 11,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. rotundicollis.",
+      "name": "C. rotundicollis",
+      "odds": 22822597.252211753,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 187,
+      "end": 204,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. ligata.",
+      "name": "C. ligata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1259,
+      "end": 1269,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

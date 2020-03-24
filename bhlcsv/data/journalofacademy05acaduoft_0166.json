@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:02.542098389-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 196,
+    "total_candidates": 22,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "SCINCUS.",
+      "name": "Scincus",
+      "odds": 558688.7403345377,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 19,
+      "end": 27,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55017409",
+          "matchedName": "Scincus",
+          "matchedCanonical": "Scincus",
+          "currentName": "Scincus",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Scincidae|Scincus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768309|55017409",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. unicolor.",
+      "name": "S. unicolor",
+      "odds": 2084258.7107393614,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lor": 115.12502264903061
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 34,
+      "end": 46,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salamandra.",
+      "name": "Salamandra",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          }
+        }
+      },
+      "start": 783,
+      "end": 794,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cylindracea.",
+      "name": "S. cylindracea",
+      "odds": 6448363.188166889,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 804,
+      "end": 819,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

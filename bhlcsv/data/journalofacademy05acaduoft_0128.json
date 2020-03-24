@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:38.410329246-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 200,
+    "total_candidates": 30,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "SAURUS.",
+      "name": "Saurus",
+      "odds": 51824.68430460959,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          }
+        }
+      },
+      "start": 5,
+      "end": 12,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:345027",
+          "matchedName": "Saurus Browne, 1789",
+          "matchedCanonical": "Saurus",
+          "currentName": "Saurus Browne, 1789",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Perciformes|Percoidei|Carangidae|Saurus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|suborder|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10194|urn:lsid:marinespecies.org:taxname:11014|urn:lsid:marinespecies.org:taxname:151751|urn:lsid:marinespecies.org:taxname:125523|urn:lsid:marinespecies.org:taxname:345027",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. sub- \r\r\n violacea,",
+      "name": "S. subviolacea",
+      "odds": 6448363.188166889,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          }
+        }
+      },
+      "start": 175,
+      "end": 196,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tigrina",
+      "name": "S. tigrina",
+      "odds": 3182213.2550630323,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          }
+        }
+      },
+      "start": 366,
+      "end": 376,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. terrestris",
+      "name": "S. terrestris",
+      "odds": 11499273.168551212,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 414,
+      "end": 427,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tigrina.",
+      "name": "S. tigrina",
+      "odds": 3182213.2550630323,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 609,
+      "end": 620,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saurus,",
+      "name": "Saurus",
+      "odds": 51824.68430460959,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          }
+        }
+      },
+      "start": 677,
+      "end": 684,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:345027",
+          "matchedName": "Saurus Browne, 1789",
+          "matchedCanonical": "Saurus",
+          "currentName": "Saurus Browne, 1789",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Perciformes|Percoidei|Carangidae|Saurus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|suborder|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10194|urn:lsid:marinespecies.org:taxname:11014|urn:lsid:marinespecies.org:taxname:151751|urn:lsid:marinespecies.org:taxname:125523|urn:lsid:marinespecies.org:taxname:345027",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saurus.",
+      "name": "Saurus",
+      "odds": 51824.68430460959,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 747,
+      "end": 754,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:345027",
+          "matchedName": "Saurus Browne, 1789",
+          "matchedCanonical": "Saurus",
+          "currentName": "Saurus Browne, 1789",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Perciformes|Percoidei|Carangidae|Saurus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|suborder|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10194|urn:lsid:marinespecies.org:taxname:11014|urn:lsid:marinespecies.org:taxname:151751|urn:lsid:marinespecies.org:taxname:125523|urn:lsid:marinespecies.org:taxname:345027",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

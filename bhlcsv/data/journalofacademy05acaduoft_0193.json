@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:19.292823298-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 197,
+    "total_candidates": 26,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. unicolor.",
+      "name": "N. unicolor",
+      "odds": 2084258.7107393614,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lor": 115.12502264903061
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 35,
+      "end": 47,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. brachyptera.",
+      "name": "N. brachyptera",
+      "odds": 11502485.687000396,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          }
+        }
+      },
+      "start": 501,
+      "end": 516,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "JVitidula brachyptera,",
+      "name": "Jvitidula brachyptera",
+      "odds": 48843.194222252765,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 594,
+      "end": 616,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ScAPHisoMA,",
+      "name": "Scaphisoma",
+      "odds": 187099.43841953372,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          }
+        }
+      },
+      "start": 984,
+      "end": 995,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55015789",
+          "matchedName": "Scaphisoma",
+          "matchedCanonical": "Scaphisoma",
+          "currentName": "Scaphisoma",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Staphylinidae|Scaphisoma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769842|54769849|55015789",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. convexa.",
+      "name": "S. convexa",
+      "odds": 144646.05704831966,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "exa": 12.513589418372893
+          }
+        }
+      },
+      "start": 1009,
+      "end": 1020,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Scaphidium convexum.",
+      "name": "Scaphidium convexum",
+      "odds": 81575442229.70323,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "xum": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 1096,
+      "end": 1116,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "53302990",
+          "matchedName": "Scaphidium connexum Tang, Liang, Li-Zhen Li \u0026 Wen-Jia He, 2014",
+          "matchedCanonical": "Scaphidium connexum",
+          "currentName": "Scaphidium connexum Tang, Liang, Li-Zhen Li \u0026 Wen-Jia He, 2014",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Staphylinidae|Scaphidium|Scaphidium connexum",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769842|54769849|55015757|53302990",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

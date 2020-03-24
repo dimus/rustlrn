@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:43.211958889-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 232,
+    "total_candidates": 31,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Melania.",
+      "name": "Melania",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 294,
+      "end": 302,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:205560",
+          "matchedName": "Melania Lamarck, 1799",
+          "matchedCanonical": "Melania",
+          "currentName": "Thiara Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Cerithioidea|Thiaridae|Thiarinae|Thiara",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14769|urn:lsid:marinespecies.org:taxname:196287|urn:lsid:marinespecies.org:taxname:1000045|urn:lsid:marinespecies.org:taxname:206444",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. proxima.",
+      "name": "M. proxima",
+      "odds": 1157168.4563865573,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ima": 100.10871534698315
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1325,
+      "end": 1336,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

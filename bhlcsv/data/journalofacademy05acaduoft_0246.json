@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:51.1359193-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 158,
+    "total_candidates": 71,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Oriolus icterocephalus.",
+      "name": "Oriolus icterocephalus",
+      "odds": 12128546931783.246,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 56,
+      "end": 79,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "9088073",
+          "matchedName": "Oriolus icterocephalus Linnaeus, 1766",
+          "matchedCanonical": "Oriolus icterocephalus",
+          "currentName": "Oriolus icterocephalus Linnaeus, 1766",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Oriolidae|Oriolus|Oriolus icterocephalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|729|5708|2488947|9088073",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "I. icterocephalus",
+      "name": "I. icterocephalus",
+      "odds": 17784591.913171966,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 122,
+      "end": 139,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Icterus icteroce- \r\r\n phalus,",
+      "name": "Icterus icterocephalus",
+      "odds": 3190229.4628908224,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 422,
+      "end": 451,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54905447",
+          "matchedName": "Icterus",
+          "matchedCanonical": "Icterus",
+          "currentName": "Icterus",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Icteridae|Icterus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54768182|54768266|54905447",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "OrioI/US icterocephalus,",
+      "name": "Orioi�us icterocephalus",
+      "odds": 111269.75639379065,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 659,
+      "end": 683,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "Icterus xanlhornus icterocephalus",
+      "name": "Icterus xanlhornus icterocephalus",
+      "odds": 2316060.8021576237,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "ispLen": {
+            "14": 8.968072416500574
+          },
+          "ispEnd3": {
+            "lus": 17.51902518572205
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 742,
+      "end": 775,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129468691",
+          "matchedName": "Icterus xanthornus",
+          "matchedCanonical": "Icterus xanthornus",
+          "currentName": "Icterus xanthornus",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyPartialMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Icterus icterocephalus,",
+      "name": "Icterus icterocephalus",
+      "odds": 3190229.4628908224,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          }
+        }
+      },
+      "start": 802,
+      "end": 825,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54905447",
+          "matchedName": "Icterus",
+          "matchedCanonical": "Icterus",
+          "currentName": "Icterus",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Icteridae|Icterus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54768182|54768266|54905447",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pendulinus icterocephalus,",
+      "name": "Pendulinus icterocephalus",
+      "odds": 32267341807025.72,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 856,
+      "end": 882,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1244399",
+          "matchedName": "Pendulinus Thunberg, 1822",
+          "matchedCanonical": "Pendulinus",
+          "currentName": "Pendulinus Thunberg, 1822",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Hemiptera|Hemiptera|Pendulinus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|11584|105750|1244399",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:17.847262915-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 209,
+    "total_candidates": 45,
+    "total_names": 8
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ToTANus",
+      "name": "Totanus",
+      "odds": 219093.623660603,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 96,
+      "end": 103,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "39583",
+          "matchedName": "Totanus Moehring 1758",
+          "matchedCanonical": "Totanus",
+          "currentName": "Totanus Moehring 1758",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Sauropsida|Reptilia|Eureptilia|Romeriida|Diapsida|Archosauromorpha|Archosauriformes|Crurotarsi|Archosauria|Avemetatarsalia|Ornithodira|Dinosauromorpha|Dinosauriformes|Dinosauria|Saurischia|Theropoda|Neotheropoda|Averostra|Tetanurae|Avetheropoda|Coelurosauria|Maniraptora|Paraves|Aves|Charadriiformes|Limicolae|Scolopacides|Scolopacoidea|Scolopacidae|Totanus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|infraclass|unranked clade|unranked clade|unranked clade|informal|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|suborder|unranked clade|unranked clade|class|order|suborder|infraorder|superfamily|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|135358|36322|92204|99771|37768|38182|57091|66477|38215|144376|57250|53366|53207|52775|38505|38513|56397|92043|53374|55483|53940|55486|64113|36616|36640|98938|98941|98943|39581|39583",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "TRINGA.",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          }
+        }
+      },
+      "start": 168,
+      "end": 175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scolopax,",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 365,
+      "end": 374,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Strepsilas,",
+      "name": "Strepsilas",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "las": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 685,
+      "end": 696,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1326524",
+          "matchedName": "Strepsilas Illiger, 1811",
+          "matchedCanonical": "Strepsilas",
+          "currentName": "Arenaria Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Arenaria",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1294681",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Charadrius,",
+      "name": "Charadrius",
+      "odds": 139155.2073245282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 706,
+      "end": 717,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54833338",
+          "matchedName": "Charadrius",
+          "matchedCanonical": "Charadrius",
+          "currentName": "Charadrius",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Charadriidae|Charadrius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54774228|54833338",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ToTANUS,",
+      "name": "Totanus",
+      "odds": 219093.623660603,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 883,
+      "end": 891,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "39583",
+          "matchedName": "Totanus Moehring 1758",
+          "matchedCanonical": "Totanus",
+          "currentName": "Totanus Moehring 1758",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Sauropsida|Reptilia|Eureptilia|Romeriida|Diapsida|Archosauromorpha|Archosauriformes|Crurotarsi|Archosauria|Avemetatarsalia|Ornithodira|Dinosauromorpha|Dinosauriformes|Dinosauria|Saurischia|Theropoda|Neotheropoda|Averostra|Tetanurae|Avetheropoda|Coelurosauria|Maniraptora|Paraves|Aves|Charadriiformes|Limicolae|Scolopacides|Scolopacoidea|Scolopacidae|Totanus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|infraclass|unranked clade|unranked clade|unranked clade|informal|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|suborder|unranked clade|unranked clade|class|order|suborder|infraorder|superfamily|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|135358|36322|92204|99771|37768|38182|57091|66477|38215|144376|57250|53366|53207|52775|38505|38513|56397|92043|53374|55483|53940|55486|64113|36616|36640|98938|98941|98943|39581|39583",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scolopax,",
+      "name": "Scolopax",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 989,
+      "end": 998,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55018066",
+          "matchedName": "Scolopax",
+          "matchedCanonical": "Scolopax",
+          "currentName": "Scolopax",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Scolopax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55018066",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          }
+        }
+      },
+      "start": 1037,
+      "end": 1043,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

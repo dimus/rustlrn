@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:24.923760274-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 210,
+    "total_candidates": 52,
+    "total_names": 15
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          }
+        }
+      },
+      "start": 34,
+      "end": 40,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Tringa auslralis,",
+      "name": "Tringa auslralis",
+      "odds": 6557625.607227505,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 76,
+      "end": 93,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10332962",
+          "matchedName": "Tringa australis Jardine \u0026 Selby, 1830",
+          "matchedCanonical": "Tringa australis",
+          "currentName": "Calidris acuminata (Horsfield, 1821)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Calidris|Calidris acuminata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|148|1142|10265|101567|1299172|10762877",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa calidris",
+      "name": "Tringa calidris",
+      "odds": 411680631181.86597,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 121,
+      "end": 136,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "10638065",
+          "matchedName": "Tringa calidris Linnaeus, 1766",
+          "matchedCanonical": "Tringa calidris",
+          "currentName": "Tringa calidris Linnaeus, 1766",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa|Tringa calidris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7192402|5282|2481709|10638065",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. al- \r\r\n pina)",
+      "name": "T. alpina",
+      "odds": 1651097.1602005675,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          }
+        }
+      },
+      "start": 237,
+      "end": 254,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa calidris,",
+      "name": "Tringa calidris",
+      "odds": 411680631181.86597,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 325,
+      "end": 341,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "10638065",
+          "matchedName": "Tringa calidris Linnaeus, 1766",
+          "matchedCanonical": "Tringa calidris",
+          "currentName": "Tringa calidris Linnaeus, 1766",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa|Tringa calidris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7192402|5282|2481709|10638065",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Tringa calidris navia,",
+      "name": "Tringa calidris navia",
+      "odds": 90889457123342.12,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 374,
+      "end": 396,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Tringa calidris grisea,",
+      "name": "Tringa calidris grisea",
+      "odds": 1047585977952737.4,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispEnd3": {
+            "sea": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 472,
+      "end": 495,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Triuga ferruginea,",
+      "name": "Triuga ferruginea",
+      "odds": 1982.9042488395148,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nea": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uga": 2.5027178836745785
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 662,
+      "end": 680,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 169,
+          "dataSourceTitle": "uBio NameBank",
+          "taxonId": "93967684",
+          "matchedName": "Tringa ferruginea",
+          "matchedCanonical": "Tringa ferruginea",
+          "currentName": "Tringa ferruginea",
+          "classificationPath": "|Tringa ferruginea",
+          "classificationRank": "kingdom|",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "ToTAtivs ferrugineus,",
+      "name": "Totativs ferrugineus",
+      "odds": 32506.521054136007,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 702,
+      "end": 723,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. cinerea.",
+      "name": "T. cinerea",
+      "odds": 61261.85945575891,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rea": 5.29987316542852
+          }
+        }
+      },
+      "start": 762,
+      "end": 773,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. islandica,",
+      "name": "T. islandica",
+      "odds": 13642080.231643818,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 900,
+      "end": 913,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Strepsilas,",
+      "name": "Strepsilas",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "las": 0.8342392945581929
+          }
+        }
+      },
+      "start": 1074,
+      "end": 1085,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1326524",
+          "matchedName": "Strepsilas Illiger, 1811",
+          "matchedCanonical": "Strepsilas",
+          "currentName": "Arenaria Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Arenaria",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1294681",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Arenaria,",
+      "name": "Arenaria",
+      "odds": 47196.664853144175,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 1273,
+      "end": 1282,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804324",
+          "matchedName": "Arenaria",
+          "matchedCanonical": "Arenaria",
+          "currentName": "Arenaria",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Arenaria",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54804324",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. interpres.",
+      "name": "T. interpres",
+      "odds": 26332.879812339073,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "res": 0.36804674759920275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 1388,
+      "end": 1401,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Strepsilas",
+      "name": "Strepsilas",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "las": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1412,
+      "end": 1422,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1326524",
+          "matchedName": "Strepsilas Illiger, 1811",
+          "matchedCanonical": "Strepsilas",
+          "currentName": "Arenaria Brisson, 1760",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Arenaria",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1294681",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

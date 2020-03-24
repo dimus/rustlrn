@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:51.00793763-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 203,
+    "total_candidates": 29,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Icte- \r\r\n rus icterocephalus,",
+      "name": "Icterus icterocephalus",
+      "odds": 3190229.4628908224,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 637,
+      "end": 666,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54905447",
+          "matchedName": "Icterus",
+          "matchedCanonical": "Icterus",
+          "currentName": "Icterus",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Icteridae|Icterus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54768182|54768266|54905447",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Xanthornus.",
+      "name": "Xanthornus",
+      "odds": 841947.4728879017,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 850,
+      "end": 861,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1437769",
+          "matchedName": "Xanthornus Pallas, 1769",
+          "matchedCanonical": "Xanthornus",
+          "currentName": "Xanthornus Pallas, 1769",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Passeriformes|Icteridae|Xanthornus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|11290|104788|1437769",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Icterus xanthoce- \r\r\n phalus,",
+      "name": "Icterus xanthocephalus",
+      "odds": 3190229.4628908224,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 895,
+      "end": 924,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "8752605",
+          "matchedName": "Icterus xanthocephalus Bonaparte, 1826",
+          "matchedCanonical": "Icterus xanthocephalus",
+          "currentName": "Xanthocephalus xanthocephalus (Bonaparte, 1826)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Icteridae|Xanthocephalus|Xanthocephalus xanthocephalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|729|6176|2484194|2484195",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Icterus icterocephalus,",
+      "name": "Icterus icterocephalus",
+      "odds": 3190229.4628908224,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 1290,
+      "end": 1313,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54905447",
+          "matchedName": "Icterus",
+          "matchedCanonical": "Icterus",
+          "currentName": "Icterus",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Icteridae|Icterus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54768182|54768266|54905447",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

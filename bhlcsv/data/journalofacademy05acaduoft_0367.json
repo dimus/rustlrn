@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:03.386306101-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 211,
+    "total_candidates": 42,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "BuFO cognatus.",
+      "name": "Bufo cognatus",
+      "odds": 11936773944.01271,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ufo": 2.5027178836745785
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 176,
+      "end": 190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7163201",
+          "matchedName": "Bufo cognatus Say in James, 1823",
+          "matchedCanonical": "Bufo cognatus",
+          "currentName": "Anaxyrus cognatus (Say in James, 1823)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Anaxyrus|Anaxyrus cognatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771399|54796819|7159254",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bufo cognatus,",
+      "name": "Bufo cognatus",
+      "odds": 11936773944.01271,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ufo": 2.5027178836745785
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 197,
+      "end": 211,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7163201",
+          "matchedName": "Bufo cognatus Say in James, 1823",
+          "matchedCanonical": "Bufo cognatus",
+          "currentName": "Anaxyrus cognatus (Say in James, 1823)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Anaxyrus|Anaxyrus cognatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771399|54796819|7159254",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. musicus.",
+      "name": "B. musicus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 999,
+      "end": 1010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "OPHIDIA,*",
+      "name": "Ophidia",
+      "odds": 153.1935060008488,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          }
+        }
+      },
+      "start": 1024,
+      "end": 1033,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "54232",
+          "matchedName": "Ophidia Latreille 1804",
+          "matchedCanonical": "Ophidia",
+          "currentName": "Ophidia Latreille 1804",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Sauropsida|Reptilia|Pythonomorpha|Ophidia",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|class|order|order",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|135358|36322|174159|54232",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

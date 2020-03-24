@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:26.768880555-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 255,
+    "total_candidates": 17,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Trichius",
+      "name": "Trichius",
+      "odds": 63822.76269913814,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 384,
+      "end": 392,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55047089",
+          "matchedName": "Trichius",
+          "matchedCanonical": "Trichius",
+          "currentName": "Trichius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Cetoniidae|Trichius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54774646|55047089",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cremastocheilus",
+      "name": "Cremastocheilus",
+      "odds": 5264844.902153948,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 800,
+      "end": 815,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54846393",
+          "matchedName": "Cremastocheilus",
+          "matchedCanonical": "Cremastocheilus",
+          "currentName": "Cremastocheilus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Cetoniidae|Cremastocheilus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54774646|54846393",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Trichius,",
+      "name": "Trichius",
+      "odds": 63822.76269913814,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 853,
+      "end": 862,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55047089",
+          "matchedName": "Trichius",
+          "matchedCanonical": "Trichius",
+          "currentName": "Trichius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Cetoniidae|Trichius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54774646|55047089",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cre- \r\r\n mastocheilus",
+      "name": "Cremastocheilus",
+      "odds": 5264844.902153948,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 1325,
+      "end": 1346,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54846393",
+          "matchedName": "Cremastocheilus",
+          "matchedCanonical": "Cremastocheilus",
+          "currentName": "Cremastocheilus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Cetoniidae|Cremastocheilus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54774646|54846393",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tri- \r\r\n chius.",
+      "name": "Trichius",
+      "odds": 63822.76269913814,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 1492,
+      "end": 1507,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55047089",
+          "matchedName": "Trichius",
+          "matchedCanonical": "Trichius",
+          "currentName": "Trichius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Cetoniidae|Trichius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54774646|55047089",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cremastocheilus",
+      "name": "Cremastocheilus",
+      "odds": 5264844.902153948,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1508,
+      "end": 1523,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54846393",
+          "matchedName": "Cremastocheilus",
+          "matchedCanonical": "Cremastocheilus",
+          "currentName": "Cremastocheilus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Cetoniidae|Cremastocheilus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54774646|54846393",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

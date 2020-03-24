@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:38.980123643-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 211,
+    "total_candidates": 21,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. proba.",
+      "name": "C. proba",
+      "odds": 31748.671432155177,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oba": 17.51902518572205
+          }
+        }
+      },
+      "start": 35,
+      "end": 44,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "EuMORPHus,",
+      "name": "Eumorphus",
+      "odds": 65568.09317137508,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          }
+        }
+      },
+      "start": 588,
+      "end": 598,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1359468",
+          "matchedName": "Eumorphus Weber, 1801",
+          "matchedCanonical": "Eumorphus",
+          "currentName": "Eumorphus Weber, 1801",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Endomychidae|Eumorphus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100454|1359468",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. distinctus.",
+      "name": "E. distinctus",
+      "odds": 35098527.80550332,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 614,
+      "end": 628,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Endomycleus distinctus,",
+      "name": "Endomycleus distinctus",
+      "odds": 71667020252387.22,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 718,
+      "end": 741,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1257884",
+          "matchedName": "Endomycleus Say, 1826",
+          "matchedCanonical": "Endomycleus",
+          "currentName": "Endomychus Panzer, 1795",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Endomychidae|Endomychus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100454|1306829",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. angulatus.",
+      "name": "E. angulatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1375,
+      "end": 1388,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

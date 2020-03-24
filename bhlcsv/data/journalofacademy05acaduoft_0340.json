@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:47.004103481-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 209,
+    "total_candidates": 26,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "BATRACHIA.*",
+      "name": "Batrachia",
+      "odds": 858.4865790899471,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 146,
+      "end": 157,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "67352",
+          "matchedName": "Batrachia (Macartney 1802)",
+          "matchedCanonical": "Batrachia",
+          "currentName": "Batrachia (Macartney 1802)",
+          "classificationPath": "Batrachia",
+          "classificationRank": "unranked clade",
+          "classificationIDs": "67352",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "AMPHIUMA.",
+      "name": "Amphiuma",
+      "odds": 38615.453061663415,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uma": 15.01630730204747
+          }
+        }
+      },
+      "start": 957,
+      "end": 966,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54795529",
+          "matchedName": "Amphiuma",
+          "matchedCanonical": "Amphiuma",
+          "currentName": "Amphiuma",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Amphiumidae|Amphiuma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771355|54795529",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

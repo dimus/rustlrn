@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:56.031750299-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 178,
+    "total_candidates": 66,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra nigra.",
+      "name": "Salamandra nigra",
+      "odds": 12480642508.118011,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gra": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 125,
+      "end": 142,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1100613",
+          "matchedName": "Salamandra nigra Gray, 1850",
+          "matchedCanonical": "Salamandra nigra",
+          "currentName": "Salamandra atra Laurenti, 1768",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Caudata|Salamandridae|Salamandrinae|Salamandra|Salamandra atra",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173584|173613|1094199|1094915|668391",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. nigra.",
+      "name": "S. nigra",
+      "odds": 31748.671432155177,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gra": 17.51902518572205
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 149,
+      "end": 158,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Salamandra bis-Uneata.",
+      "name": "Salamandra bis-uneata",
+      "odds": 213961342.92395088,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "hasDash": {
+            "true": 1.0787577084804219
+          }
+        }
+      },
+      "start": 439,
+      "end": 461,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra rubra.",
+      "name": "Salamandra rubra",
+      "odds": 30310131805.42945,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spEnd3": {
+            "bra": 42.54620402246783
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 824,
+      "end": 841,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7164931",
+          "matchedName": "Salamandra rubra Sonnini de Manoncourt and Latreille, 1801",
+          "matchedCanonical": "Salamandra rubra",
+          "currentName": "Pseudotriton ruber (Sonnini de Manoncourt and Latreille, 1801)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Plethodontidae|Pseudotriton|Pseudotriton ruber",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771352|55001579|7159095",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. rubriventris,",
+      "name": "S. rubriventris",
+      "odds": 18453987.034568205,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 905,
+      "end": 921,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

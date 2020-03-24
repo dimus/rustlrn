@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:12.379089387-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 214,
+    "total_candidates": 22,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "A. tenuestr latum.",
+      "name": "A. tenuestr latum",
+      "odds": 104857.02396546451,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tum": 147.66035513680015
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 319,
+      "end": 337,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Anohium villosum,",
+      "name": "Anohium villosum",
+      "odds": 5090.036045664175,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sum": 172.68753397354592
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 405,
+      "end": 422,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 158,
+          "dataSourceTitle": "EUNIS",
+          "taxonId": "144882136",
+          "matchedName": "Anobium villosum Melsheimer, 1845",
+          "matchedCanonical": "Anobium villosum",
+          "currentName": "Anobium villosum Melsheimer, 1845",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. stri- \r\r\n atum",
+      "name": "A. striatum",
+      "odds": 8744824.590710798,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1176,
+      "end": 1193,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

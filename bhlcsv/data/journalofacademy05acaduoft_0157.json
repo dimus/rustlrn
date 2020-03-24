@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:57.112911044-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 251,
+    "total_candidates": 15,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. crassispina.",
+      "name": "O. crassispina",
+      "odds": 19170809.47833399,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 291,
+      "end": 306,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

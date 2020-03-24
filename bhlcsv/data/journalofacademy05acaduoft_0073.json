@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:05.548003439-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 247,
+    "total_candidates": 57,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea nycticorax,",
+      "name": "Ardea nycticorax",
+      "odds": 31465766714.638805,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rax": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 967,
+      "end": 984,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "4408427",
+          "matchedName": "Ardea nycticorax Linnaeus, 1758",
+          "matchedCanonical": "Ardea nycticorax",
+          "currentName": "Nycticorax nycticorax (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Nycticorax|Nycticorax nycticorax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7190953|3685|7824892|2480863",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea grisea,",
+      "name": "Ardea grisea",
+      "odds": 16511020855.948364,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sea": 30.03261460409494
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1041,
+      "end": 1054,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea maculata,",
+      "name": "Ardea maculata",
+      "odds": 2579277848770.647,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1129,
+      "end": 1144,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ardea",
+      "name": "Ardea",
+      "odds": 42538.135185293664,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 1231,
+      "end": 1236,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Botaurus",
+      "name": "Botaurus",
+      "odds": 180205.44762109595,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1237,
+      "end": 1245,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54818375",
+          "matchedName": "Botaurus",
+          "matchedCanonical": "Botaurus",
+          "currentName": "Botaurus",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Botaurus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54818375",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea gardeni,",
+      "name": "Ardea gardeni",
+      "odds": 31822227479.35594,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spEnd3": {
+            "eni": 30.03261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 1462,
+      "end": 1476,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. violacea,",
+      "name": "A. violacea",
+      "odds": 1676468.9629860083,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1576,
+      "end": 1588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

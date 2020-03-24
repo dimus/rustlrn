@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:32.628838576-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 185,
+    "total_candidates": 90,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Anatifa,",
+      "name": "Anatifa",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 245,
+      "end": 253,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:733119",
+          "matchedName": "Lepas (Anatifa) Bruguière, 1789",
+          "matchedCanonical": "Lepas subgen. Anatifa",
+          "currentName": "Lepas (Anatifa) Bruguière, 1789",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Hexanauplia|Thecostraca|Cirripedia|Thoracica|Lepadiformes|Lepadomorpha|Lepadidae|Lepas|Lepas",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|infraclass|superorder|order|suborder|family|genus|subgenus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1066|urn:lsid:marinespecies.org:taxname:845959|urn:lsid:marinespecies.org:taxname:889925|urn:lsid:marinespecies.org:taxname:22388|urn:lsid:marinespecies.org:taxname:1082|urn:lsid:marinespecies.org:taxname:1107|urn:lsid:marinespecies.org:taxname:534761|urn:lsid:marinespecies.org:taxname:106036|urn:lsid:marinespecies.org:taxname:106048|urn:lsid:marinespecies.org:taxname:106087|urn:lsid:marinespecies.org:taxname:733119",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solen",
+      "name": "Solen",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "len": 0.17876556311961278
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 277,
+      "end": 282,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55024029",
+          "matchedName": "Solen",
+          "matchedCanonical": "Solen",
+          "currentName": "Solen",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Adapedonta|Solenoidea|Solenidae|Solen",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54782073|54782074|54782075|55024029",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ostracion,",
+      "name": "Ostracion",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ion": 0.22518027231005205
+          }
+        }
+      },
+      "start": 348,
+      "end": 358,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54964258",
+          "matchedName": "Ostracion",
+          "matchedCanonical": "Ostracion",
+          "currentName": "Ostracion",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Tetraodontiformes|Ostraciidae|Ostracion",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54767760|54767873|54964258",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ostracion,",
+      "name": "Ostracion",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ion": 0.22518027231005205
+          }
+        }
+      },
+      "start": 408,
+      "end": 418,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54964258",
+          "matchedName": "Ostracion",
+          "matchedCanonical": "Ostracion",
+          "currentName": "Ostracion",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Tetraodontiformes|Ostraciidae|Ostracion",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54767760|54767873|54964258",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Crustacea.",
+      "name": "Crustacea",
+      "odds": 3151.406429570691,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cea": 25.027178836745787
+          }
+        }
+      },
+      "start": 612,
+      "end": 622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1066",
+          "matchedName": "Crustacea Brünnich, 1772",
+          "matchedCanonical": "Crustacea",
+          "currentName": "Crustacea Brünnich, 1772",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea",
+          "classificationRank": "|Kingdom|phylum|subphylum",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1066",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Canis",
+      "name": "Canis",
+      "odds": 34562.23483805111,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nis": 65.07066497553905
+          }
+        }
+      },
+      "start": 714,
+      "end": 719,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54826333",
+          "matchedName": "Canis",
+          "matchedCanonical": "Canis",
+          "currentName": "Canis",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767753|54773702|54774533|54826333",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salaman- \r\r\n dra.",
+      "name": "Salamandra",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          }
+        }
+      },
+      "start": 866,
+      "end": 883,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial(nlp)",
+      "verbatim": "Convolvulus",
+      "name": "Convolvulus",
+      "odds": 117.0853773460178,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1107,
+      "end": 1118,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54843447",
+          "matchedName": "Convolvulus",
+          "matchedCanonical": "Convolvulus",
+          "currentName": "Convolvulus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Convolvulaceae|Convolvulus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54772901|54782920|54843447",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anatifa,",
+      "name": "Anatifa",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1251,
+      "end": 1259,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:733119",
+          "matchedName": "Lepas (Anatifa) Bruguière, 1789",
+          "matchedCanonical": "Lepas subgen. Anatifa",
+          "currentName": "Lepas (Anatifa) Bruguière, 1789",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Hexanauplia|Thecostraca|Cirripedia|Thoracica|Lepadiformes|Lepadomorpha|Lepadidae|Lepas|Lepas",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|infraclass|superorder|order|suborder|family|genus|subgenus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1066|urn:lsid:marinespecies.org:taxname:845959|urn:lsid:marinespecies.org:taxname:889925|urn:lsid:marinespecies.org:taxname:22388|urn:lsid:marinespecies.org:taxname:1082|urn:lsid:marinespecies.org:taxname:1107|urn:lsid:marinespecies.org:taxname:534761|urn:lsid:marinespecies.org:taxname:106036|urn:lsid:marinespecies.org:taxname:106048|urn:lsid:marinespecies.org:taxname:106087|urn:lsid:marinespecies.org:taxname:733119",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

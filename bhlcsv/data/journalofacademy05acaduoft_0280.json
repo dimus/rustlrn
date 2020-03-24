@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:10.778826061-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 206,
+    "total_candidates": 25,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Hylurgus,",
+      "name": "Hylurgus",
+      "odds": 257436.35374442278,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          }
+        }
+      },
+      "start": 32,
+      "end": 41,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54903264",
+          "matchedName": "Hylurgus",
+          "matchedCanonical": "Hylurgus",
+          "currentName": "Hylurgus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Curculionidae|Hylurgus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54768915|54903264",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. dentatus.",
+      "name": "H. dentatus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 54,
+      "end": 66,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Apate,",
+      "name": "Apate",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ate": 0.016251414829055705
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 917,
+      "end": 923,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54800862",
+          "matchedName": "Apate",
+          "matchedCanonical": "Apate",
+          "currentName": "Apate",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Bostrichidae|Apate",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54770154|54800862",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. punctatus.",
+      "name": "A. punctatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 936,
+      "end": 949,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Apate punctatus,",
+      "name": "Apate punctatus",
+      "odds": 35546199373.71817,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ate": 0.016251414829055705
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1045,
+      "end": 1061,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "9098553",
+          "matchedName": "Apate punctatus Say",
+          "matchedCanonical": "Apate punctatus",
+          "currentName": "Prostephanus punctatus (Say, 1826)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichidae|Prostephanus|Prostephanus punctatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|54|216|1470|7773|4404981|6005702",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

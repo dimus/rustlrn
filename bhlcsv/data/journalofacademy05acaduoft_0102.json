@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:22.557050488-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 271,
+    "total_candidates": 44,
+    "total_names": 13
+  },
+  "names": [
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Tringa minulilla?",
+      "name": "Tringa minulilla",
+      "odds": 4273033.460193407,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 157,
+      "end": 174,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "7618083",
+          "matchedName": "Tringa minutilla Vieillot, 1819",
+          "matchedCanonical": "Tringa minutilla",
+          "currentName": "Calidris minutilla (Vieillot, 1819)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Calidris|Calidris minutilla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7192402|5282|2481739|2481745",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. alpina.",
+      "name": "T. alpina",
+      "odds": 1651097.1602005675,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 197,
+      "end": 207,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. variabilis,",
+      "name": "T. variabilis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 573,
+      "end": 587,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. alpina,",
+      "name": "T. alpina",
+      "odds": 1651097.1602005675,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          }
+        }
+      },
+      "start": 821,
+      "end": 831,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. cinclus,",
+      "name": "T. cinclus",
+      "odds": 3037567.198014713,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 914,
+      "end": 925,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Teinga alpina,",
+      "name": "Teinga alpina",
+      "odds": 1362.544672275952,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 1037,
+      "end": 1051,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232128",
+          "matchedName": "Tringa alpina Linnaeus 1758",
+          "matchedCanonical": "Tringa alpina",
+          "currentName": "Tringa alpina Linnaeus 1758",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa cinclus",
+      "name": "Tringa cinclus",
+      "odds": 205962301963.41296,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 1252,
+      "end": 1266,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "T. cinclus minor",
+      "name": "T. cinclus minor",
+      "odds": 19535635.961298164,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "nor": 40.043486138793256
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 1314,
+      "end": 1330,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tringa",
+      "name": "Tringa",
+      "odds": 31464.986899227246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          }
+        }
+      },
+      "start": 1416,
+      "end": 1422,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Teinga pusilla",
+      "name": "Teinga pusilla",
+      "odds": 2411.215842884739,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          }
+        }
+      },
+      "start": 1459,
+      "end": 1473,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "7992223",
+          "matchedName": "Tringa pusilla Linnaeus, 1766",
+          "matchedCanonical": "Tringa pusilla",
+          "currentName": "Calidris pusilla (Linnaeus, 1766)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Calidris|Calidris pusilla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7192402|5282|2481739|2481764",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Tringa cinclus dominicensis",
+      "name": "Tringa cinclus dominicensis",
+      "odds": 267096196471798050,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "12": 5.998577784680339
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "ispEnd3": {
+            "sis": 292.81799238992573
+          }
+        }
+      },
+      "start": 1481,
+      "end": 1508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tringa cinclus",
+      "name": "Tringa cinclus",
+      "odds": 205962301963.41296,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nga": 42.54620402246783
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 1621,
+      "end": 1635,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55048790",
+          "matchedName": "Tringa",
+          "matchedCanonical": "Tringa",
+          "currentName": "Tringa",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Tringa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|55048790",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. schinzii",
+      "name": "T. schinzii",
+      "odds": 543719.6636711378,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "zii": 30.03261460409494
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1710,
+      "end": 1721,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

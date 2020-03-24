@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:42.696351168-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 70,
+    "total_candidates": 14,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Triiiga semipalmata,",
+      "name": "Triiiga semipalmata",
+      "odds": 176204.63968720444,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "iga": 12.513589418372893
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 24,
+      "end": 44,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Trox,",
+      "name": "Trox",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rox": 2.5027178836745785
+          }
+        }
+      },
+      "start": 125,
+      "end": 130,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55050237",
+          "matchedName": "Trox",
+          "matchedCanonical": "Trox",
+          "currentName": "Trox",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Trogidae|Trox",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767883|54783437|55050237",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tritoma,",
+      "name": "Tritoma",
+      "odds": 48687.47192457844,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 183,
+      "end": 191,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55049397",
+          "matchedName": "Tritoma",
+          "matchedCanonical": "Tritoma",
+          "currentName": "Tritoma",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Cucujoidea|Erotylidae|Tritoma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769831|54770148|55049397",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Turritella,",
+      "name": "Turritella",
+      "odds": 2322371.779382462,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 245,
+      "end": 256,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55051527",
+          "matchedName": "Turritella",
+          "matchedCanonical": "Turritella",
+          "currentName": "Turritella",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Cerithioidea|Turritellidae|Turritella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781570|54782022|55051527",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Unio subtentus,",
+      "name": "Unio subtentus",
+      "odds": 13021610274.207174,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nio": 1.8770384127559339
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 498,
+      "end": 513,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54580854",
+          "matchedName": "Unio subtentus Say, 1825",
+          "matchedCanonical": "Unio subtentus",
+          "currentName": "Ptychobranchus subtentus (Say, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Ptychobranchus|Ptychobranchus subtentus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|55003503|54484069",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vanellus,",
+      "name": "Vanellus",
+      "odds": 557778.7664462494,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 527,
+      "end": 536,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55054598",
+          "matchedName": "Vanellus",
+          "matchedCanonical": "Vanellus",
+          "currentName": "Vanellus",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Charadriidae|Vanellus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54774228|55054598",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Venericardia,",
+      "name": "Venericardia",
+      "odds": 40629.26897530519,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 541,
+      "end": 554,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:137745",
+          "matchedName": "Venericardia Lamarck, 1801",
+          "matchedCanonical": "Venericardia",
+          "currentName": "Venericardia Lamarck, 1801",
+          "classificationPath": "Biota|Animalia|Mollusca|Bivalvia|Heterodonta|Archiheterodonta|Carditida|Carditoidea|Carditidae|Venericardia",
+          "classificationRank": "|Kingdom|phylum|class|subclass|infraclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:105|urn:lsid:marinespecies.org:taxname:216|urn:lsid:marinespecies.org:taxname:382255|urn:lsid:marinespecies.org:taxname:382256|urn:lsid:marinespecies.org:taxname:14631|urn:lsid:marinespecies.org:taxname:22997|urn:lsid:marinespecies.org:taxname:137745",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vipera,",
+      "name": "Vipera",
+      "odds": 26940.609698031174,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 561,
+      "end": 568,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55056225",
+          "matchedName": "Vipera",
+          "matchedCanonical": "Vipera",
+          "currentName": "Vipera",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Vipera",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|55056225",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Xanthornus,",
+      "name": "Xanthornus",
+      "odds": 841947.4728879017,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 654,
+      "end": 665,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1437769",
+          "matchedName": "Xanthornus Pallas, 1769",
+          "matchedCanonical": "Xanthornus",
+          "currentName": "Xanthornus Pallas, 1769",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Passeriformes|Icteridae|Xanthornus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|11290|104788|1437769",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:19.808440337-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 169,
+    "total_candidates": 34,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Attagenus,",
+      "name": "Attagenus",
+      "odds": 571431.426521481,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 401,
+      "end": 411,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54809025",
+          "matchedName": "Attagenus",
+          "matchedCanonical": "Attagenus",
+          "currentName": "Attagenus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Dermestidae|Attagenus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54769922|54809025",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cylindricornis.",
+      "name": "A. cylindricornis",
+      "odds": 19986493.7690885,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nis": 295.3207102736003
+          }
+        }
+      },
+      "start": 424,
+      "end": 442,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Dermcstes cylindricornis,",
+      "name": "Dermcstes cylindricornis",
+      "odds": 52831.229741458425,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nis": 295.3207102736003
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 500,
+      "end": 525,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10332221",
+          "matchedName": "Dermestes cylindricornis Schrank, 1785",
+          "matchedCanonical": "Dermestes cylindricornis",
+          "currentName": "Attagenus pellio (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dermestidae|Attagenus|Attagenus pellio",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1096|10279|105059|1006173|10173663",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Dermestes",
+      "name": "Dermestes",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          }
+        }
+      },
+      "start": 967,
+      "end": 976,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54855950",
+          "matchedName": "Dermestes",
+          "matchedCanonical": "Dermestes",
+          "currentName": "Dermestes",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Dermestidae|Dermestes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54769922|54855950",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Dermestes",
+      "name": "Dermestes",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          }
+        }
+      },
+      "start": 1044,
+      "end": 1053,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54855950",
+          "matchedName": "Dermestes",
+          "matchedCanonical": "Dermestes",
+          "currentName": "Dermestes",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Dermestidae|Dermestes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54769922|54855950",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Megatoma,",
+      "name": "Megatoma",
+      "odds": 85812.11791480758,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1115,
+      "end": 1124,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54933745",
+          "matchedName": "Megatoma",
+          "matchedCanonical": "Megatoma",
+          "currentName": "Megatoma",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Dermestidae|Megatoma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54769922|54933745",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. ornata.",
+      "name": "M. ornata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 1145,
+      "end": 1155,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

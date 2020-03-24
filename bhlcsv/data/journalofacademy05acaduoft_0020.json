@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:32.938108936-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 245,
+    "total_candidates": 28,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. concentrica.",
+      "name": "S. concentrica",
+      "odds": 36075977.83650125,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 21,
+      "end": 36,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. enteromela,",
+      "name": "S. enteromela",
+      "odds": 514892.8284425916,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ela": 15.01630730204747
+          }
+        }
+      },
+      "start": 198,
+      "end": 212,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fraxinus,",
+      "name": "Fraxinus",
+      "odds": 386154.5306166342,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 984,
+      "end": 993,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54881233",
+          "matchedName": "Fraxinus",
+          "matchedCanonical": "Fraxinus",
+          "currentName": "Fraxinus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Oleaceae|Fraxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54768638|54768640|54881233",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. teres,",
+      "name": "S. teres",
+      "odds": 1812.239613539128,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "res": 0.36804674759920275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1144,
+      "end": 1153,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

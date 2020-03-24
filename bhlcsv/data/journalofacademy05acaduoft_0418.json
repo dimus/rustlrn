@@ -1,0 +1,557 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:35.084732328-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 201,
+    "total_candidates": 101,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Chelonura",
+      "name": "Chelonura",
+      "odds": 300001.49892377754,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 246,
+      "end": 255,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1380849",
+          "matchedName": "Chelonura Fleming, 1822",
+          "matchedCanonical": "Chelonura",
+          "currentName": "Chelonura Fleming, 1822",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Reptilia|Testudines|Chelydridae|Chelonura",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1448|10605|114441|1380849",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Serpentina,",
+      "name": "Serpentina",
+      "odds": 19912.725946078946,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 256,
+      "end": 267,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1041106",
+          "matchedName": "Serpentina Ørsted, 1843",
+          "matchedCanonical": "Serpentina",
+          "currentName": "Ophidonais Gervais, 1838",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Annelida|Clitellata|Oligochaeta|Haplotaxida|Tubificina|Naididae|Naidinae|Ophidonais",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|suborder|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:882|urn:lsid:marinespecies.org:taxname:14165|urn:lsid:marinespecies.org:taxname:2036|urn:lsid:marinespecies.org:taxname:2118|urn:lsid:marinespecies.org:taxname:2119|urn:lsid:marinespecies.org:taxname:2039|urn:lsid:marinespecies.org:taxname:176043|urn:lsid:marinespecies.org:taxname:176123",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Crocodilus",
+      "name": "Crocodilus",
+      "odds": 1216146.3497269694,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 468,
+      "end": 478,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1377289",
+          "matchedName": "Crocodilus",
+          "matchedCanonical": "Crocodilus",
+          "currentName": "Crocodylus Laurenti, 1768",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Reptilia|Crocodylia|Crocodylidae|Crocodylus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:1831|urn:lsid:marinespecies.org:taxname:1838|urn:lsid:marinespecies.org:taxname:342630|urn:lsid:marinespecies.org:taxname:342631|urn:lsid:marinespecies.org:taxname:343595",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lucius,",
+      "name": "Lucius",
+      "odds": 18354.575691215894,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 479,
+      "end": 486,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:297027",
+          "matchedName": "Lucius Garsault, 1764",
+          "matchedCanonical": "Lucius",
+          "currentName": "Esox Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Esociformes|Esocidae|Esox",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:11676|urn:lsid:marinespecies.org:taxname:10194|urn:lsid:marinespecies.org:taxname:154206|urn:lsid:marinespecies.org:taxname:154207|urn:lsid:marinespecies.org:taxname:154208",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Manatus",
+      "name": "Manatus",
+      "odds": 106503.84483501535,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 551,
+      "end": 558,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1348565",
+          "matchedName": "Manatus Brünnich, 1772",
+          "matchedCanonical": "Manatus",
+          "currentName": "Manatus Brünnich, 1772",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Mammalia|Theria|Sirenia|Trichechidae|Manatus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|subclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1821|urn:lsid:marinespecies.org:taxname:146419|urn:lsid:marinespecies.org:taxname:1828|urn:lsid:marinespecies.org:taxname:1831|urn:lsid:marinespecies.org:taxname:1837|urn:lsid:marinespecies.org:taxname:380416|urn:lsid:marinespecies.org:taxname:159502|urn:lsid:marinespecies.org:taxname:159503|urn:lsid:marinespecies.org:taxname:1348565",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Coluber",
+      "name": "Coluber",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          }
+        }
+      },
+      "start": 688,
+      "end": 695,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54841899",
+          "matchedName": "Coluber",
+          "matchedCanonical": "Coluber",
+          "currentName": "Coluber",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Coluber",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54841899",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rana",
+      "name": "Rana",
+      "odds": 177.7282796257126,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          }
+        }
+      },
+      "start": 760,
+      "end": 764,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55006463",
+          "matchedName": "Rana",
+          "matchedCanonical": "Rana",
+          "currentName": "Rana",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771364|55006463",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cistuda",
+      "name": "Cistuda",
+      "odds": 3651.5603943433835,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "uda": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 799,
+      "end": 806,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1184545",
+          "matchedName": "Cistuda Fleming, 1822",
+          "matchedCanonical": "Cistuda",
+          "currentName": "Cistuda Fleming, 1822",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Reptilia|Testudines|Geoemydidae|Cistuda",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1448|10605|105314|1184545",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Clausa;",
+      "name": "Clausa",
+      "odds": 14807.052658459881,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "usa": 20.021743069396628
+          }
+        }
+      },
+      "start": 813,
+      "end": 820,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1372772",
+          "matchedName": "Clausa d'Orbigny, 1853",
+          "matchedCanonical": "Clausa",
+          "currentName": "Clausa d'Orbigny, 1853",
+          "classificationPath": "Biota|Animalia|Bryozoa|Stenolaemata|Cyclostomatida|Cerioporina|Clausidae|Clausa",
+          "classificationRank": "|Kingdom|phylum|class|order|suborder|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:146142|urn:lsid:marinespecies.org:taxname:1794|urn:lsid:marinespecies.org:taxname:110724|urn:lsid:marinespecies.org:taxname:238295|urn:lsid:marinespecies.org:taxname:1371483|urn:lsid:marinespecies.org:taxname:1372772",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Portunus",
+      "name": "Portunus",
+      "odds": 386154.5306166342,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 1284,
+      "end": 1292,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54992200",
+          "matchedName": "Portunus",
+          "matchedCanonical": "Portunus",
+          "currentName": "Portunus",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Portunoidea|Portunidae|Portunus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767763|54767764|54771862|54778904|54992200",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pictus,",
+      "name": "Pictus",
+      "odds": 53984.04615063498,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          }
+        }
+      },
+      "start": 1293,
+      "end": 1300,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54984336",
+          "matchedName": "Pictus",
+          "matchedCanonical": "Pictus",
+          "currentName": "Pictus",
+          "classificationPath": "Plantae|Bryophyta|Bryopsida|Hypnales|Amblystegiaceae|Pictus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54768697|54768701|54773748|54773750|54984336",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Menobranchus",
+      "name": "Menobranchus",
+      "odds": 220621.77259396494,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          }
+        }
+      },
+      "start": 1328,
+      "end": 1340,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1038043",
+          "matchedName": "Menobranchus Harlan, 1825",
+          "matchedCanonical": "Menobranchus",
+          "currentName": "Menobranchus Harlan, 1825",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Amphibia|Caudata|Proteidae|Menobranchus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1131|12453|103656|1038043",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

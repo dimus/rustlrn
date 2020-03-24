@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:32.612369985-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 215,
+    "total_candidates": 116,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Amphiuma",
+      "name": "Amphiuma",
+      "odds": 38615.453061663415,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uma": 15.01630730204747
+          }
+        }
+      },
+      "start": 61,
+      "end": 69,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54795529",
+          "matchedName": "Amphiuma",
+          "matchedCanonical": "Amphiuma",
+          "currentName": "Amphiuma",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Amphiumidae|Amphiuma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771355|54795529",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Unio",
+      "name": "Unio",
+      "odds": 224.17998907334197,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nio": 1.8770384127559339
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 238,
+      "end": 242,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55053046",
+          "matchedName": "Unio",
+          "matchedCanonical": "Unio",
+          "currentName": "Unio",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Unio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|55053046",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Unio",
+      "name": "Unio",
+      "odds": 224.17998907334197,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nio": 1.8770384127559339
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 276,
+      "end": 280,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55053046",
+          "matchedName": "Unio",
+          "matchedCanonical": "Unio",
+          "currentName": "Unio",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Unio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|55053046",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nasuta.",
+      "name": "Nasuta",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uta": 17.51902518572205
+          }
+        }
+      },
+      "start": 281,
+      "end": 288,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1475500",
+          "matchedName": "Nasuta González-Sponga, 2009",
+          "matchedCanonical": "Nasuta",
+          "currentName": "Nasuta González-Sponga, 2009",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Pholcidae|Nasuta",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100329|1475500",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Leptocephalus.",
+      "name": "Leptocephalus",
+      "odds": 3416070.2992138453,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 345,
+      "end": 359,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54919569",
+          "matchedName": "Leptocephalus",
+          "matchedCanonical": "Leptocephalus",
+          "currentName": "Leptocephalus",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Anguilliformes|Nettastomatidae|Leptocephalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54774685|54774690|54919569",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra picta.",
+      "name": "Salamandra picta",
+      "odds": 92713344346.01952,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 364,
+      "end": 381,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1099670",
+          "matchedName": "Salamandra picta Harlan, 1825",
+          "matchedCanonical": "Salamandra picta",
+          "currentName": "Desmognathus fuscus (Rafinesque, 1820)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Caudata|Plethodontidae|Plethodontinae|Desmognathus|Desmognathus fuscus",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173584|173631|550197|173632|173633",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mollusca.",
+      "name": "Mollusca",
+      "odds": 1064.8083165472933,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sca": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 490,
+      "end": 499,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54775053",
+          "matchedName": "Mollusca",
+          "matchedCanonical": "Mollusca",
+          "currentName": "Mollusca",
+          "classificationPath": "Animalia|Mollusca",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "54767744|54775053",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salamandra",
+      "name": "Salamandra",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 534,
+      "end": 544,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55013856",
+          "matchedName": "Salamandra",
+          "matchedCanonical": "Salamandra",
+          "currentName": "Salamandra",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Salamandra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771349|55013856",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scutella",
+      "name": "Scutella",
+      "odds": 1065142.9136175492,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 666,
+      "end": 674,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:532067",
+          "matchedName": "Scutella Broderip, 1834",
+          "matchedCanonical": "Scutella",
+          "currentName": "Plesiothyreus Cossmann, 1888",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Neritimorpha|Cycloneritida|Neritoidea|Phenacolepadidae|Phenacolepadinae|Plesiothyreus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:156484|urn:lsid:marinespecies.org:taxname:1054475|urn:lsid:marinespecies.org:taxname:196314|urn:lsid:marinespecies.org:taxname:180860|urn:lsid:marinespecies.org:taxname:1052700|urn:lsid:marinespecies.org:taxname:415835",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mygale",
+      "name": "Mygale",
+      "odds": 2159.3618460253992,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ale": 2.919837530953675
+          }
+        }
+      },
+      "start": 793,
+      "end": 799,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "94093",
+          "matchedName": "Mygale Cuvier 1800",
+          "matchedCanonical": "Mygale",
+          "currentName": "Desmana Guldenstaedt 1777",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Lipotyphla|Talpidae|Desmaninae|Desmana",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|order|family|subfamily|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|57530|67887|64189|40402",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cerambix,",
+      "name": "Cerambix",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 813,
+      "end": 822,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1280147",
+          "matchedName": "Cerambix",
+          "matchedCanonical": "Cerambix",
+          "currentName": "Aromia Audinet-Serville, 1834",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Cerambycidae|Aromia",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100100|1380567",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asterias",
+      "name": "Asterias",
+      "odds": 212384.99183914877,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 920,
+      "end": 928,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54807252",
+          "matchedName": "Asterias",
+          "matchedCanonical": "Asterias",
+          "currentName": "Asterias",
+          "classificationPath": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767878|54778898|54779951|54782440|54807252",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

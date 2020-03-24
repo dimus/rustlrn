@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:30.345300876-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 260,
+    "total_candidates": 28,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. vestita.",
+      "name": "C. vestita",
+      "odds": 607513.4396029427,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ita": 52.55707555716615
+          }
+        }
+      },
+      "start": 53,
+      "end": 64,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. hirta,",
+      "name": "C. hirta",
+      "odds": 63497.342864310354,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rta": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1243,
+      "end": 1252,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

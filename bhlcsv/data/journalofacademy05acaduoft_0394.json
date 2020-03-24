@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:20.271220463-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 192,
+    "total_candidates": 43,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Crotalus confluentis.",
+      "name": "Crotalus confluentis",
+      "odds": 9217151109248.502,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tis": 110.11958688168146
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 35,
+      "end": 56,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28909601",
+          "matchedName": "Crotalus confluentus Trécul, 1876",
+          "matchedCanonical": "Crotalus confluentus",
+          "currentName": "Crotalus atrox Baird \u0026 Girard, 1853",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus|Crotalus atrox",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|54847476|28891043",
+          "editDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Crotalus confluentis,",
+      "name": "Crotalus confluentis",
+      "odds": 9217151109248.502,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tis": 110.11958688168146
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 63,
+      "end": 84,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28909601",
+          "matchedName": "Crotalus confluentus Trécul, 1876",
+          "matchedCanonical": "Crotalus confluentus",
+          "currentName": "Crotalus atrox Baird \u0026 Girard, 1853",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus|Crotalus atrox",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|54847476|28891043",
+          "editDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Arctomys",
+      "name": "Arctomys",
+      "odds": 115846.35918499026,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mys": 45.04892190614242
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 606,
+      "end": 615,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "44280",
+          "matchedName": "Arctomys Schreber 1780",
+          "matchedCanonical": "Arctomys",
+          "currentName": "Marmota Frisch 1775",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Euarchontoglires|Glires|Rodentia|Sciuroidea|Sciuridae|Marmotini|Marmota",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|unranked clade|unranked clade|order|superfamily|family|tribe|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|137728|92587|41370|41482|41486|92501|41502",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Crotalus tergeminus.",
+      "name": "Crotalus tergeminus",
+      "odds": 14131310034918.3,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 683,
+      "end": 703,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28927907",
+          "matchedName": "Crotalus tergeminus Say, 1823",
+          "matchedCanonical": "Crotalus tergeminus",
+          "currentName": "Sistrurus catenatus tergeminus (Say, 1823)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Sistrurus|Sistrurus catenatus|Sistrurus catenatus tergeminus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|55023205|28900527|28900530",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Crotalus tergeminus,",
+      "name": "Crotalus tergeminus",
+      "odds": 14131310034918.3,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 710,
+      "end": 730,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28927907",
+          "matchedName": "Crotalus tergeminus Say, 1823",
+          "matchedCanonical": "Crotalus tergeminus",
+          "currentName": "Sistrurus catenatus tergeminus (Say, 1823)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Sistrurus|Sistrurus catenatus|Sistrurus catenatus tergeminus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|55023205|28900527|28900530",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

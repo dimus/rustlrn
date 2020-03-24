@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:01.003137928-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 189,
+    "total_candidates": 43,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Rana nigrita.",
+      "name": "Rana nigrita",
+      "odds": 232673388.44249073,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ita": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 34,
+      "end": 47,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162715",
+          "matchedName": "Rana nigrita LeConte, 1825",
+          "matchedCanonical": "Rana nigrita",
+          "currentName": "Pseudacris nigrita (LeConte, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Pseudacris|Pseudacris nigrita",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771386|54997076|7156395",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana nigrita,",
+      "name": "Rana nigrita",
+      "odds": 232673388.44249073,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ita": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 54,
+      "end": 67,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162715",
+          "matchedName": "Rana nigrita LeConte, 1825",
+          "matchedCanonical": "Rana nigrita",
+          "currentName": "Pseudacris nigrita (LeConte, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Pseudacris|Pseudacris nigrita",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771386|54997076|7156395",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hyla lateralis.",
+      "name": "Hyla lateralis",
+      "odds": 149995.09648057236,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "yla": 27.529896720420364
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 889,
+      "end": 904,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1095383",
+          "matchedName": "Hyla lateralis Daudin, 1800",
+          "matchedCanonical": "Hyla lateralis",
+          "currentName": "Dryophytes cinereus (Schneider, 1799)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Anura|Hylidae|Hylinae|Dryophytes|Dryophytes cinereus",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173423|173497|661421|1094766|1095381",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana arborea,",
+      "name": "Rana arborea",
+      "odds": 23462862.700083096,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rea": 5.29987316542852
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 921,
+      "end": 934,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232480",
+          "matchedName": "Rana arborea Linnaeus 1758",
+          "matchedCanonical": "Rana arborea",
+          "currentName": "Rana arborea Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hyla viridis,",
+      "name": "Hyla viridis",
+      "odds": 17841.0740277927,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dis": 105.1141511143323
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yla": 27.529896720420364
+          }
+        }
+      },
+      "start": 965,
+      "end": 978,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1098476",
+          "matchedName": "Hyla viridis (Linnaeus, 1761)",
+          "matchedCanonical": "Hyla viridis",
+          "currentName": "Hyla arborea (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Anura|Hylidae|Hylinae|Hyla|Hyla arborea",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173423|173497|661421|173498|662424",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Calamita carolinensis,",
+      "name": "Calamita carolinensis",
+      "odds": 3819966728330.4116,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ita": 20.021743069396628
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1004,
+      "end": 1026,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1095382",
+          "matchedName": "Calamita carolinensis Schneider, 1799",
+          "matchedCanonical": "Calamita carolinensis",
+          "currentName": "Dryophytes cinereus (Schneider, 1799)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Anura|Hylidae|Hylinae|Dryophytes|Dryophytes cinereus",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173423|173497|661421|1094766|1095381",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Calamita cinerea,",
+      "name": "Calamita cinerea",
+      "odds": 6797110549.469988,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ita": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rea": 5.29987316542852
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1042,
+      "end": 1059,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162942",
+          "matchedName": "Calamita cinereus Schneider, 1799",
+          "matchedCanonical": "Calamita cinereus",
+          "currentName": "Hyla cinerea (Schneider, 1799)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Hyla|Hyla cinerea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771357|54771386|54903048|7156383",
+          "editDistance": 2,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

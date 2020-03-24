@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:54.1879706-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 172,
+    "total_candidates": 55,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra cinerea.",
+      "name": "Salamandra cinerea",
+      "odds": 24082499605.810875,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spEnd3": {
+            "rea": 5.29987316542852
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 101,
+      "end": 120,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162645",
+          "matchedName": "Salamandra cinerea Green, 1818",
+          "matchedCanonical": "Salamandra cinerea",
+          "currentName": "Plethodon cinereus (Green, 1818)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Plethodontidae|Plethodon|Plethodon cinereus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771352|54988157|7159010",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cinerea,",
+      "name": "S. cinerea",
+      "odds": 61261.85945575891,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rea": 5.29987316542852
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 127,
+      "end": 138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra glutinosa.",
+      "name": "Salamandra glutinosa",
+      "odds": 5932764691695.082,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          }
+        }
+      },
+      "start": 537,
+      "end": 558,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1100131",
+          "matchedName": "Salamandra glutinosa Green, 1818",
+          "matchedCanonical": "Salamandra glutinosa",
+          "currentName": "Plethodon glutinosus (Green, 1818)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Caudata|Plethodontidae|Plethodontinae|Plethodon|Plethodon glutinosus",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Subfamily|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173584|173631|550197|173648|173650",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. glutinosa,",
+      "name": "S. glutinosa",
+      "odds": 15091963.154813692,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 565,
+      "end": 578,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Salamandra fusca.",
+      "name": "Salamandra fusca",
+      "odds": 23178336086.50488,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sca": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          }
+        }
+      },
+      "start": 836,
+      "end": 853,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162646",
+          "matchedName": "Salamandra fusca Green, 1818",
+          "matchedCanonical": "Salamandra fusca",
+          "currentName": "Desmognathus fuscus (Rafinesque, 1820)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Plethodontidae|Desmognathus|Desmognathus fuscus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771352|54856306|7158999",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

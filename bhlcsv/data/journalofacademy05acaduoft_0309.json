@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:29.496208983-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 251,
+    "total_candidates": 27,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ELEPHANTOPUS.",
+      "name": "Elephantopus",
+      "odds": 2627740.889219738,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 8,
+      "end": 21,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54867371",
+          "matchedName": "Elephantopus",
+          "matchedCanonical": "Elephantopus",
+          "currentName": "Elephantopus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Elephantopus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54770224|54779284|54867371",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. \r\r\n indica",
+      "name": "T. indica",
+      "odds": 3107064.6560137956,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          }
+        }
+      },
+      "start": 1171,
+      "end": 1184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. indica",
+      "name": "T. indica",
+      "odds": 3107064.6560137956,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          }
+        }
+      },
+      "start": 1604,
+      "end": 1613,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

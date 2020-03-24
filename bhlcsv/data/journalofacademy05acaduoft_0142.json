@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:46.725587294-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 170,
+    "total_candidates": 18,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Herbacea annua,",
+      "name": "Herbacea annua",
+      "odds": 2516121909.645461,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cea": 25.027178836745787
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 466,
+      "end": 481,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1081435",
+          "matchedName": "Cassinia sect. Herbacea R.Br.",
+          "matchedCanonical": "Cassinia sect. Herbacea",
+          "currentName": "Cassinia sect. Herbacea R.Br.",
+          "classificationPath": "Biota|Plantae|Viridiplantae|Streptophyta|Tracheophyta|Spermatophytina|Magnoliopsida|Asteranae|Asterales|Compositae|Asteroideae|Gnaphalieae|Cassinia|Cassinia",
+          "classificationRank": "|Kingdom|subkingdom|infrakingdom|phylum|subdivision|class|superorder|order|family|subfamily|tribe|genus|section",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:3|urn:lsid:marinespecies.org:taxname:368663|urn:lsid:marinespecies.org:taxname:536191|urn:lsid:marinespecies.org:taxname:596326|urn:lsid:marinespecies.org:taxname:596331|urn:lsid:marinespecies.org:taxname:182757|urn:lsid:marinespecies.org:taxname:449896|urn:lsid:marinespecies.org:taxname:234044|urn:lsid:marinespecies.org:taxname:867905|urn:lsid:marinespecies.org:taxname:1081107|urn:lsid:marinespecies.org:taxname:1150205|urn:lsid:marinespecies.org:taxname:1076320|urn:lsid:marinespecies.org:taxname:1081435",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Selenia,",
+      "name": "Selenia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 609,
+      "end": 617,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55019291",
+          "matchedName": "Selenia",
+          "matchedCanonical": "Selenia",
+          "currentName": "Selenia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Selenia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|55019291",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

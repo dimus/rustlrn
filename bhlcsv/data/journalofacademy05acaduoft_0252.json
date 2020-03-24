@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:54.181895327-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 272,
+    "total_candidates": 21,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Simia lar",
+      "name": "Simia lar",
+      "odds": 793486.3924634032,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spLen": {
+            "3": 0.010530369777031888
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          }
+        }
+      },
+      "start": 1656,
+      "end": 1665,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89231535",
+          "matchedName": "Simia Apedia Linnaeus 1758",
+          "matchedCanonical": "Simia",
+          "currentName": "Simia Apedia Linnaeus 1758",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

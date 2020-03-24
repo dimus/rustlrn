@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:17.184361142-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 164,
+    "total_candidates": 39,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ScYTALE",
+      "name": "Scytale",
+      "odds": 4260.153793400615,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ale": 2.919837530953675
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 358,
+      "end": 365,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1251374",
+          "matchedName": "Scytale Felder, 1874",
+          "matchedCanonical": "Scytale",
+          "currentName": "Clystea Watson in Watson, Fletcher \u0026 Nye, 1980",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Arctiidae|Clystea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|109696|1331613",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Scytale piscivorus,",
+      "name": "Scytale piscivorus",
+      "odds": 56722799136.796104,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ale": 2.919837530953675
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 393,
+      "end": 412,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1251374",
+          "matchedName": "Scytale Felder, 1874",
+          "matchedCanonical": "Scytale",
+          "currentName": "Clystea Watson in Watson, Fletcher \u0026 Nye, 1980",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Arctiidae|Clystea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|109696|1331613",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scytale",
+      "name": "Scytale",
+      "odds": 4260.153793400615,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ale": 2.919837530953675
+          }
+        }
+      },
+      "start": 911,
+      "end": 918,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1251374",
+          "matchedName": "Scytale Felder, 1874",
+          "matchedCanonical": "Scytale",
+          "currentName": "Clystea Watson in Watson, Fletcher \u0026 Nye, 1980",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Arctiidae|Clystea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|109696|1331613",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scytale",
+      "name": "Scytale",
+      "odds": 4260.153793400615,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ale": 2.919837530953675
+          }
+        }
+      },
+      "start": 943,
+      "end": 950,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1251374",
+          "matchedName": "Scytale Felder, 1874",
+          "matchedCanonical": "Scytale",
+          "currentName": "Clystea Watson in Watson, Fletcher \u0026 Nye, 1980",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Arctiidae|Clystea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|109696|1331613",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:35.29690844-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 251,
+    "total_candidates": 128,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Exogyra",
+      "name": "Exogyra",
+      "odds": 32864.04354909046,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yra": 22.52446095307121
+          }
+        }
+      },
+      "start": 293,
+      "end": 300,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "16655",
+          "matchedName": "Exogyra Say 1820",
+          "matchedCanonical": "Exogyra",
+          "currentName": "Exogyra Say 1820",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Bilateria|Eubilateria|Protostomia|Spiralia|Schizocoela|Mollusca|Bivalvia|Eubivalvia|Autobranchia|Pteriomorphia|Ostreomorphi|Ostreioni|Ostreata|Ostreiformii|Ostreida|Ostreidina|Ostreoidea|Gryphaeidae|Exogyrinae|Exogyra",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|phylum|class|unranked clade|subclass|infraclass|unranked clade|unranked clade|unranked clade|superorder|order|suborder|superfamily|family|subfamily|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|67103|272902|85324|85326|272903|7805|16005|204890|83700|61998|244008|244048|244066|244067|83707|82896|89008|60542|60345|16655",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Costata,",
+      "name": "Costata",
+      "odds": 684.6958578066105,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 301,
+      "end": 309,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145738557",
+          "matchedName": "Ephemerum sect. Costata Kindb.",
+          "matchedCanonical": "Ephemerum sect. Costata",
+          "currentName": "Ephemerum sect. Costata Kindb.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Strix",
+      "name": "Strix",
+      "odds": 18610.43414356598,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rix": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 591,
+      "end": 596,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55032315",
+          "matchedName": "Strix",
+          "matchedCanonical": "Strix",
+          "currentName": "Strix",
+          "classificationPath": "Animalia|Chordata|Aves|Strigiformes|Strigidae|Strix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54776798|54776799|55032315",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nyctea",
+      "name": "Nyctea",
+      "odds": 25912.342152304795,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tea": 35.0380503714441
+          }
+        }
+      },
+      "start": 597,
+      "end": 603,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1117037",
+          "matchedName": "Nyctea Stephens in Shaw, 1826",
+          "matchedCanonical": "Nyctea",
+          "currentName": "Nyctea Stephens in Shaw, 1826",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Strigiformes|Strigidae|Nyctea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|11624|105006|1117037",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

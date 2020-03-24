@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:08.261322943-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 173,
+    "total_candidates": 41,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "CohUBER proximus.",
+      "name": "Cohuber proximus",
+      "odds": 196.93022979759562,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "mus": 80.08697227758651
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35,
+      "end": 52,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28929695",
+          "matchedName": "Coluber proximus Say, 1823",
+          "matchedCanonical": "Coluber proximus",
+          "currentName": "Thamnophis proximus (Say, 1823)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Natricidae|Thamnophis|Thamnophis proximus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768319|55041069|28901489",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saurita",
+      "name": "Saurita",
+      "odds": 29212.483154747068,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ita": 20.021743069396628
+          }
+        }
+      },
+      "start": 522,
+      "end": 529,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55015350",
+          "matchedName": "Saurita",
+          "matchedCanonical": "Saurita",
+          "currentName": "Saurita",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Arctiidae|Saurita",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54768032|54772719|54772739|55015350",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ordinatus,*",
+      "name": "Ordinatus",
+      "odds": 277779.1656701644,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 626,
+      "end": 637,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "63007",
+          "matchedName": "Ordinatus Laubenfels 1955",
+          "matchedCanonical": "Ordinatus",
+          "currentName": "Ordinatus Laubenfels 1955",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Porifera|Hexactinellida|Hexasterophora|Hexactinosa|Euretidae|Euretinae|Ordinatus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|phylum|class|subclass|order|family|subfamily|genus",
+          "classificationIDs": "288516|212579|2|2894|3841|146759|3842|82020|82994|63007",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Coluber jlaviventris.",
+      "name": "Coluber jlaviventris",
+      "odds": 632911.02940692,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 823,
+      "end": 844,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28909047",
+          "matchedName": "Coluber flaviventris Say, 1823",
+          "matchedCanonical": "Coluber flaviventris",
+          "currentName": "Coluber constrictor flaviventris Say, 1823",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Coluber|Coluber constrictor|Coluber constrictor flaviventris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54841899|28891176|28891180",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

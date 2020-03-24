@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:29.593741321-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 228,
+    "total_candidates": 45,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Gasteromycetes,",
+      "name": "Gasteromycetes",
+      "odds": 1003.4282082033826,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 297,
+      "end": 312,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "14095",
+          "matchedName": "Gasteromycetes",
+          "matchedCanonical": "Gasteromycetes",
+          "currentName": "Agaricomycetes",
+          "isSynonym": true,
+          "classificationPath": "Fungi|Dikarya|Basidiomycota|Agaricomycotina|Agaricomycetes",
+          "classificationRank": "Kingdom|Subkingdom|Division|Subdivision|Class",
+          "classificationIDs": "555705|936287|623881|936292|936303",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:20.334673897-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 237,
+    "total_candidates": 23,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "BUPRESTIS.",
+      "name": "Buprestis",
+      "odds": 638098.4262823204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 493,
+      "end": 503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54821948",
+          "matchedName": "Buprestis",
+          "matchedCanonical": "Buprestis",
+          "currentName": "Buprestis",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Buprestoidea|Buprestidae|Buprestis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54767949|54770150|54821948",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. harrissi.",
+      "name": "B. harrissi",
+      "odds": 226549.8598629741,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ssi": 12.513589418372893
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 510,
+      "end": 522,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

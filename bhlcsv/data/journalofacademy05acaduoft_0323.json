@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:37.164242263-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 224,
+    "total_candidates": 21,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. pulchrum.",
+      "name": "T. pulchrum",
+      "odds": 5799676.4124921365,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 311,
+      "end": 323,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tritoma pulchrum,",
+      "name": "Tritoma pulchrum",
+      "odds": 608492563947.7444,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 375,
+      "end": 392,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 170,
+          "dataSourceTitle": "Arctos",
+          "taxonId": "ARCT_513630",
+          "matchedName": "Tritoma pulchrum Say 1826",
+          "matchedCanonical": "Tritoma pulchrum",
+          "currentName": "Tritoma pulchrum Say 1826",
+          "classificationPath": "|Arthropoda|||Erotylidae|Tritoma|Tritoma pulchrum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "CocciNELLA,",
+      "name": "Coccinella",
+      "odds": 2322371.779382462,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 1040,
+      "end": 1051,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54840242",
+          "matchedName": "Coccinella",
+          "matchedCanonical": "Coccinella",
+          "currentName": "Coccinella",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Coccinelloidea|Coccinellidae|Coccinella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769877|54774554|54840242",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. pullata.",
+      "name": "C. pullata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1067,
+      "end": 1078,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:06.67082229-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 239,
+    "total_candidates": 17,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Lampyris rujicollis,",
+      "name": "Lampyris rujicollis",
+      "odds": 20667663.59208549,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 32,
+      "end": 52,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11499162",
+          "matchedName": "Lampyris ruficollis Say, 1825",
+          "matchedCanonical": "Lampyris ruficollis",
+          "currentName": "Cyphon ruficollis (Say, 1825)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scirtidae|Cyphon|Cyphon ruficollis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1096|10279|104846|1009780|10719537",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

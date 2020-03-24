@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:09.434561328-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 272,
+    "total_candidates": 50,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Trinomial",
+      "verbatim": "NuMENius brasiliensis candidus,",
+      "name": "Numenius brasiliensis candidus",
+      "odds": 126868524927369820,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "ispEnd3": {
+            "dus": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 526,
+      "end": 557,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54956663",
+          "matchedName": "Numenius",
+          "matchedCanonical": "Numenius",
+          "currentName": "Numenius",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Numenius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54956663",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Ibis rubra,",
+      "name": "Ibis rubra",
+      "odds": 1132.1697509019036,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "bra": 42.54620402246783
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bis": 17.51902518572205
+          }
+        }
+      },
+      "start": 763,
+      "end": 774,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129553969",
+          "matchedName": "Ibis rubra",
+          "matchedCanonical": "Ibis rubra",
+          "currentName": "Ibis rubra",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Ibis falcinellus,",
+      "name": "Ibis falcinellus",
+      "odds": 268702.7892705544,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bis": 17.51902518572205
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1460,
+      "end": 1477,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129576401",
+          "matchedName": "Ibis falcinellus (L. )",
+          "matchedCanonical": "Ibis falcinellus",
+          "currentName": "Ibis falcinellus (L. )",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    }
+  ]
+}

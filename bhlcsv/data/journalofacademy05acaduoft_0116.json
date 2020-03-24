@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:31.146039454-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 174,
+    "total_candidates": 38,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Calidris arenaria,",
+      "name": "Calidris arenaria",
+      "odds": 92951216223.03052,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ria": 31.283973545932234
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 38,
+      "end": 56,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 169,
+          "dataSourceTitle": "uBio NameBank",
+          "taxonId": "93960979",
+          "matchedName": "Calidris arenaria",
+          "matchedCanonical": "Calidris arenaria",
+          "currentName": "Calidris arenaria",
+          "classificationPath": "|Calidris arenaria",
+          "classificationRank": "kingdom|",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. ostralegus.",
+      "name": "H. ostralegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 396,
+      "end": 410,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Ostralegus pica marina,",
+      "name": "Ostralegus pica marina",
+      "odds": 1908556243.2356946,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispEnd3": {
+            "ina": 85.09240804493567
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1060,
+      "end": 1083,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1247140",
+          "matchedName": "Ostralegus Lesson, 1839",
+          "matchedCanonical": "Ostralegus",
+          "currentName": "Ostralegus Lesson, 1839",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Ostralegus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10015|100483|1247140",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

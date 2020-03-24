@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:03.167536925-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 208,
+    "total_candidates": 20,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Anaspis,",
+      "name": "Anaspis",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pis": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 450,
+      "end": 458,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54796629",
+          "matchedName": "Anaspis",
+          "matchedCanonical": "Anaspis",
+          "currentName": "Anaspis",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Scraptiidae|Anaspis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54769841|54796629",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. rufa.",
+      "name": "A. rufa",
+      "odds": 6199.686859684009,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ufa": 15.01630730204747
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 472,
+      "end": 480,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Mordella rufa,",
+      "name": "Mordella rufa",
+      "odds": 1034752.5543119209,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spEnd3": {
+            "ufa": 15.01630730204747
+          }
+        }
+      },
+      "start": 516,
+      "end": 530,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54944159",
+          "matchedName": "Mordella",
+          "matchedCanonical": "Mordella",
+          "currentName": "Mordella",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Mordellidae|Mordella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54769883|54944159",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anthicus,",
+      "name": "Anthicus",
+      "odds": 984694.0530724172,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 751,
+      "end": 760,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54799730",
+          "matchedName": "Anthicus",
+          "matchedCanonical": "Anthicus",
+          "currentName": "Anthicus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Anthicidae|Anthicus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54774569|54799730",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. constrictus.",
+      "name": "A. constrictus",
+      "odds": 71280555.24216913,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 776,
+      "end": 791,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

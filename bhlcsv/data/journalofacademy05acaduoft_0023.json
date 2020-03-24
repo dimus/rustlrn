@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:34.88352108-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 261,
+    "total_candidates": 20,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Thelephora,",
+      "name": "Thelephora",
+      "odds": 1683894.9457758034,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 421,
+      "end": 432,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55041574",
+          "matchedName": "Thelephora",
+          "matchedCanonical": "Thelephora",
+          "currentName": "Thelephora",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Thelephorales|Thelephoraceae|Thelephora",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767768|54769016|54769021|54769022|55041574",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Collema,",
+      "name": "Collema",
+      "odds": 215442.06326625965,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ema": 147.66035513680015
+          }
+        }
+      },
+      "start": 548,
+      "end": 556,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54841406",
+          "matchedName": "Collema",
+          "matchedCanonical": "Collema",
+          "currentName": "Collema",
+          "classificationPath": "Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Collemataceae|Collema",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767787|54767788|54768971|54770819|54841406",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. rufa",
+      "name": "S. rufa",
+      "odds": 6199.686859684009,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ufa": 15.01630730204747
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1556,
+      "end": 1563,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Thele- \r\r\n phora,",
+      "name": "Thelephora",
+      "odds": 1683894.9457758034,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          }
+        }
+      },
+      "start": 1611,
+      "end": 1628,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55041574",
+          "matchedName": "Thelephora",
+          "matchedCanonical": "Thelephora",
+          "currentName": "Thelephora",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Thelephorales|Thelephoraceae|Thelephora",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767768|54769016|54769021|54769022|55041574",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:49.243023036-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 170,
+    "total_candidates": 50,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Siren striata,",
+      "name": "Siren striata",
+      "odds": 1173157.154571164,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ren": 2.5027178836745785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 306,
+      "end": 320,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162712",
+          "matchedName": "Siren striata LeConte, 1824",
+          "matchedCanonical": "Siren striata",
+          "currentName": "Pseudobranchus striatus (LeConte, 1824)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Sirenidae|Pseudobranchus|Pseudobranchus striatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771917|54998103|7161503",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Siren striata,",
+      "name": "Siren striata",
+      "odds": 1173157.154571164,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ren": 2.5027178836745785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 347,
+      "end": 362,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7162712",
+          "matchedName": "Siren striata LeConte, 1824",
+          "matchedCanonical": "Siren striata",
+          "currentName": "Pseudobranchus striatus (LeConte, 1824)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Sirenidae|Pseudobranchus|Pseudobranchus striatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771917|54998103|7161503",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Siren intermedia,",
+      "name": "Siren intermedia",
+      "odds": 61643.35616299155,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dia": 27.529896720420364
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ren": 2.5027178836745785
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 823,
+      "end": 840,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7161502",
+          "matchedName": "Siren intermedia Barnes, 1826",
+          "matchedCanonical": "Siren intermedia",
+          "currentName": "Siren intermedia Barnes, 1826",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Sirenidae|Siren|Siren intermedia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54771347|54771348|54771917|55023066|7161502",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lacertina",
+      "name": "Lacertina",
+      "odds": 13514.806754238203,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          }
+        }
+      },
+      "start": 896,
+      "end": 905,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "477707",
+          "matchedName": "Lacertina Remes Lenicov \u0026 Rossi Batiz in Rossi Batiz \u0026 Remes Lenicov, 2011",
+          "matchedCanonical": "Lacertina",
+          "currentName": "Lacertina Remes Lenicov \u0026 Rossi Batiz in Rossi Batiz \u0026 Remes Lenicov, 2011",
+          "classificationPath": "Sardia|Saccharosydnini|Lacertina",
+          "classificationRank": "||",
+          "classificationIDs": "102677|477704|477707",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Striata.",
+      "name": "Striata",
+      "odds": 20692.17556794584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 946,
+      "end": 954,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:857154",
+          "matchedName": "Quadrula (Striata)",
+          "matchedCanonical": "Quadrula subgen. Striata",
+          "currentName": "Obovaria Rafinesque, 1819",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Bivalvia|Palaeoheterodonta|Unionida|Unionoidea|Unionidae|Ambleminae|Lampsilini|Obovaria",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:105|urn:lsid:marinespecies.org:taxname:382253|urn:lsid:marinespecies.org:taxname:160326|urn:lsid:marinespecies.org:taxname:491768|urn:lsid:marinespecies.org:taxname:160333|urn:lsid:marinespecies.org:taxname:856823|urn:lsid:marinespecies.org:taxname:1352468|urn:lsid:marinespecies.org:taxname:856839",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

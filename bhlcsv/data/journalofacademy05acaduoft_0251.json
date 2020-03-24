@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:53.750962207-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 216,
+    "total_candidates": 52,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Spatangus,",
+      "name": "Spatangus",
+      "odds": 380954.28434765403,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          }
+        }
+      },
+      "start": 38,
+      "end": 48,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55025007",
+          "matchedName": "Spatangus",
+          "matchedCanonical": "Spatangus",
+          "currentName": "Spatangus",
+          "classificationPath": "Animalia|Echinodermata|Echinoidea|Spatangoida|Spatangoidea|Spatangidae|Spatangus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767878|54769473|54769639|54769640|54783161|55025007",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "SiMIA,",
+      "name": "Simia",
+      "odds": 8355.705125682685,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 485,
+      "end": 491,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89231535",
+          "matchedName": "Simia Apedia Linnaeus 1758",
+          "matchedCanonical": "Simia",
+          "currentName": "Simia Apedia Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Simia satyrus",
+      "name": "Simia satyrus",
+      "odds": 37504768100.66952,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 899,
+      "end": 912,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35501607",
+          "matchedName": "Simia satyrus Linnaeus, 1758",
+          "matchedCanonical": "Simia satyrus",
+          "currentName": "Pan troglodytes troglodytes (Blumenbach, 1775)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes|Pan troglodytes troglodytes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767753|54768037|54768045|54768047|54967628|35490721|35502042",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Simia",
+      "name": "Simia",
+      "odds": 8355.705125682685,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          }
+        }
+      },
+      "start": 1338,
+      "end": 1343,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89231535",
+          "matchedName": "Simia Apedia Linnaeus 1758",
+          "matchedCanonical": "Simia",
+          "currentName": "Simia Apedia Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

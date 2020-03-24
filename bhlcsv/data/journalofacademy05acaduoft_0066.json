@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:01.027043359-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 212,
+    "total_candidates": 28,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Silex,",
+      "name": "Silex",
+      "odds": 21269.067592646832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lex": 40.043486138793256
+          }
+        }
+      },
+      "start": 384,
+      "end": 390,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1250978",
+          "matchedName": "Silex Pagenstecher, 1909",
+          "matchedCanonical": "Silex",
+          "currentName": "Silex Pagenstecher, 1909",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Lepidoptera|Silex",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|108215|1250978",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Amphibolic \r\r\n granites,",
+      "name": "Amphibolic granites",
+      "odds": 33.134960803840485,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lic": 0.17876556311961278
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1227,
+      "end": 1251,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

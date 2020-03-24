@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:04.777710641-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 194,
+    "total_candidates": 30,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Dytiscus,",
+      "name": "Dytiscus",
+      "odds": 984694.0530724172,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 167,
+      "end": 176,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54865075",
+          "matchedName": "Dytiscus",
+          "matchedCanonical": "Dytiscus",
+          "currentName": "Dytiscus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dytiscoidea|Dytiscidae|Dytiscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769917|54769918|54865075",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. liberus.",
+      "name": "D. liberus",
+      "odds": 2082903.2214958034,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          }
+        }
+      },
+      "start": 198,
+      "end": 209,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

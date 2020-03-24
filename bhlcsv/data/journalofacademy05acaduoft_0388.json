@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:15.951200536-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 184,
+    "total_candidates": 44,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Cenchris mokeson.",
+      "name": "Cenchris mokeson",
+      "odds": 1897037729.1305308,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "son": 0.5005435767349158
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ris": 29.615494956815844
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 417,
+      "end": 434,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28903057",
+          "matchedName": "Cenchris mokeson Daudin, 1803",
+          "matchedCanonical": "Cenchris mokeson",
+          "currentName": "Agkistrodon contortrix mokasen Palisot De Beauvois, 1799",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Agkistrodon|Agkistrodon contortrix|Agkistrodon contortrix mokasen",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|54789783|28893079|28893084",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Crotalus",
+      "name": "Crotalus",
+      "odds": 557778.7664462494,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 720,
+      "end": 728,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54847476",
+          "matchedName": "Crotalus",
+          "matchedCanonical": "Crotalus",
+          "currentName": "Crotalus",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768110|54847476",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Co- \r\r\n luber heterodon",
+      "name": "Coluber heterodon",
+      "odds": 954948333.0869813,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "don": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 990,
+      "end": 1013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28915749",
+          "matchedName": "Coluber heterodon Daudin, 1803",
+          "matchedCanonical": "Coluber heterodon",
+          "currentName": "Heterodon platirhinos Latreille, 1801",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Heterodon|Heterodon platirhinos",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54768623|54897599|28894511",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "SCYTALE.",
+      "name": "Scytale",
+      "odds": 4260.153793400615,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ale": 2.919837530953675
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1234,
+      "end": 1242,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1251374",
+          "matchedName": "Scytale Felder, 1874",
+          "matchedCanonical": "Scytale",
+          "currentName": "Clystea Watson in Watson, Fletcher \u0026 Nye, 1980",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Arctiidae|Clystea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|109696|1331613",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:51.505487441-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 226,
+    "total_candidates": 32,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. mancus.",
+      "name": "H. mancus",
+      "odds": 1696127.082751492,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 649,
+      "end": 659,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

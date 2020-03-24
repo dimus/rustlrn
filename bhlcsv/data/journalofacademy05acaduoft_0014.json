@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:29.939502528-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 215,
+    "total_candidates": 23,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Hydnum,",
+      "name": "Hydnum",
+      "odds": 17451.169204613434,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "num": 23.597054331788886
+          }
+        }
+      },
+      "start": 17,
+      "end": 24,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54902551",
+          "matchedName": "Hydnum",
+          "matchedCanonical": "Hydnum",
+          "currentName": "Hydnum",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Cantharellales|Hydnaceae|Hydnum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767768|54769016|54769153|54769156|54902551",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cordyceps.",
+      "name": "Cordyceps",
+      "odds": 14285.785663037026,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eps": 3.7540768255118677
+          }
+        }
+      },
+      "start": 667,
+      "end": 677,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54844076",
+          "matchedName": "Cordyceps",
+          "matchedCanonical": "Cordyceps",
+          "currentName": "Cordyceps",
+          "classificationPath": "Fungi|Ascomycota|Sordariomycetes|Hypocreales|Cordycipitaceae|Cordyceps",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767787|54768946|54770843|54771331|54844076",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Hypocrea.",
+      "name": "Hypocrea",
+      "odds": 19736.787120405745,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rea": 7.675001509935374
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 695,
+      "end": 704,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54904197",
+          "matchedName": "Hypocrea",
+          "matchedCanonical": "Hypocrea",
+          "currentName": "Hypocrea",
+          "classificationPath": "Fungi|Ascomycota|Sordariomycetes|Hypocreales|Hypocreaceae|Hypocrea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767787|54768946|54770843|54770852|54904197",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. geoglossum.",
+      "name": "S. geoglossum",
+      "odds": 5921267.527089804,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sum": 172.68753397354592
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 714,
+      "end": 728,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Geoglossum,",
+      "name": "Geoglossum",
+      "odds": 336778.98915516067,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sum": 60.06522920818988
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 788,
+      "end": 799,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54884258",
+          "matchedName": "Geoglossum",
+          "matchedCanonical": "Geoglossum",
+          "currentName": "Geoglossum",
+          "classificationPath": "Fungi|Ascomycota|Geoglossomycetes|Geoglossales|Geoglossaceae|Geoglossum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767767|54767787|54772966|54772967|54772968|54884258",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. ophioglossoides,",
+      "name": "S. ophioglossoides",
+      "odds": 10533569.34826992,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "des": 40.79430150389563
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "15": 98.85735640514586
+          }
+        }
+      },
+      "start": 1453,
+      "end": 1472,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

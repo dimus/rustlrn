@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:14.71354719-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 180,
+    "total_candidates": 46,
+    "total_names": 8
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber guttatus.",
+      "name": "Coluber guttatus",
+      "odds": 67131558741.89758,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35,
+      "end": 52,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28927990",
+          "matchedName": "Coluber guttatus Forskal, 1775",
+          "matchedCanonical": "Coluber guttatus",
+          "currentName": "Spalerosophis diadema cliffordii (Schlegel, 1837)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Spalerosophis|Spalerosophis diadema|Spalerosophis diadema cliffordii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|55024815|28900560|28900561",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. guttatus^",
+      "name": "C. guttatus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 69,
+      "end": 81,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "La couleuvre",
+      "name": "La couleuvre",
+      "odds": 6.827806528200452,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "2": 0.0012032297517666245
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 138,
+      "end": 150,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54914144",
+          "matchedName": "La",
+          "matchedCanonical": "La",
+          "currentName": "La",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Crambidae|La",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54768032|54772750|54772751|54914144",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber molossus.",
+      "name": "Coluber molossus",
+      "odds": 16085312363.584265,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 584,
+      "end": 601,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28922920",
+          "matchedName": "Coluber molossus Daudin, 1803",
+          "matchedCanonical": "Coluber molossus",
+          "currentName": "Pantherophis guttatus (Linnaeus, 1766)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Pantherophis|Pantherophis guttatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54968042|28897948",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. molossus,",
+      "name": "C. molossus",
+      "odds": 4440377.253314292,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 618,
+      "end": 630,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "La couleuvre",
+      "name": "La couleuvre",
+      "odds": 6.827806528200452,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "2": 0.0012032297517666245
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 634,
+      "end": 646,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54914144",
+          "matchedName": "La",
+          "matchedCanonical": "La",
+          "currentName": "La",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Crambidae|La",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54768032|54772750|54772751|54914144",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Coluber reticularis.",
+      "name": "Coluber reticularis",
+      "odds": 84598408712.95786,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          }
+        }
+      },
+      "start": 1200,
+      "end": 1220,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28922468",
+          "matchedName": "Coluber reticularis Cantor, 1839",
+          "matchedCanonical": "Coluber reticularis",
+          "currentName": "Orthriophis cantoris (Boulenger, 1894)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Orthriophis|Orthriophis cantoris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767860|54767861|54769408|54963827|28897826",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. reticularis,",
+      "name": "C. reticularis",
+      "odds": 23353531.546334136,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1235,
+      "end": 1250,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

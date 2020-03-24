@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:00.485197806-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 238,
+    "total_candidates": 45,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ASTERIAS.",
+      "name": "Asterias",
+      "odds": 212384.99183914877,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 0,
+      "end": 9,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54807252",
+          "matchedName": "Asterias",
+          "matchedCanonical": "Asterias",
+          "currentName": "Asterias",
+          "classificationPath": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767878|54778898|54779951|54782440|54807252",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. costosum,",
+      "name": "E. costosum",
+      "odds": 3126388.066109042,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sum": 172.68753397354592
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 705,
+      "end": 717,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alectro,",
+      "name": "Alectro",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 823,
+      "end": 831,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:152525",
+          "matchedName": "Alectro Say, 1825",
+          "matchedCanonical": "Alectro",
+          "currentName": "Alecto Leach, 1815",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Echinodermata|Crinozoa|Crinoidea|Articulata|Comatulida||Alecto",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|superfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1806|urn:lsid:marinespecies.org:taxname:147423|urn:lsid:marinespecies.org:taxname:123081|urn:lsid:marinespecies.org:taxname:183494|urn:lsid:marinespecies.org:taxname:123093|urn:lsid:marinespecies.org:taxname:828478|urn:lsid:marinespecies.org:taxname:123348",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. dentata.",
+      "name": "A. dentata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 845,
+      "end": 856,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

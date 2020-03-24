@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:05.437846792-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 233,
+    "total_candidates": 27,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. collaris,",
+      "name": "A. collaris",
+      "odds": 6071536.244327704,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 582,
+      "end": 594,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Meloe angus- \r\r\n ticollis,",
+      "name": "Meloe angusticollis",
+      "odds": 1490366.4465526314,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          }
+        }
+      },
+      "start": 779,
+      "end": 805,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "36504723",
+          "matchedName": "Meloe (Meloe) angusticollis Say, 1824",
+          "matchedCanonical": "Meloe angusticollis",
+          "currentName": "Meloe (Meloe) angusticollis Say, 1824",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Meloidae|Meloe|Meloe angusticollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54769887|54935025|36504723",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anthribus,",
+      "name": "Anthribus",
+      "odds": 29692.025103567154,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          }
+        }
+      },
+      "start": 1305,
+      "end": 1315,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54800032",
+          "matchedName": "Anthribus",
+          "matchedCanonical": "Anthribus",
+          "currentName": "Anthribus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Anthribidae|Anthribus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54772024|54800032",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. notatus.",
+      "name": "A. notatus",
+      "odds": 11832047.466552548,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1331,
+      "end": 1342,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anthribus notatus,",
+      "name": "Anthribus notatus",
+      "odds": 757066466318.0955,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1435,
+      "end": 1453,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "30067343",
+          "matchedName": "Anthribus notatus Say, 1826",
+          "matchedCanonical": "Anthribus notatus",
+          "currentName": "Anthribus notatus Say, 1826",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Anthribidae|Anthribus|Anthribus notatus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54772024|54800032|30067343",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

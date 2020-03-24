@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:58.48557435-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 199,
+    "total_candidates": 33,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Opatrum clathratum.",
+      "name": "Opatrum clathratum",
+      "odds": 3562281821979.901,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rum": 68.40762215377181
+          }
+        }
+      },
+      "start": 319,
+      "end": 338,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 164,
+          "dataSourceTitle": "BioLib.cz",
+          "taxonId": "142245010",
+          "matchedName": "Opatrum clathratum Fabricius, 1792",
+          "matchedCanonical": "Opatrum clathratum",
+          "currentName": "Opatrum clathratum Fabricius, 1792",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. pullum.",
+      "name": "O. pullum",
+      "odds": 945628.373569416,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lum": 157.67122667149846
+          }
+        }
+      },
+      "start": 904,
+      "end": 914,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

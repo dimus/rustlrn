@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:48.403521441-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 224,
+    "total_candidates": 28,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. decora.",
+      "name": "T. decora",
+      "odds": 960638.3477530574,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ora": 160.17394455517302
+          }
+        }
+      },
+      "start": 416,
+      "end": 426,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PsAMMOBiA,",
+      "name": "Psammobia",
+      "odds": 7294.869274742312,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "bia": 1.9169754002613795
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1202,
+      "end": 1212,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:511114",
+          "matchedName": "Gari (Psammobia) Lamarck, 1818",
+          "matchedCanonical": "Gari subgen. Psammobia",
+          "currentName": "Gari Schumacher, 1817",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Bivalvia|Heterodonta|Euheterodonta|Imparidentia|Cardiida|Tellinoidea|Psammobiidae|Gari",
+          "classificationRank": "|Kingdom|phylum|class|subclass|infraclass|superorder|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:105|urn:lsid:marinespecies.org:taxname:216|urn:lsid:marinespecies.org:taxname:382296|urn:lsid:marinespecies.org:taxname:869600|urn:lsid:marinespecies.org:taxname:869602|urn:lsid:marinespecies.org:taxname:14636|urn:lsid:marinespecies.org:taxname:237|urn:lsid:marinespecies.org:taxname:138388",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. fusca.",
+      "name": "P. fusca",
+      "odds": 58961.818374002476,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sca": 32.53533248776952
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1224,
+      "end": 1233,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

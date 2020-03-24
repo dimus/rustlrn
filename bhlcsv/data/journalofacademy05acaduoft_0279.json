@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:10.474654631-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 233,
+    "total_candidates": 25,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Bostrichus typographus,",
+      "name": "Bostrichus typographus",
+      "odds": 1124753045396.9805,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "hus": 77.58425439391193
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 320,
+      "end": 343,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "30076316",
+          "matchedName": "Bostrichus typographus (Linnaeus, C., 1758)",
+          "matchedCanonical": "Bostrichus typographus",
+          "currentName": "Ips typographus (Linnaeus, C., 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Curculionidae|Ips|Ips typographus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54768015|54768915|54907402|30073266",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(PiNus pendula,",
+      "name": "Pinus pendula",
+      "odds": 382861174361.0012,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 1271,
+      "end": 1286,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "18159795",
+          "matchedName": "Pinus pendula Aiton",
+          "matchedCanonical": "Pinus pendula",
+          "currentName": "Larix laricina (Du Roi) K. Koch",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Larix|Larix laricina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767868|54767869|54768602|54768603|54769402|54916403|18158243",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(PiNus",
+      "name": "Pinus",
+      "odds": 79759.00347242563,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 1386,
+      "end": 1392,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54985016",
+          "matchedName": "Pinus",
+          "matchedCanonical": "Pinus",
+          "currentName": "Pinus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54768602|54768603|54769402|54985016",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

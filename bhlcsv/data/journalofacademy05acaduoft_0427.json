@@ -1,0 +1,717 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:40.191051046-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 136,
+    "total_candidates": 26,
+    "total_names": 15
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Macroramphus,",
+      "name": "Macroramphus",
+      "odds": 220621.77259396494,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 32,
+      "end": 45,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1390670",
+          "matchedName": "Macroramphus Lesson, 1828",
+          "matchedCanonical": "Macroramphus",
+          "currentName": "Limnodromus Wied, 1833",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Charadriiformes|Scolopacidae|Limnodromus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1142|10265|101567|1027296",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Malachius,",
+      "name": "Malachius",
+      "odds": 94444.91632785588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 55,
+      "end": 65,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:150775",
+          "matchedName": "Malachius Fabricius, 1775",
+          "matchedCanonical": "Malachius",
+          "currentName": "Malachius Fabricius, 1775",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Coleoptera|Melyridae|Malachius",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1065|urn:lsid:marinespecies.org:taxname:1278|urn:lsid:marinespecies.org:taxname:1307|urn:lsid:marinespecies.org:taxname:151152|urn:lsid:marinespecies.org:taxname:118085|urn:lsid:marinespecies.org:taxname:150723|urn:lsid:marinespecies.org:taxname:150775",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Meeatoma ornata,",
+      "name": "Meeatoma ornata",
+      "odds": 26747.35952440013,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 228,
+      "end": 244,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54601840",
+          "matchedName": "Melatoma ornatum Reeve, 1861",
+          "matchedCanonical": "Melatoma ornatum",
+          "currentName": "Gyrotoma pagoda (I. Lea, 1845)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Cerithioidea|Pleuroceridae|Gyrotoma|Gyrotoma pagoda",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781570|54781651|54890890|54500513",
+          "editDistance": 3,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Melania,",
+      "name": "Melania",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 255,
+      "end": 263,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:205560",
+          "matchedName": "Melania Lamarck, 1799",
+          "matchedCanonical": "Melania",
+          "currentName": "Thiara Röding, 1798",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Cerithioidea|Thiaridae|Thiarinae|Thiara",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14769|urn:lsid:marinespecies.org:taxname:196287|urn:lsid:marinespecies.org:taxname:1000045|urn:lsid:marinespecies.org:taxname:206444",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Menobranchus,",
+      "name": "Menobranchus",
+      "odds": 220621.77259396494,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          }
+        }
+      },
+      "start": 334,
+      "end": 347,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1038043",
+          "matchedName": "Menobranchus Harlan, 1825",
+          "matchedCanonical": "Menobranchus",
+          "currentName": "Menobranchus Harlan, 1825",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Amphibia|Caudata|Proteidae|Menobranchus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1131|12453|103656|1038043",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Menopoma allegbaniensis,",
+      "name": "Menopoma allegbaniensis",
+      "odds": 74134497.02366573,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 412,
+      "end": 436,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 3,
+          "dataSourceTitle": "ITIS",
+          "taxonId": "1101810",
+          "matchedName": "Menopoma alleghaniensis (Sonnini de Manoncourt and Latreille, 1801)",
+          "matchedCanonical": "Menopoma alleghaniensis",
+          "currentName": "Cryptobranchus alleganiensis (Sonnini de Manoncourt and Latreille, 1801)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Bilateria|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Amphibia|Caudata|Cryptobranchidae|Cryptobranchus|Cryptobranchus alleganiensis",
+          "classificationRank": "Kingdom|Subkingdom|Infrakingdom|Phylum|Subphylum|Infraphylum|Superclass|Class|Order|Family|Genus|Species",
+          "classificationIDs": "202423|914154|914156|158852|331030|914179|914181|173420|173584|173585|173586|173587",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mycetophagus,",
+      "name": "Mycetophagus",
+      "odds": 1281824.8240096285,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 611,
+      "end": 624,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54945669",
+          "matchedName": "Mycetophagus",
+          "matchedCanonical": "Mycetophagus",
+          "currentName": "Mycetophagus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Mycetophagidae|Mycetophagus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54769876|54945669",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mycetophagus,",
+      "name": "Mycetophagus",
+      "odds": 1281824.8240096285,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          }
+        }
+      },
+      "start": 727,
+      "end": 740,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54945669",
+          "matchedName": "Mycetophagus",
+          "matchedCanonical": "Mycetophagus",
+          "currentName": "Mycetophagus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Mycetophagidae|Mycetophagus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54769876|54945669",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Natica,",
+      "name": "Natica",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ica": 0.8073283495724448
+          }
+        }
+      },
+      "start": 782,
+      "end": 789,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54948380",
+          "matchedName": "Natica",
+          "matchedCanonical": "Natica",
+          "currentName": "Natica",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Naticoidea|Naticidae|Natica",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778796|54782196|54782197|54948380",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nassa,",
+      "name": "Nassa",
+      "odds": 7532.794772395754,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 796,
+      "end": 802,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54948253",
+          "matchedName": "Nassa",
+          "matchedCanonical": "Nassa",
+          "currentName": "Nassa",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Neogastropoda|Muricoidea|Muricidae|Nassa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54781593|54782640|54782641|54948253",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Necrophorus,",
+      "name": "Necrophorus",
+      "odds": 520216.37088367954,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 922,
+      "end": 934,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1278216",
+          "matchedName": "Necrophorus Illiger, 1798",
+          "matchedCanonical": "Necrophorus",
+          "currentName": "Nicrophorus Fabricius, 1775",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Silphidae|Nicrophorus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|104896|1018288",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nitidula,",
+      "name": "Nitidula",
+      "odds": 67934.59334922268,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 967,
+      "end": 976,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54954743",
+          "matchedName": "Nitidula",
+          "matchedCanonical": "Nitidula",
+          "currentName": "Nitidula",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Cucujoidea|Nitidulidae|Nitidula",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769831|54769870|54954743",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Notoxus,",
+      "name": "Notoxus",
+      "odds": 18257.80197171692,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1195,
+      "end": 1203,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54956316",
+          "matchedName": "Notoxus",
+          "matchedCanonical": "Notoxus",
+          "currentName": "Notoxus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Anthicidae|Notoxus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54774569|54956316",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Numenius,",
+      "name": "Numenius",
+      "odds": 63822.76269913814,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1233,
+      "end": 1242,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54956663",
+          "matchedName": "Numenius",
+          "matchedCanonical": "Numenius",
+          "currentName": "Numenius",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes|Scolopacidae|Numenius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54773289|54773293|54956663",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paludina,",
+      "name": "Paludina",
+      "odds": 9132.861120933094,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1400,
+      "end": 1409,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:718590",
+          "matchedName": "Paludina Férussac, 1812",
+          "matchedCanonical": "Paludina",
+          "currentName": "Viviparus Montfort, 1810",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Architaenioglossa|Viviparoidea|Viviparidae|Viviparinae|Viviparus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:489327|urn:lsid:marinespecies.org:taxname:153656|urn:lsid:marinespecies.org:taxname:154000|urn:lsid:marinespecies.org:taxname:154002|urn:lsid:marinespecies.org:taxname:154004",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

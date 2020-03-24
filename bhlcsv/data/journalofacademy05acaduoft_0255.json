@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:56.055231687-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 281,
+    "total_candidates": 32,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Cas rares.\"",
+      "name": "Cas rares",
+      "odds": 4.705208185059826,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "res": 0.36804674759920275
+          }
+        }
+      },
+      "start": 1471,
+      "end": 1482,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1152222",
+          "matchedName": "Cas Baker \u0026 Wharton, 1952",
+          "matchedCanonical": "Cas",
+          "currentName": "Cas Baker \u0026 Wharton, 1952",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Arachnida|Arachnida|Cas",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|235|11905094|1136|10914|116462|1152222",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

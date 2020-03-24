@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:51.872294882-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 273,
+    "total_candidates": 17,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Rallus nigricans^",
+      "name": "Rallus nigricans",
+      "odds": 61729514437.22629,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          }
+        }
+      },
+      "start": 88,
+      "end": 105,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35518261",
+          "matchedName": "Rallus nigricans Vieillot, 1819",
+          "matchedCanonical": "Rallus nigricans",
+          "currentName": "Pardirallus nigricans (Vieillot, 1819)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Gruiformes|Rallidae|Pardirallus|Pardirallus nigricans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773001|54773002|54973606|35526576",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. me- \r\r\n lanurus",
+      "name": "R. melanurus",
+      "odds": 4745071.384919589,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          }
+        }
+      },
+      "start": 532,
+      "end": 550,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

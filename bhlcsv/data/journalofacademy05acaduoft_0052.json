@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:52.70374779-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 241,
+    "total_candidates": 10,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "HISTER.",
+      "name": "Hister",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          }
+        }
+      },
+      "start": 3,
+      "end": 10,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54899426",
+          "matchedName": "Hister",
+          "matchedCanonical": "Hister",
+          "currentName": "Hister",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Histeroidea|Histeridae|Hister",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769846|54769900|54899426",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

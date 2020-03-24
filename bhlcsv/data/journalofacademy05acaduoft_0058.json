@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:56.226835007-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 240,
+    "total_candidates": 15,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Salmo.",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 3,
+      "end": 9,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55014062",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54768893|54768894|55014062",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salmo.",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          }
+        }
+      },
+      "start": 55,
+      "end": 61,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55014062",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54768893|54768894|55014062",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salmo.",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          }
+        }
+      },
+      "start": 114,
+      "end": 120,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55014062",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54768893|54768894|55014062",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. microps.",
+      "name": "S. microps",
+      "odds": 28929.21140966393,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ops": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 127,
+      "end": 138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

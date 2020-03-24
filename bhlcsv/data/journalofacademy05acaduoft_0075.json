@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:06.292223035-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 272,
+    "total_candidates": 46,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. nivea,",
+      "name": "A. nivea",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "vea": 10.010871534698314
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 206,
+      "end": 215,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea candidissima,",
+      "name": "Ardea candidissima",
+      "odds": 504961350577.12573,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ima": 100.10871534698315
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          }
+        }
+      },
+      "start": 1141,
+      "end": 1160,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "128952675",
+          "matchedName": "Ardea candidissima",
+          "matchedCanonical": "Ardea candidissima",
+          "currentName": "Ardea candidissima",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea nivea,",
+      "name": "Ardea nivea",
+      "odds": 1663030607.4244053,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "vea": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          }
+        }
+      },
+      "start": 1173,
+      "end": 1185,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "9161447",
+          "matchedName": "Ardea nivea Cuvier, 1831",
+          "matchedCanonical": "Ardea nivea",
+          "currentName": "Ardea nivea Cuvier, 1831",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea|Ardea nivea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7190953|3685|2480922|9161447",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. garzetta,')",
+      "name": "A. garzetta",
+      "odds": 45309.971972594816,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tta": 2.5027178836745785
+          }
+        }
+      },
+      "start": 1269,
+      "end": 1283,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ardea",
+      "name": "Ardea",
+      "odds": 42538.135185293664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          }
+        }
+      },
+      "start": 1332,
+      "end": 1337,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54804242",
+          "matchedName": "Ardea",
+          "matchedCanonical": "Ardea",
+          "currentName": "Ardea",
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ardea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767746|54767747|54768181|54804242",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. garzetta.)",
+      "name": "A. garzetta",
+      "odds": 45309.971972594816,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tta": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1582,
+      "end": 1595,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

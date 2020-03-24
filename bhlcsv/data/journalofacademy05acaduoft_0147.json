@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:49.346923648-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 233,
+    "total_candidates": 28,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Picus rubricollis.",
+      "name": "Picus rubricollis",
+      "odds": 11839507890737.762,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 176,
+      "end": 194,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "9219212",
+          "matchedName": "Picus rubricollaris E.C.S.Baker, 1920",
+          "matchedCanonical": "Picus rubricollaris",
+          "currentName": "Picus rubricollaris E.C.S.Baker, 1920",
+          "classificationPath": "Animalia|Chordata|Aves|Piciformes|Picidae|Picus|Picus rubricollaris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|724|9333|2478487|9219212",
+          "editDistance": 2,
+          "stemEditDistance": 2,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Picus rubricollis",
+      "name": "Picus rubricollis",
+      "odds": 11839507890737.762,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 235,
+      "end": 252,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "9219212",
+          "matchedName": "Picus rubricollaris E.C.S.Baker, 1920",
+          "matchedCanonical": "Picus rubricollaris",
+          "currentName": "Picus rubricollaris E.C.S.Baker, 1920",
+          "classificationPath": "Animalia|Chordata|Aves|Piciformes|Picidae|Picus|Picus rubricollaris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|724|9333|2478487|9219212",
+          "editDistance": 2,
+          "stemEditDistance": 2,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rallus nigricans.",
+      "name": "Rallus nigricans",
+      "odds": 61729514437.22629,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 1145,
+      "end": 1162,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "35518261",
+          "matchedName": "Rallus nigricans Vieillot, 1819",
+          "matchedCanonical": "Rallus nigricans",
+          "currentName": "Pardirallus nigricans (Vieillot, 1819)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Gruiformes|Rallidae|Pardirallus|Pardirallus nigricans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767744|54767745|54767746|54773001|54773002|54973606|35526576",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

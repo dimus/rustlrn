@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:40.766238891-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 206,
+    "total_candidates": 36,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ACHATINA.",
+      "name": "Achatina",
+      "odds": 9132.861120933094,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          }
+        }
+      },
+      "start": 45,
+      "end": 54,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54785276",
+          "matchedName": "Achatina",
+          "matchedCanonical": "Achatina",
+          "currentName": "Achatina",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Stylommatophora|Achatinoidea|Achatinidae|Achatina",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54777336|54781615|54781616|54785276",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. solida.",
+      "name": "A. solida",
+      "odds": 1215807.9088749634,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          }
+        }
+      },
+      "start": 61,
+      "end": 71,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lymneus.",
+      "name": "Lymneus",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 868,
+      "end": 876,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1049539",
+          "matchedName": "Lymneus Férussac, 1812",
+          "matchedCanonical": "Lymneus",
+          "currentName": "Lymnaea Lamarck, 1799",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Tectipleura|Hygrophila|Lymnaeoidea|Lymnaeidae|Lymnaeinae|Lymnaea",
+          "classificationRank": "|Kingdom|phylum|class|subclass|infraclass|subterclass|superorder|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:14712|urn:lsid:marinespecies.org:taxname:1057247|urn:lsid:marinespecies.org:taxname:1057250|urn:lsid:marinespecies.org:taxname:382243|urn:lsid:marinespecies.org:taxname:489336|urn:lsid:marinespecies.org:taxname:160343|urn:lsid:marinespecies.org:taxname:724421|urn:lsid:marinespecies.org:taxname:160345",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

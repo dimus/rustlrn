@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:46.453963208-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 172,
+    "total_candidates": 18,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Alasmodon,",
+      "name": "Alasmodon",
+      "odds": 14966.061170800696,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "don": 3.932842388631481
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 45,
+      "end": 55,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:857023",
+          "matchedName": "Alasmodon",
+          "matchedCanonical": "Alasmodon",
+          "currentName": "Alasmidonta Say, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Bivalvia|Palaeoheterodonta|Unionida|Unionoidea|Unionidae|Unioninae|Anodontini|Alasmidonta",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:105|urn:lsid:marinespecies.org:taxname:382253|urn:lsid:marinespecies.org:taxname:160326|urn:lsid:marinespecies.org:taxname:491768|urn:lsid:marinespecies.org:taxname:160333|urn:lsid:marinespecies.org:taxname:856824|urn:lsid:marinespecies.org:taxname:1351487|urn:lsid:marinespecies.org:taxname:571695",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alasmodonta.",
+      "name": "Alasmodonta",
+      "odds": 8553.085982130418,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 121,
+      "end": 133,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:856880",
+          "matchedName": "Alasmodonta",
+          "matchedCanonical": "Alasmodonta",
+          "currentName": "Alasmidonta Say, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Bivalvia|Palaeoheterodonta|Unionida|Unionoidea|Unionidae|Unioninae|Anodontini|Alasmidonta",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:105|urn:lsid:marinespecies.org:taxname:382253|urn:lsid:marinespecies.org:taxname:160326|urn:lsid:marinespecies.org:taxname:491768|urn:lsid:marinespecies.org:taxname:160333|urn:lsid:marinespecies.org:taxname:856824|urn:lsid:marinespecies.org:taxname:1351487|urn:lsid:marinespecies.org:taxname:571695",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. ambigua.",
+      "name": "A. ambigua",
+      "odds": 173575.26845798356,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gua": 15.01630730204747
+          }
+        }
+      },
+      "start": 140,
+      "end": 151,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alasmodonta",
+      "name": "Alasmodonta",
+      "odds": 8553.085982130418,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 985,
+      "end": 996,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:856880",
+          "matchedName": "Alasmodonta",
+          "matchedCanonical": "Alasmodonta",
+          "currentName": "Alasmidonta Say, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Bivalvia|Palaeoheterodonta|Unionida|Unionoidea|Unionidae|Unioninae|Anodontini|Alasmidonta",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:105|urn:lsid:marinespecies.org:taxname:382253|urn:lsid:marinespecies.org:taxname:160326|urn:lsid:marinespecies.org:taxname:491768|urn:lsid:marinespecies.org:taxname:160333|urn:lsid:marinespecies.org:taxname:856824|urn:lsid:marinespecies.org:taxname:1351487|urn:lsid:marinespecies.org:taxname:571695",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anodonta.",
+      "name": "Anodonta",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 1001,
+      "end": 1010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54798689",
+          "matchedName": "Anodonta",
+          "matchedCanonical": "Anodonta",
+          "currentName": "Anodonta",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Unionida|Unionoidea|Unionidae|Anodonta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54781634|54781688|54781978|54798689",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

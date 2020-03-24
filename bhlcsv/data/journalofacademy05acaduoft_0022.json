@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:53:34.665788671-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 247,
+    "total_candidates": 31,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(S. rubiformis,",
+      "name": "S. rubiformis",
+      "odds": 4119142.6275407327,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "mis": 120.13045841637977
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 616,
+      "end": 631,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. argillacea",
+      "name": "S. argillacea",
+      "odds": 3175172.4420626485,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cea": 92.60056169595941
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1095,
+      "end": 1108,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. multiformis",
+      "name": "S. multiformis",
+      "odds": 8365444.136000288,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mis": 120.13045841637977
+          }
+        }
+      },
+      "start": 1292,
+      "end": 1306,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. gelatinosa,",
+      "name": "S. gelatinosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1386,
+      "end": 1400,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Sambucus canadensis,",
+      "name": "Sambucus canadensis",
+      "odds": 45524082720574.805,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1458,
+      "end": 1478,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "53639579",
+          "matchedName": "Sambucus canadensis L.",
+          "matchedCanonical": "Sambucus canadensis",
+          "currentName": "Sambucus canadensis L.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Dipsacales|Adoxaceae|Sambucus|Sambucus canadensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "54767868|54767869|54767870|54773505|54773507|55014239|53639579",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. rufa.",
+      "name": "S. rufa",
+      "odds": 6199.686859684009,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ufa": 15.01630730204747
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1518,
+      "end": 1526,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. stereorum,",
+      "name": "S. stereorum",
+      "odds": 8435682.462079268,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 1537,
+      "end": 1550,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

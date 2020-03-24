@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:29.768986843-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 312,
+    "total_candidates": 30,
+    "total_names": 6
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ELEPHANTOPUS.",
+      "name": "Elephantopus",
+      "odds": 2627740.889219738,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 12,
+      "end": 25,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54867371",
+          "matchedName": "Elephantopus",
+          "matchedCanonical": "Elephantopus",
+          "currentName": "Elephantopus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Elephantopus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54770224|54779284|54867371",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. indica",
+      "name": "T. indica",
+      "odds": 3107064.6560137956,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          }
+        }
+      },
+      "start": 288,
+      "end": 297,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(Cis- \r\r\n TUDA clausa,)",
+      "name": "Cis-tuda clausa",
+      "odds": 904.5000805352701,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "uda": 2.5027178836745785
+          },
+          "spEnd3": {
+            "usa": 52.55707555716615
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1109,
+      "end": 1132,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "28929440",
+          "matchedName": "Cistuda clausa Say, 1824",
+          "matchedCanonical": "Cistuda clausa",
+          "currentName": "Terrapene carolina carolina (Linnaeus, 1758)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Reptilia|Testudines|Emydidae|Terrapene|Terrapene carolina|Terrapene carolina carolina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species|infraspecies",
+          "classificationIDs": "54767744|54767745|54767860|54774648|54774655|55039602|28901347|28901349",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Historia testudinum.",
+      "name": "Historia testudinum",
+      "odds": 483.60272232645985,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spEnd3": {
+            "num": 265.2880956695053
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 1327,
+      "end": 1347,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. indica.",
+      "name": "T. indica",
+      "odds": 3107064.6560137956,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1457,
+      "end": 1467,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Sterni scutella duo",
+      "name": "Sterni scutella duo",
+      "odds": 2032873.4818777994,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "3": 0.003572759291469777
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 1917,
+      "end": 1936,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

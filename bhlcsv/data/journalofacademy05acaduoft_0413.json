@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:31.694374151-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 111,
+    "total_candidates": 68,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Alcyonium,",
+      "name": "Alcyonium",
+      "odds": 189011.9333878745,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 438,
+      "end": 448,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54791108",
+          "matchedName": "Alcyonium",
+          "matchedCanonical": "Alcyonium",
+          "currentName": "Alcyonium",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Alcyonacea|Alcyoniidae|Alcyonium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54771845|54771846|54777076|54782332|54791108",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Echineis.",
+      "name": "Echineis",
+      "odds": 70794.99727971626,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eis": 27.529896720420364
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 478,
+      "end": 487,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1420204",
+          "matchedName": "Echineis Swainson, 1838",
+          "matchedCanonical": "Echineis",
+          "currentName": "Echeneis Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Actinopterygii|Perciformes|Echeneidae|Echeneis",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|order|family|genus",
+          "classificationIDs": "1|2|148|11905117|1530|10478|110254|1426270",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scutella,",
+      "name": "Scutella",
+      "odds": 1065142.9136175492,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 575,
+      "end": 584,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:532067",
+          "matchedName": "Scutella Broderip, 1834",
+          "matchedCanonical": "Scutella",
+          "currentName": "Plesiothyreus Cossmann, 1888",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Neritimorpha|Cycloneritida|Neritoidea|Phenacolepadidae|Phenacolepadinae|Plesiothyreus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:156484|urn:lsid:marinespecies.org:taxname:1054475|urn:lsid:marinespecies.org:taxname:196314|urn:lsid:marinespecies.org:taxname:180860|urn:lsid:marinespecies.org:taxname:1052700|urn:lsid:marinespecies.org:taxname:415835",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aquifolium,",
+      "name": "Aquifolium",
+      "odds": 278490.317955229,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 687,
+      "end": 698,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145267887",
+          "matchedName": "Aquifolium Mill.",
+          "matchedCanonical": "Aquifolium",
+          "currentName": "Aquifolium Mill.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

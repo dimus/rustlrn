@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:56:01.292147978-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 229,
+    "total_candidates": 27,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "CiSTELA,",
+      "name": "Cistela",
+      "odds": 29212.483154747068,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ela": 20.021743069396628
+          }
+        }
+      },
+      "start": 296,
+      "end": 304,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "209678",
+          "matchedName": "Cistela Fabricius 1775",
+          "matchedCanonical": "Cistela",
+          "currentName": "Cteniopus Solier 1835",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Bilateria|Eubilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Endopterygota|Coleopterida|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Alleculinae|Cteniopodini|Cteniopus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|phylum|subphylum|unranked clade|superclass|class|subclass|unranked clade|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|67103|272902|85324|67124|67134|18891|83659|273389|133899|56637|133932|183849|69148|69199|69391|70546|69559|69560|209801|209800",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cistela",
+      "name": "Cistela",
+      "odds": 29212.483154747068,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ela": 20.021743069396628
+          }
+        }
+      },
+      "start": 465,
+      "end": 472,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "209678",
+          "matchedName": "Cistela Fabricius 1775",
+          "matchedCanonical": "Cistela",
+          "currentName": "Cteniopus Solier 1835",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Bilateria|Eubilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Endopterygota|Coleopterida|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Alleculinae|Cteniopodini|Cteniopus",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|phylum|subphylum|unranked clade|superclass|class|subclass|unranked clade|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|67103|272902|85324|67124|67134|18891|83659|273389|133899|56637|133932|183849|69148|69199|69391|70546|69559|69560|209801|209800",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "C. atra.",
+      "name": "C. atra",
+      "odds": 3616.4840014823385,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tra": 8.759512592861025
+          }
+        }
+      },
+      "start": 1375,
+      "end": 1383,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Cistela atra,",
+      "name": "Cistela atra",
+      "odds": 227661352.05040327,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ela": 20.021743069396628
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tra": 8.759512592861025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1468,
+      "end": 1481,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "129422490",
+          "matchedName": "Cistela atra",
+          "matchedCanonical": "Cistela atra",
+          "currentName": "Cistela atra",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    }
+  ]
+}

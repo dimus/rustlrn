@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:44.580480663-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 232,
+    "total_candidates": 25,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Melanopsis,",
+      "name": "Melanopsis",
+      "odds": 127461.49242330735,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 682,
+      "end": 693,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54934481",
+          "matchedName": "Melanopsis",
+          "matchedCanonical": "Melanopsis",
+          "currentName": "Melanopsis",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Cerithioidea|Melanopsidae|Melanopsis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778776|54781570|54781669|54934481",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pirena,",
+      "name": "Pirena",
+      "odds": 57377.32905153204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ena": 77.58425439391193
+          }
+        }
+      },
+      "start": 698,
+      "end": 705,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:1063034",
+          "matchedName": "Melania (Pirena) Lamarck, 1822",
+          "matchedCanonical": "Melania subgen. Pirena",
+          "currentName": "Faunus Montfort, 1810",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda||Cerithioidea|Pachychilidae|Faunus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:382204|urn:lsid:marinespecies.org:taxname:14769|urn:lsid:marinespecies.org:taxname:411651|urn:lsid:marinespecies.org:taxname:581168",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fusus.",
+      "name": "Fusus",
+      "odds": 2824.7980396484077,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sus": 5.318275502808479
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 941,
+      "end": 947,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:446048",
+          "matchedName": "Fusus Bruguière, 1789",
+          "matchedCanonical": "Fusus",
+          "currentName": "Fusinus Rafinesque, 1815",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Neogastropoda|Buccinoidea|Fasciolariidae|Fusininae|Fusinus",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:51|urn:lsid:marinespecies.org:taxname:101|urn:lsid:marinespecies.org:taxname:224570|urn:lsid:marinespecies.org:taxname:146|urn:lsid:marinespecies.org:taxname:382214|urn:lsid:marinespecies.org:taxname:23038|urn:lsid:marinespecies.org:taxname:411758|urn:lsid:marinespecies.org:taxname:138002",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

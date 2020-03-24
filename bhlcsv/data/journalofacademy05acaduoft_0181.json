@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:12.02576847-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 182,
+    "total_candidates": 21,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Xyletinus,",
+      "name": "Xyletinus",
+      "odds": 571431.426521481,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 493,
+      "end": 503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55060103",
+          "matchedName": "Xyletinus",
+          "matchedCanonical": "Xyletinus",
+          "currentName": "Xyletinus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Anobiidae|Xyletinus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54770159|55060103",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. sericeus.",
+      "name": "X. sericeus",
+      "odds": 2945148.1782186627,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 516,
+      "end": 528,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anobium,",
+      "name": "Anobium",
+      "odds": 72469.429364661,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 1218,
+      "end": 1226,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54798648",
+          "matchedName": "Anobium",
+          "matchedCanonical": "Anobium",
+          "currentName": "Anobium",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Bostrichoidea|Anobiidae|Anobium",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769859|54770159|54798648",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

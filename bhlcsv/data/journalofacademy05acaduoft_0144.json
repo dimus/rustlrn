@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:48.171727389-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 205,
+    "total_candidates": 21,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Trinomial",
+      "verbatim": "Calyx erectus coloratus",
+      "name": "Calyx erectus coloratus",
+      "odds": 206652484925.4834,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          },
+          "uniEnd3": {
+            "lyx": 10.010871534698314
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispLen": {
+            "9": 3.2165803672730324
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 555,
+      "end": 578,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54825314",
+          "matchedName": "Calyx",
+          "matchedCanonical": "Calyx",
+          "currentName": "Calyx",
+          "classificationPath": "Animalia|Porifera|Demospongiae|Haplosclerida|Phloeodictyidae|Calyx",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54777062|54777063|54780961|54781006|54825314",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Streptanthus,",
+      "name": "Streptanthus",
+      "odds": 220621.77259396494,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          }
+        }
+      },
+      "start": 938,
+      "end": 951,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55031987",
+          "matchedName": "Streptanthus",
+          "matchedCanonical": "Streptanthus",
+          "currentName": "Streptanthus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Streptanthus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767868|54767869|54767870|54771336|54771337|55031987",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

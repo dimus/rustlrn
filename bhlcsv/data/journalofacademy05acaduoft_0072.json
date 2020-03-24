@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:54:04.683839246-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 242,
+    "total_candidates": 33,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea exilis,",
+      "name": "Ardea exilis",
+      "odds": 213267352722.66638,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 59,
+      "end": 72,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "4408435",
+          "matchedName": "Ardea exilis Gmelin, 1789",
+          "matchedCanonical": "Ardea exilis",
+          "currentName": "Ixobrychus exilis (Gmelin, 1789)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Pelecaniformes|Ardeidae|Ixobrychus|Ixobrychus exilis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|212|7190953|3685|2480843|2480852",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. \r\r\n lencogaster,",
+      "name": "A. lencogaster",
+      "odds": 69636.3290898727,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 483,
+      "end": 502,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ardea virescens,",
+      "name": "Ardea virescens",
+      "odds": 126865134228.10336,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dea": 80.08697227758651
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          }
+        }
+      },
+      "start": 1432,
+      "end": 1448,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 132,
+          "dataSourceTitle": "ZooBank",
+          "taxonId": "89232101",
+          "matchedName": "Ardea vireſcens Linnaeus 1758",
+          "matchedCanonical": "Ardea virescens",
+          "currentName": "Ardea vireſcens Linnaeus 1758",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

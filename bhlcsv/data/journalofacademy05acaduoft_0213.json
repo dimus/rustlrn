@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:55:31.057606992-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 218,
+    "total_candidates": 21,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Tenebrio seruginosus,",
+      "name": "Tenebrio seruginosus",
+      "odds": 1121323.2856392732,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rio": 1.2513589418372895
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          }
+        }
+      },
+      "start": 356,
+      "end": 377,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55038700",
+          "matchedName": "Tenebrio",
+          "matchedCanonical": "Tenebrio",
+          "currentName": "Tenebrio",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae|Tenebrio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54776886|55038700",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tenebrio rufipes,",
+      "name": "Tenebrio rufipes",
+      "odds": 3009137482.8382764,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rio": 1.2513589418372895
+          },
+          "spEnd3": {
+            "pes": 37.54076825511868
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1144,
+      "end": 1161,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55038700",
+          "matchedName": "Tenebrio",
+          "matchedCanonical": "Tenebrio",
+          "currentName": "Tenebrio",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae|Tenebrio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54767749|54767750|54767854|54769840|54776886|55038700",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

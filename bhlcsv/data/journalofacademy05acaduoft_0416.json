@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:33.313617971-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 242,
+    "total_candidates": 108,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Mercenaria,",
+      "name": "Mercenaria",
+      "odds": 102904.69113074354,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 101,
+      "end": 112,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54935550",
+          "matchedName": "Mercenaria",
+          "matchedCanonical": "Mercenaria",
+          "currentName": "Mercenaria",
+          "classificationPath": "Animalia|Mollusca|Bivalvia|Venerida|Veneroidea|Veneridae|Mercenaria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54778769|54778878|54782148|54782149|54935550",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salmo,",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 487,
+      "end": 493,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55014062",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54768893|54768894|55014062",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "[Salmo",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 494,
+      "end": 500,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55014062",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54767745|54767759|54768893|54768894|55014062",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nodosa,",
+      "name": "Nodosa",
+      "odds": 382.7808452690068,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 609,
+      "end": 616,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "926030-1",
+          "matchedName": "Dorema subsect. Nodosa Pimenov",
+          "matchedCanonical": "Dorema subsect. Nodosa",
+          "currentName": "Dorema subsect. Nodosa Pimenov",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Natica",
+      "name": "Natica",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ica": 0.8073283495724448
+          }
+        }
+      },
+      "start": 636,
+      "end": 642,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54948380",
+          "matchedName": "Natica",
+          "matchedCanonical": "Natica",
+          "currentName": "Natica",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Naticoidea|Naticidae|Natica",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778796|54782196|54782197|54948380",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Turbo.",
+      "name": "Turbo",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 977,
+      "end": 983,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "55051305",
+          "matchedName": "Turbo",
+          "matchedCanonical": "Turbo",
+          "currentName": "Turbo",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Trochida|Trochoidea|Turbinidae|Turbo",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54779393|54779394|54782028|55051305",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Loligo,",
+      "name": "Loligo",
+      "odds": 1850.8815823074851,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "igo": 2.5027178836745785
+          }
+        }
+      },
+      "start": 1380,
+      "end": 1387,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54924960",
+          "matchedName": "Loligo",
+          "matchedCanonical": "Loligo",
+          "currentName": "Loligo",
+          "classificationPath": "Animalia|Mollusca|Cephalopoda|Myopsida|Loliginidae|Loligo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "54767744|54775053|54775054|54781871|54782220|54924960",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

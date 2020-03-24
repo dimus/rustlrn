@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "date": "2020-03-24T03:57:36.204455039-05:00",
+    "FinderVersion": "v0.9.1-6-g3d81f20",
+    "language": "eng",
+    "language_detected": "",
+    "detect_language": false,
+    "total_words": 222,
+    "total_candidates": 133,
+    "total_names": 5
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Encrinus,",
+      "name": "Encrinus",
+      "odds": 386154.5306166342,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 231,
+      "end": 240,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "urn:lsid:marinespecies.org:taxname:480263",
+          "matchedName": "Encrinus Lamarck, 1801",
+          "matchedCanonical": "Encrinus",
+          "currentName": "Encrinus Lamarck, 1801",
+          "classificationPath": "Biota|Animalia|Echinodermata|Crinozoa|Crinoidea|Articulata|Encrinida|Encrinidae|Encrinus",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|genus",
+          "classificationIDs": "urn:lsid:marinespecies.org:taxname:1|urn:lsid:marinespecies.org:taxname:2|urn:lsid:marinespecies.org:taxname:1806|urn:lsid:marinespecies.org:taxname:147423|urn:lsid:marinespecies.org:taxname:123081|urn:lsid:marinespecies.org:taxname:183494|urn:lsid:marinespecies.org:taxname:484684|urn:lsid:marinespecies.org:taxname:484685|urn:lsid:marinespecies.org:taxname:480263",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Coleoptera,",
+      "name": "Coleoptera",
+      "odds": 6758.558534308289,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 556,
+      "end": 567,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54767854",
+          "matchedName": "Coleoptera",
+          "matchedCanonical": "Coleoptera",
+          "currentName": "Coleoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "54767744|54767749|54767750|54767854",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Neuroptera,",
+      "name": "Neuroptera",
+      "odds": 204250.22027465765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 574,
+      "end": 585,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54768404",
+          "matchedName": "Neuroptera",
+          "matchedCanonical": "Neuroptera",
+          "currentName": "Neuroptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "54767744|54767749|54767750|54768404",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Navalis.",
+      "name": "Navalis",
+      "odds": 245.10960960135804,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 986,
+      "end": 994,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "54948559",
+          "matchedName": "Navalis",
+          "matchedCanonical": "Navalis",
+          "currentName": "Navalis",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Truncatelloidea|Hydrobiidae|Navalis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "54767744|54775053|54777335|54778796|54781597|54782247|54948559",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Belemnites;",
+      "name": "Belemnites",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1176,
+      "end": 1187,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "15843",
+          "matchedName": "Belemnites",
+          "matchedCanonical": "Belemnites",
+          "currentName": "Belemnites",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Bilateria|Eubilateria|Protostomia|Spiralia|Schizocoela|Mollusca|Cephalopoda|Belemnitida|Belemnites",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|phylum|class|order|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|67103|272902|85324|85326|272903|7805|12315|15832|15843",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}
