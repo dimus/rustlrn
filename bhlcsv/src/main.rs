@@ -54,6 +54,8 @@ struct BestResult {
     current_name: Option<String>,
     #[serde(rename(deserialize = "matchType"))]
     match_type: String,
+    #[serde(rename(deserialize = "editDistance"))]
+    edit_distance: Option<u8>,
 }
 
 fn main() {
@@ -63,6 +65,7 @@ fn main() {
         "name",
         "odds",
         "match_type",
+        "edit_distance",
         "matched_name",
         "source",
     ])
@@ -93,12 +96,17 @@ where
             let odds = format!("{:.2}", n.odds);
             let br = n.verification.best_result;
             let matched_name = br.matched_name.unwrap_or("".to_owned());
+            let mut edit_distance = br.edit_distance.unwrap_or(0).to_string();
+            if br.match_type == "NoMatch" {
+                edit_distance = "".to_owned();
+            }
             let source = br.data_source.unwrap_or("".to_owned());
             wtr.write_record(&[
                 &page_id,
                 &n.name,
                 &odds,
                 &br.match_type,
+                &edit_distance,
                 &matched_name,
                 &source,
             ])?;
