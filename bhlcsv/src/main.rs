@@ -4,6 +4,8 @@ use std::error::Error;
 use std::fs;
 use std::io;
 
+const BHL_URL: &str = "https://beta.biodiversitylibrary.org/item/79357#page/";
+
 #[derive(Deserialize, Debug, Clone, Default)]
 struct Page {
     #[serde(skip_deserializing)]
@@ -80,7 +82,7 @@ fn output<W>(wtr: &mut csv::Writer<W>, page: Page) -> Result<(), Box<dyn Error>>
 where
     W: io::Write,
 {
-    let page_id = page.page.to_string();
+    let page_id: String = format!("{}{}", BHL_URL, &page.page.to_string());
     let mut names = HashSet::<String>::new();
     if let Some(ns) = page.names {
         for n in ns {
