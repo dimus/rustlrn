@@ -5,3 +5,7 @@ manipulating data.
 
 * bhlcsv: creates csv representation of name-finding
 * verify: verifies a list of names against ``index.globalnames.org``
+* sherborn: cleaned up list from [INDEX ANIMALIUM / Charles Davies Sherborn 2006][sherborn]
+
+
+[sherborn]: https://www.sil.si.edu/DigitalCollections/indexanimalium/TaxonomicNames/
