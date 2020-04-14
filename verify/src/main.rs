@@ -1,33 +1,42 @@
-#[cfg(feature = "levenshtein")]
-use fst::automaton::Levenshtein;
-#[cfg(feature = "levenshtein")]
-use fst::raw::{Builder, Fst};
+use anyhow::*;
+use graphql_client::{GraphQLQuery, Response};
 
-fn main() {
-    #[cfg(feature = "levenshtein")]
-    let keys = vec!["fa", "fo", "fob", "focus", "foo", "food", "foul"];
-    #[cfg(feature = "levenshtein")]
-    let set = Set::from_iter(keys).unwrap();
+type URI = String;
 
-    #[cfg(feature = "levenshtein")]
-    let lev = Levenshtein::new("foo", 1).unwrap();
-    #[cfg(feature = "levenshtein")]
-    let mut stream = set.search(&lev).into_stream();
+#[derive(GraphQLQuery)]
+#[graphql(
+    schema_path = "src/schema.json",
+    query_path = "src/query.graphql",
+    response_derives = "Debug"
+)]
+struct Resolver;
 
-    #[cfg(feature = "levenshtein")]
-    let mut keys = vec![];
-    #[cfg(feature = "levenshtein")]
-    while let Some(key) = stream.next() {
-        keys.push(key.to_vec());
+fn main() -> Result<(), anyhow::Error> {
+    let q = Resolver::build_query(resolver::Variables {
+        names: vec![resolver::name {
+            supplied_id: None,
+            value: "Puma concolor".to_string(),
+        }],
+        sources: Some(vec![1, 11]),
+    });
+    let client = reqwest::Client::new();
+
+    let mut res = client
+        .post("http://index.globalnames.org/api/graphql")
+        .json(&q)
+        .send()?;
+
+    let response_body: Response<resolver::ResponseData> = res.json()?;
+
+    if let Some(errors) = response_body.errors {
+        println!("there are errors:");
+
+        for error in &errors {
+            println!("{:?}", error);
+        }
     }
-    #[cfg(feature = "levenshtein")]
-    assert_eq!(
-        keys,
-        vec![
-            "fo".as_bytes(),   // 1 deletion
-            "fob".as_bytes(),  // 1 substitution
-            "foo".as_bytes(),  // 0 insertions/deletions/substitutions
-            "food".as_bytes(), // 1 insertion
-        ]
-    );
+    let response_data: resolver::ResponseData = response_body.data.expect("missing response data");
+    println!("{:#?}", response_data);
+
+    Ok(())
 }
