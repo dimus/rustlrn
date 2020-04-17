@@ -67,7 +67,9 @@ fn read() {
             data.push(rec);
         }
     }
-    let mut wtr = csv::Writer::from_writer(std::io::stdout());
+    let mut wtr = csv::WriterBuilder::new()
+        .delimiter(b'\t')
+        .from_writer(std::io::stdout());
     for d in data {
         match d {
             // Data::Standard(res) => println!("{}|{}|{}", res.id, res.canonical, res.name),
