@@ -7,6 +7,7 @@ use crossbeam_channel::{Receiver, Sender};
 use error::GNParserError;
 pub use method::Method;
 use reqwest::Url;
+use serde_json::json;
 
 #[derive(Debug, Clone, Default)]
 pub struct GNParser {
@@ -30,9 +31,7 @@ impl GNParser {
 
     pub async fn parse(&self, inputs: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
         let client = reqwest::Client::new();
-        let url_str = format!("{}?q={}", self.http_url, inputs.join("|"));
-        let url = Url::parse(&url_str).unwrap();
-        let res = client.get(url.as_str()).send().await?;
+        let res = client.post(&self.http_url).json(&inputs).send().await?;
         println!("{}", res.text().await?);
         Ok(())
     }
