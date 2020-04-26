@@ -2,12 +2,12 @@ const HTTP_URL: &str = "https://parser.globalnames.org/api";
 
 mod error;
 mod method;
+mod sci_name;
 
 use crossbeam_channel::{Receiver, Sender};
 use error::GNParserError;
 pub use method::Method;
-use reqwest::Url;
-use serde_json::json;
+pub use sci_name::{Canonical, SciName};
 
 #[derive(Debug, Clone, Default)]
 pub struct GNParser {
@@ -32,7 +32,9 @@ impl GNParser {
     pub async fn parse(&self, inputs: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
         let client = reqwest::Client::new();
         let res = client.post(&self.http_url).json(&inputs).send().await?;
-        println!("{}", res.text().await?);
+
+        let sci_name: Vec<SciName> = res.json().await?;
+        println!("{:#?}", sci_name);
         Ok(())
     }
 
