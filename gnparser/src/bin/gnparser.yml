@@ -1,0 +1,18 @@
+name: gnparser
+about: Parses scientific names using remote service.
+args:
+    - INPUT:
+        help: A name-string or file to verify
+    - method:
+        short: m
+        long: method
+        takes_value: true
+        help: >
+          Method to get parsed data: "restful", "grpc", "binary".
+
+          restful: using REST API,
+
+          grpc: using gRPC end-point,
+
+          binary: using shared C-library,
+
