@@ -6,7 +6,7 @@ mod method;
 use crossbeam_channel::{Receiver, Sender};
 use error::GNParserError;
 pub use method::Method;
-use std::collections::HashMap;
+use reqwest::Url;
 
 #[derive(Debug, Clone, Default)]
 pub struct GNParser {
@@ -30,10 +30,10 @@ impl GNParser {
 
     pub fn parse(&self, inputs: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
         let client = reqwest::blocking::Client::new();
-        let mut map = HashMap::new();
-        map.insert("body", inputs);
-        let res = client.post(&self.http_url).json(&map).send()?;
-        println!("{:#?}", res);
+        let url_str = format!("{}?q={}", self.http_url, inputs.join("|"));
+        let url = Url::parse(&url_str).unwrap();
+        let req = client.get(url.as_str()).send();
+        println!("{:#?}", req.unwrap().text());
         Ok(())
     }
 
