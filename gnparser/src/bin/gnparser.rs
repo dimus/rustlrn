@@ -1,5 +1,6 @@
 use clap::crate_version;
 use crossbeam_channel::{bounded, Receiver, Sender};
+use futures::executor::block_on;
 use log::{error, info};
 use std::fs::File;
 use std::io::{self, BufRead, BufReader, Read};
@@ -14,7 +15,8 @@ use gnparser::{GNParser, Method};
 #[macro_use]
 extern crate clap;
 
-fn main() {
+#[tokio::main]
+async fn main() {
     stderrlog::new()
         .verbosity(2)
         .timestamp(Timestamp::Second)
@@ -47,7 +49,7 @@ fn main() {
                 }
             }
         } else {
-            gnp.parse(vec![input.to_string()]).unwrap();
+            block_on(gnp.parse(vec![input.to_string()])).unwrap();
         }
     } else if is_readable_stdin() {
         match parse_file(gnp, io::stdin()) {

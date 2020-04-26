@@ -28,17 +28,21 @@ impl GNParser {
         self.method = m;
     }
 
-    pub fn parse(&self, inputs: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
-        let client = reqwest::blocking::Client::new();
+    pub async fn parse(&self, inputs: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
+        let client = reqwest::Client::new();
         let url_str = format!("{}?q={}", self.http_url, inputs.join("|"));
         let url = Url::parse(&url_str).unwrap();
-        let req = client.get(url.as_str()).send();
-        println!("{:#?}", req.unwrap().text());
+        let res = client.get(url.as_str()).send().await?;
+        println!("{}", res.text().await?);
         Ok(())
     }
 
-    pub fn parse_and_format(&self, inputs: Vec<String>) {
-        self.parse(inputs).unwrap();
+    pub async fn parse_and_format(
+        &self,
+        inputs: Vec<String>,
+    ) -> Result<(), Box<dyn std::error::Error>> {
+        self.parse(inputs).await?;
+        Ok(())
     }
     pub fn parse_stream(&mut self, _in_r: Receiver<Vec<String>>, _out_s: Sender<Vec<String>>) {}
     pub fn format_outputs(&self, _outputs: Vec<String>, _is_first: bool) {}
