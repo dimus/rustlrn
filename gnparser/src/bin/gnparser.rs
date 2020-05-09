@@ -1,6 +1,8 @@
 use clap::crate_version;
-use crossbeam_channel::{bounded, Receiver, Sender};
-use futures::executor::block_on;
+// use crossbeam_channel::{bounded, Receiver, Sender};
+use futures::channel::mpsc;
+use futures::executor::{self, block_on, ThreadPool};
+use futures::stream::StreamExt;
 use log::{error, info};
 use std::fs::File;
 use std::io::{self, BufRead, BufReader, Read};
@@ -64,15 +66,11 @@ async fn main() {
     };
 }
 
-fn parse_file<'a, R>(gnp: GNParser, r: R) -> io::Result<()>
+fn async parse_file<'a, R>() -> io::Result<()>
 where
     R: Read,
 {
-    let (in_s, in_r) = bounded(0);
-    let (out_s, out_r) = bounded(0);
-    let (done_s, done_r) = bounded::<bool>(0);
-    let gnp_clone = gnp.clone();
-    let batch_size = gnp.batch_size;
+    let (in_s, in_r) = mpsc.unbounded();
     thread::spawn(move || gnp.clone().parse_stream(in_r, out_s));
     thread::spawn(move || process_outputs(gnp_clone, out_r, done_s));
 
