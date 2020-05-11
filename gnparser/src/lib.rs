@@ -29,19 +29,15 @@ impl GNParser {
         self.method = m;
     }
 
-    pub async fn parse(&self, inputs: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
-        let client = reqwest::Client::new();
-        let res = client.post(&self.http_url).json(&inputs).send().await?;
+    pub async fn parse(&self, inputs: Vec<String>) -> Result<(), surf::Exception> {
+        let mut res = surf::post(&self.http_url).body_json(&inputs)?.await?;
 
-        let sci_name: Vec<SciName> = res.json().await?;
+        let sci_name: Vec<SciName> = res.body_json().await?;
         println!("{:#?}", sci_name);
         Ok(())
     }
 
-    pub async fn parse_and_format(
-        &self,
-        inputs: Vec<String>,
-    ) -> Result<(), Box<dyn std::error::Error>> {
+    pub async fn parse_and_format(&self, inputs: Vec<String>) -> Result<(), surf::Exception> {
         self.parse(inputs).await?;
         Ok(())
     }
